@@ -1,0 +1,1802 @@
+{
+ "name": "กีฬา SportTV",
+ "author": "ดูฟรี! ไม่ขายนะครับ Copyright by Neti",
+ "image": "https://www.bettertechtips.com/wp-content/uploads/2021/07/image1__-696x385.jpg",
+ "info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+ "stations": [
+ 
+ 
+			{
+				"name": " EPL-1",
+				"image": "https://dooball2you.com/wp-content/uploads/2021/09/True-Premier-Football-HD1-1-300x86.png",
+				"imageScale": "fitStart",
+				"url": "https://cdn2.aws-live-streaming.com/lsmscore/epl3/playlist.m3u8",
+				"referer": "https://dookeela.live/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+ 
+
+{
+"name"			:	"TRUE PREMIER HD1สำรอง ",
+"image"			:	"https://dooball2you.com/wp-content/uploads/2021/09/True-Premier-Football-HD1-1-300x86.png",
+"url"			:	"https://www.xn--72czaud0ezbn4b8de.com/live/player/epl1",
+"referer"		:	"https://www.xn--72czaud0ezbn4b8de.com/live/",
+"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+ 
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+			{
+				"name": " TRUE PREMIER HD1",
+				"image": "https://dooball2you.com/wp-content/uploads/2021/09/True-Premier-Football-HD1-1-300x86.png",
+				"imageScale": "fitStart",
+				"url": "https://fw4free.inwstream.com/fw4free/ch1.stream/chunklist.m3u8",
+				"referer": "https://fw4free.com/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+			{
+				"name": " TRUE PREMIER HD1",
+				"image": "https://dooball2you.com/wp-content/uploads/2021/09/True-Premier-Football-HD1-1-300x86.png",
+				"imageScale": "fitStart",
+				"url": "https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-1/playlist.m3u8",
+				"referer": "https://live-demo.iamtheme.com",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+			{
+				"name": " EPL-2",
+				"image": "https://dooball2you.com/wp-content/uploads/2021/09/True-Premier-Football-HD2-300x92.png",
+				"imageScale": "fitStart",
+				"url": "https://cdn2.aws-live-streaming.com/lsmscore/epl2/playlist.m3u8",
+				"referer": "https://dookeela.live/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+ 
+ 			{
+				"name": " TRUE PREMIER HD2",
+				"image": "https://dooball2you.com/wp-content/uploads/2021/09/True-Premier-Football-HD2-300x92.png",
+				"imageScale": "fitStart",
+				"url": "https://fw4free.inwstream.com/fw4free/ch2.stream/chunklist.m3u8",
+				"referer": "https://fw4free.com/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+{
+"name"			:	"TRUE PREMIER HD2สำรอง ",
+"image"			:	"https://dooball2you.com/wp-content/uploads/2021/09/True-Premier-Football-HD2-300x92.png",
+"url"			:	"https://www.xn--72czaud0ezbn4b8de.com/live/player/epl2",
+"referer"		:	"https://www.xn--72czaud0ezbn4b8de.com/live/",
+"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+ 
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+			{
+				"name": " EPL-3",
+				"image": "https://dooball2you.com/wp-content/uploads/2020/09/True-Premier-Football-HD3.png",
+				"imageScale": "fitStart",
+				"url": "https://www.youdooball.com/?r=tv&id=153",
+				"referer": "https://www.youdooball.com/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+{
+"name"			:	"TRUE PREMIER HD3สำรอง ",
+"image"			:	"https://dooball2you.com/wp-content/uploads/2020/09/True-Premier-Football-HD3.png",
+"url"			:	"https://www.xn--72czaud0ezbn4b8de.com/live/player/epl3",
+"referer"		:	"https://www.xn--72czaud0ezbn4b8de.com/live/",
+"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+ 
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+ 
+  			{
+				"name": " TRUE PREMIER HD3",
+				"image": "https://dooball2you.com/wp-content/uploads/2020/09/True-Premier-Football-HD3.png",
+				"imageScale": "fitStart",
+				"url": "https://www.xn--72czaud0ezbn4b8de.com/live/player/epl3",
+				"referer": "https://www.xn--72czaud0ezbn4b8de.com/live/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+			{
+				"name": " EPL-4",
+				"image": "https://dooball2you.com/wp-content/uploads/2020/09/tpf4.png",
+				"imageScale": "fitStart",
+				"url": "https://www.youdooball.com/?r=tv&id=154",
+				"referer": "https://www.youdooball.com/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+{
+"name"			:	"TRUE PREMIER HD4สำรอง ",
+"image"			:	"https://dooball2you.com/wp-content/uploads/2020/09/tpf4.png",
+"url"			:	"https://www.xn--72czaud0ezbn4b8de.com/live/player/epl4",
+"referer"		:	"https://www.xn--72czaud0ezbn4b8de.com/live/",
+"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+ 
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+ 
+			{
+				"name": " EPL-5",
+				"image": "https://dooball2you.com/wp-content/uploads/2020/09/True-Premier-Football-HD5.png",
+				"imageScale": "fitStart",
+				"url": "https://www.youdooball.com/?r=tv&id=155",
+				"referer": "https://www.youdooball.com/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+{
+"name"			:	"TRUE PREMIER HD5สำรอง ",
+"image"			:	"https://dooball2you.com/wp-content/uploads/2020/09/True-Premier-Football-HD5.png",
+"url"			:	"https://www.xn--72czaud0ezbn4b8de.com/live/player/epl5",
+"referer"		:	"https://www.xn--72czaud0ezbn4b8de.com/live/",
+"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+ 
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+ 
+			{
+				"name": " True Sport 1 HD",
+				"image": "https://dooball2you.com/wp-content/uploads/2022/01/truesporthd.png",
+				"imageScale": "fitStart",
+				"url": "https://www.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8",
+				"referer": "https://www.madoohd.com/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+ 
+ 
+			{
+				"name": " True Sport 2 HD",
+				"image": "https://dooball2you.com/wp-content/uploads/2022/01/truesporthd2.png",
+				"imageScale": "fitStart",
+				"url": "https://dolive.thaim3u.com/doo-tv-football-com/siamsport-9/playlist.m3u8?",
+				"referer": "https://doo-tv.com/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+ 			{
+				"name": " True Sport 2 สำรอง ",
+				"image": "https://dooball2you.com/wp-content/uploads/2022/01/truesporthd2.png",
+				"imageScale": "fitStart",
+				"url": "https://r3-sn-5fo-c37ed7.googleuservideo.com/ball24tv_s1/2sporthd2_480p/chunks.m3u8?nimblesessionid=129436690&wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI0IDQ6MzU6MzcgQU0maGFzaF92YWx1ZT11VzgwbERGWGxsekQ4bE5qdVk3dXNBPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MjYmaWQ9NTcxMjg0",
+				"referer": "https://www.warpballsod.tv/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+ 
+			{
+				"name": " True Sport 3 HD",
+				"image": "https://dooball2you.com/wp-content/uploads/2022/01/truesporthd3.png",
+				"imageScale": "fitStart",
+				"url": "https://dolive.thaim3u.com/doo-tv-football-com/siamsport-10/playlist.m3u8?",
+				"referer": "https://doo-tv.com/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+ 
+ 
+			{
+				"name": " True Sport 5",
+				"image": "https://dooball2you.com/wp-content/uploads/2020/09/truesport5.png",
+				"imageScale": "fitStart",
+				"url": "https://dolive.thaim3u.com/doo-tv-football-com/siamsport-11/playlist.m3u8?",
+				"referer": "https://doo-tv.com/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+ 			{
+				"name": " True Sport 5 สำรอง",
+				"image": "https://dooball2you.com/wp-content/uploads/2020/09/truesport5.png",
+				"imageScale": "fitStart",
+				"url": "https://r3-sn-5fo-c37ed7.googleuservideo.com/ball24tv_s1/2sport5_480p/chunks.m3u8?nimblesessionid=129436695&wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI0IDQ6MzY6MzkgQU0maGFzaF92YWx1ZT1QVVhNMmpieGZoZW1BeUR3WmVDOFZ3PT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MjQmaWQ9NzA4ODUz",
+				"referer": "https://www.warpballsod.tv/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+ 
+			{
+				"name": " True Sport 7",
+				"image": "https://dooball2you.com/wp-content/uploads/2020/09/truesport7.png",
+				"imageScale": "fitStart",
+				"url": "https://dolive.thaim3u.com/doo-tv-football-com/siamsport-12/playlist.m3u8?",
+				"referer": "https://doo-tv.com/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+ 			{
+				"name": " True Sport 7 สำรอง",
+				"image": "https://dooball2you.com/wp-content/uploads/2020/09/truesport7.png",
+				"imageScale": "fitStart",
+				"url": "https://r3-sn-5fo-c37ed7.googleuservideo.com/ball24tv_s1/2sport7_480p/chunks.m3u8?nimblesessionid=129436696&wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI0IDQ6Mzg6MDAgQU0maGFzaF92YWx1ZT1aTWVDVk5Fb3RidUJDVmdMV3VmTDJBPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MjQmaWQ9NzQwNjkw",
+				"referer": "https://www.warpballsod.tv/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+ 
+			{
+				"name": " Bein Sport 1",
+				"image": "https://dooball2you.com/wp-content/uploads/2020/09/beinsports1.png",
+				"imageScale": "fitStart",
+				"url": "https://dolive.thaim3u.com/doo-tv-football-com/siamsport-6/playlist.m3u8?",
+				"referer": "https://doo-tv.com/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+ 			{
+				"name": " Bein1",
+				"image": "https://dooball2you.com/wp-content/uploads/2020/09/beinsports1.png",
+				"imageScale": "fitStart",
+				"url": "https://r3-sn-5fo-c37ed7.googleuservideo.com/ball24tv_s1/beinsport1_480p/chunks.m3u8?nimblesessionid=129436683&wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI0IDQ6MzM6NDggQU0maGFzaF92YWx1ZT1mQ096NHZGYzlXQXh3V0tzVjZncnlnPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MjcmaWQ9Njg4NjEw",
+				"referer": "https://www.warpballsod.tv/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+ 
+ 			{
+				"name": " Bein2",
+				"image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png",
+				"imageScale": "fitStart",
+				"url": "https://dookeela.live/live-tv/bein2",
+				"referer": "https://dookeela.live/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+			{
+				"name": " Bein Sport 3",
+				"image": "https://dooball2you.com/wp-content/uploads/2022/04/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87beinsport3-2.png",
+				"imageScale": "fitStart",
+				"url": "https://dolive.thaim3u.com/doo-tv-football-com/siamsport-7/playlist.m3u8?",
+				"referer": "https://doo-tv.com/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+			{
+				"name": " Bein3",
+				"image": "https://dooball2you.com/wp-content/uploads/2022/04/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87beinsport3-2.png",
+				"imageScale": "fitStart",
+				"url": "https://r3-sn-5fo-c37ed7.googleuservideo.com/ball24tv_s1/beinsporthd3_480p/chunks.m3u8?nimblesessionid=129436685&wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI0IDQ6MzQ6MzAgQU0maGFzaF92YWx1ZT1HVlRWcXNJUUdTcHZDQjV5L1R6eVBRPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MjkmaWQ9Mzc1OTA4",
+				"referer": "https://www.warpballsod.tv/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+ 
+
+ 
+			{
+				"name": " NBA True",
+				"image": "https://www.warpballsod.tv/wp-content/themes/ballsod/logo/truenba.png",
+				"imageScale": "fitStart",
+				"url": "https://r3-sn-5fo-c37ed7.googleuservideo.com/ball24tv_s1/2nba_480p/chunks.m3u8?nimblesessionid=129436697&wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI0IDQ6NDI6MjYgQU0maGFzaF92YWx1ZT1FMVdodG5iS1hJNjVSL2JtdVBaZ2lnPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MjEmaWQ9NzMzOTgy",
+				"referer": "https://www.warpballsod.tv/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+ 
+ 
+			{
+				"name": " Espnus",
+				"image": "https://www.warpballsod.tv/wp-content/themes/ballsod/logo/espnus.png",
+				"imageScale": "fitStart",
+				"url": "https://r3-sn-5fo-c37ed7.googleuservideo.com/ball24tv_s4/espnus/chunks.m3u8?nimblesessionid=129436704&wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI0IDQ6NDY6NTkgQU0maGFzaF92YWx1ZT0yOUM3WUg4dUZxZU8zZVhDU1d3eVZnPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MTgmaWQ9NTMwMjcw",
+				"referer": "https://www.warpballsod.tv/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+ 
+ 
+			{
+				"name": " Ais Sport 1",
+				"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT1.png",
+				"imageScale": "fitStart",
+				"url": "https://cdn1.googlecdn.live/dooballrealtime/trueballthai1/playlist.m3u8",
+				"referer": "https://www.dooballrealtime.com",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+ 
+ 
+			{
+				"name": " Ais Sport 2",
+				"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT2.png",
+				"imageScale": "fitStart",
+				"url": "https://cdn1.googlecdn.live/dooballrealtime/trueballthai2/playlist.m3u8",
+				"referer": "https://www.dooballrealtime.com",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+ 
+ 
+			{
+				"name": " Ais Sport 3",
+				"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT3.png",
+				"imageScale": "fitStart",
+				"url": "https://dolive.thaim3u.com/doo-tv-football-com/football-play-3/playlist.m3u8?",
+				"referer": "https://doo-tv.com/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+ 
+ 
+			{
+				"name": " Ais Sport 4",
+				"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT4.png",
+				"imageScale": "fitStart",
+				"url": "https://dolive.thaim3u.com/doo-tv-football-com/football-play-4/playlist.m3u8?",
+				"referer": "https://doo-tv.com/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+ 
+			{
+				"name": " Ais Sport 4",
+				"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT4.png",
+				"imageScale": "fitStart",
+				"url": "https://hdd.dooseries2uhd.com/series?id=11&ss=2467&poster=https://dooseries2uhd.com/wp-content/themes/dooseries2u/img/hd_freeplay.jpg",
+				"referer": "https://dooseries2uhd.com",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"embed": "true"},
+ 
+{
+				"name": " True Premier Football 1 สำรอง",
+				"image": "https://dooball2you.com/wp-content/uploads/2021/09/True-Premier-Football-HD1-1-300x86.png",
+				"imageScale": "fitStart",
+				"url": "https://dookeela.live/live-tv/epl1_sd",
+				"referer": "https://dookeela.live/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+{
+				"name": " True Premier Football 3 สำรอง",
+				"image": "https://dooball2you.com/wp-content/uploads/2020/09/True-Premier-Football-HD3.png",
+				"imageScale": "fitStart",
+				"url": "https://dookeela.live/live-tv/epl3",
+				"referer": "https://dookeela.live/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+ 
+{
+				"name": " Bein1 สำรอง",
+				"image": "https://dooball2you.com/wp-content/uploads/2020/09/beinsports1.png",
+				"imageScale": "fitStart",
+				"url": "https://dookeela.live/live-tv/bein1",
+				"referer": "https://dookeela.live/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+{
+				"name": " Bein2 สำรอง",
+				"image": "https://dooball2you.com/wp-content/uploads/2020/09/beinsports1.png",
+				"imageScale": "fitStart",
+				"url": "https://dookeela.live/live-tv/bein2",
+				"referer": "https://dookeela.live/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+{
+				"name": " Bein3 สำรอง",
+				"image": "https://dooball2you.com/wp-content/uploads/2022/04/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87beinsport3-2.png",
+				"imageScale": "fitStart",
+				"url": "https://dookeela.live/live-tv/bein3",
+				"referer": "https://dookeela.live/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+{
+				"name": " Truesport1 สำรอง",
+				"image": "https://dooball2you.com/wp-content/uploads/2022/01/truesporthd.png",
+				"imageScale": "fitStart",
+				"url": "https://dookeela.live/live-tv/tsp1",
+				"referer": "https://dookeela.live/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+{
+				"name": " Truesport2 สำรอง",
+				"image": "https://dooball2you.com/wp-content/uploads/2022/01/truesporthd2.png",
+				"imageScale": "fitStart",
+				"url": "https://dookeela.live/live-tv/tsp2",
+				"referer": "https://dookeela.live/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+{
+				"name": " WWEมวยปล่ำ ",
+				"image": "https://dookeela.live/uploads/1696317392.png",
+				"imageScale": "fitStart",
+				"url": "https://dookeela.live/live-tv/wwe",
+				"referer": "https://dookeela.live/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+{
+				"name": " Astro1 ",
+				"image": "https://dookeela.live/uploads/1664580131.png",
+				"imageScale": "fitStart",
+				"url": "https://dookeela.live/live-tv/astro1",
+				"referer": "https://dookeela.live/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+{
+				"name": " Astro2 ",
+				"image": "https://dookeela.live/uploads/1664580131.png",
+				"imageScale": "fitStart",
+				"url": "https://dookeela.live/live-tv/astro2",
+				"referer": "https://dookeela.live/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+{
+				"name": " TrueidSports1 ",
+				"image": "https://dookeela.live/uploads/1721811966.png",
+				"imageScale": "fitStart",
+				"url": "https://dookeela.live/live-tv/trueidsports1",
+				"referer": "https://dookeela.live/live-tv/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+{
+				"name": " trueidSports2 ",
+				"image": "https://dookeela.live/uploads/1721812080.png",
+				"imageScale": "fitStart",
+				"url": "https://dookeela.live/live-tv/trueidsports2",
+				"referer": "https://dookeela.live/live-tv/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+{
+				"name": " Bein1 TH ",
+				"image": "https://dookeela.live/uploads/1664500365.png",
+				"imageScale": "fitStart",
+				"url": "https://dookeela.live/live-tv/bein1",
+				"referer": "https://dookeela.live/live-tv/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+{
+				"name": " Bein2 TH ",
+				"image": "https://dookeela.live/uploads/1690843424.png",
+				"imageScale": "fitStart",
+				"url": "https://dookeela.live/live-tv/bein2",
+				"referer": "https://dookeela.live/live-tv/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+{
+				"name": " Bein3 TH ",
+				"image": "https://dookeela.live/uploads/1663980670.png",
+				"imageScale": "fitStart",
+				"url": "https://dookeela.live/live-tv/bein3",
+				"referer": "https://dookeela.live/live-tv/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+{
+				"name": " SportTv1 ",
+				"image": "https://dookeela.live/uploads/1663979709.png",
+				"imageScale": "fitStart",
+				"url": "https://dookeela.live/live-tv/sporttv1",
+				"referer": "https://dookeela.live/live-tv/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+{
+				"name": " SportTv2 ",
+				"image": "https://dookeela.live/uploads/1663979801.png",
+				"imageScale": "fitStart",
+				"url": "https://dookeela.live/live-tv/sporttv2",
+				"referer": "https://dookeela.live/live-tv/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+{
+				"name": " SportTv3 ",
+				"image": "https://dookeela.live/uploads/1663980327.png",
+				"imageScale": "fitStart",
+				"url": "https://dookeela.live/live-tv/sporttv3",
+				"referer": "https://dookeela.live/live-tv/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+{
+				"name": " 3bbSports1 ",
+				"image": "https://dookeela.live/uploads/1720429672.png",
+				"imageScale": "fitStart",
+				"url": "https://dookeela.live/live-tv/3bbsports1",
+				"referer": "https://dookeela.live/live-tv/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+{
+				"name": " OlympicSpecial1 ",
+				"image": "https://dookeela.live/uploads/1721337116.png",
+				"imageScale": "fitStart",
+				"url": "https://dookeela.live/live-tv/now-olympicspecial1",
+				"referer": "https://dookeela.live/live-tv/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+{
+				"name": " OlympicSpecial2 ",
+				"image": "https://dookeela.live/uploads/1722245437.png",
+				"imageScale": "fitStart",
+				"url": "https://dookeela.live/live-tv/now-olympicspecial2",
+				"referer": "https://dookeela.live/live-tv/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+{
+				"name": " OlympicSpecial3 ",
+				"image": "https://dookeela.live/uploads/1722247256.png",
+				"imageScale": "fitStart",
+				"url": "https://dookeela.live/live-tv/now-olympicspecial3",
+				"referer": "https://dookeela.live/live-tv/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+{
+				"name": " MLB ",
+				"image": "https://dookeela.live/uploads/1695548172.png",
+				"imageScale": "fitStart",
+				"url": "https://dookeela.live/live-tv/mlb",
+				"referer": "https://dookeela.live/live-tv/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+{
+				"name": " NBA TV ",
+				"image": "https://dookeela.live/uploads/1664532126.png",
+				"imageScale": "fitStart",
+				"url": "https://dookeela.live/live-tv/nba",
+				"referer": "https://dookeela.live/live-tv/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+{
+				"name": " SkysportsArena ",
+				"image": "https://dookeela.live/uploads/1664540905.png",
+				"imageScale": "fitStart",
+				"url": "https://dookeela.live/live-tv/skysportarena",
+				"referer": "https://dookeela.live/live-tv/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+{
+				"name": " SkysportsF1 ",
+				"image": "https://dookeela.live/uploads/1712888821.png",
+				"imageScale": "fitStart",
+				"url": "https://dookeela.live/live-tv/skysportsf1",
+				"referer": "https://dookeela.live/live-tv/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+{
+				"name": " SkysportsFootBall ",
+				"image": "https://dookeela.live/uploads/1664576894.png",
+				"imageScale": "fitStart",
+				"url": "https://dookeela.live/live-tv/skysportfootball",
+				"referer": "https://dookeela.live/live-tv/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+{
+				"name": " SkysportsGolf ",
+				"image": "https://dookeela.live/uploads/1712888702.png",
+				"imageScale": "fitStart",
+				"url": "https://dookeela.live/live-tv/skysportsgolf",
+				"referer": "https://dookeela.live/live-tv/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+
+{
+"name": "3BB Sports 1",
+"image": "https://dookeela.live/uploads/1720429672.png",
+"url": "https://dookeela.live/live-tv/3bbsports1",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "SIAMSPORT 1",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT1.png",
+"url": "https://dookeela.live/live-tv/siamsport1#",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "SIAMSPORT 2",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT2.png",
+"url": "https://dookeela.live/live-tv/siamsport2#",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "SIAMSPORT 3",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT3.png",
+"url": "https://dookeela.live/live-tv/siamsport3#",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "SIAMSPORT 4",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT4.png",
+"url": "https://dookeela.live/live-tv/siamsport4#",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{
+"name": " True Ball Thai 1",
+"image": "https://dookeela.live/uploads/1691371195.png",
+"url": "https://cdn1.googlecdn.live/dooballrealtime/trueballthai1/playlist.m3u8",
+"referer": "https://www.dooballrealtime.com",
+"playInNatPlayer": "true"
+},
+
+{
+"name": " True Ball Thai 2",
+"image": "https://dookeela.live/uploads/1691444816.png",
+"url": "https://cdn1.googlecdn.live/dooballrealtime/trueballthai2/playlist.m3u8",
+"referer": "https://www.dooballrealtime.com",
+"playInNatPlayer": "true"
+},
+
+{
+"name": " True Ball Thai 3",
+"image": "https://dookeela.live/uploads/1691444826.png",
+"url": "https://cdn1.googlecdn.live/dooballrealtime/trueballthai3/playlist.m3u8",
+"referer": "https://www.dooballrealtime.com",
+"playInNatPlayer": "true"
+},
+
+{
+"name": " True Ball Thai 4",
+"image": "https://dookeela.live/uploads/1707502708.png",
+"url": "https://cdn1.googlecdn.live/dooballrealtime/trueballthai4/playlist.m3u8",
+"referer": "https://www.dooballrealtime.com",
+"playInNatPlayer": "true"
+},
+,
+{  
+name:"BEIN SPORT 1 TH",
+image:"https://dooball2you.com/wp-content/uploads/2020/09/beinsports1.png.webp",
+"url":"https://www.ufa77.fun/channel?ch=bein1",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+
+{  
+name:"BEIN SPORT 2 TH",
+image:"https://dooball2you.com/wp-content/uploads/2020/09/beinsport2-300x73.png.webp",
+"url":"https://www.ball24.tv/allchannel/?id=bein2",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+
+{  
+name:"BEIN SPORT 3 TH",
+image:"https://dooball2you.com/wp-content/uploads/2022/04/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87beinsport3-2-300x73.png.webp",
+"url":"https://www.ufa77.fun/channel?ch=bein3",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"SPOTV",
+image:"https://www.ball24hr.com/wp-content/uploads/2022/04/sportv.jpg",
+"url":"https://www.ufa77.fun/channel?ch=spotv1",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"SPOTV 2",
+image:"https://www.ball24hr.com/wp-content/uploads/2022/04/sportv2.jpg",
+"url":"https://www.ufa77.fun/channel?ch=spotv2",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Trueid Sport",
+image:"https://cms.dmpcdn.com/livetv/2023/09/25/c3898e20-5b4f-11ee-a599-1d1a4f7c1125_webp_original.webp",
+"url":"https://www.ball24.tv/allchannel/?id=trueidsport",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+
+
+{  
+name:"Premier Football HD 1",
+image:"https://www.img10.xyz/assets/img/ch_logo/doomovie-epl1.png",
+"url":"https://www.ufa77.fun/channel?ch=epl1",
+"referer": "",
+"userAgent": "ExoPlayerLib/2.15.1"
+},
+
+
+
+{  
+name:"Premier Football HD 2",
+image:"https://www.img06.xyz/assets/img/ch_logo/doomovie-epl2.png",
+"url":"https://www.ufa77.fun/channel?ch=epl2",
+"referer": "",
+"userAgent": "ExoPlayerLib/2.15.1"
+},
+
+
+{  
+name:"Premier Football HD 3",
+image:"https://www.img05.xyz/assets/img/ch_logo/doomovie-epl3.png",
+"url":"https://www.ufa77.fun/channel?ch=epl3",
+"referer": "",
+"userAgent": "ExoPlayerLib/2.15.1"
+},
+
+{  
+name:"Premier Football HD 4",
+image:"https://www.img02.xyz/assets/img/ch_logo/doomovie-epl4.png",
+"url":"https://www.ufa77.fun/channel?ch=epl4",
+"referer": "",
+"userAgent": "ExoPlayerLib/2.15.1"
+},
+
+
+{  
+name:"Premier Football HD 5",
+image:"https://www.img06.xyz/assets/img/ch_logo/doomovie-epl5.png",
+"url":"https://www.ufa77.fun/channel?ch=epl5",
+"referer": "",
+"userAgent": "ExoPlayerLib/2.15.1"
+},
+
+
+{  
+name:"TrueSport 1",
+image:"https://dookeela.live/uploads/1664802455.png",
+"url":"https://www.ufa77.fun/channel?ch=truesporthd",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"TrueSport 2",
+image:"https://dookeela.live/uploads/1664499966.png",
+"url":"https://www.ufa77.fun/channel?ch=truesporthd2",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+
+{  
+name:"TrueSport 3",
+image:"https://dookeela.live/uploads/1664802480.png",
+"url":"https://www.ufa77.fun/channel?ch=truesporthd3",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+
+{
+name:"TrueSport 5",
+image:"https://dookeela.live/uploads/1664847910.png",
+"url":"https://www.ufa77.fun/channel?ch=truesport5",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+
+{  
+name:"TrueSport 7",
+image:"https://dookeela.live/uploads/1664847921.png",
+"url":"https://www.ufa77.fun/channel?ch=truesport7",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+
+{  
+name:"True Tennis",
+image:"https://rentapi.blackboxsys.net/images/png/hd-tennis.png",
+"url":"https://www.ufa77.fun/channel?ch=truetennis",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+
+{  
+name:"Golf Channel Thailand HD 2",
+image:"https://dooball2you.com/wp-content/uploads/2023/09/golf-channel-thailand-plus.jpg",
+"url":"https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=hd-golf2",
+"referer": "https://playerembed-lb.blackboxsys.net/player.php",
+"userAgent": "ExoPlayerLib/2.15.1"
+},
+
+
+
+{  
+name:"NBA HD",
+image:"https://www.img10.xyz/assets/img/ch_logo/hd-nba.png",
+"url":"https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=us-nba",
+"referer": "https://playerembed-lb.blackboxsys.net/player.php",
+"userAgent": "ExoPlayerLib/2.15.1"
+},
+
+
+{
+"name": "Sky Sports Football UK",
+"image": "https://rentapi.blackboxsys.net/images/png/uk-skysports-football.png",
+"url": "https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=uk-skysports-football",
+"referer": "https://playerembed-lb.blackboxsys.net/player.php",
+"userAgent": "ExoPlayerLib/2.15.1"
+},
+
+
+{
+"name": "Sky Sports Premier League UK",
+"image": "https://rentapi.blackboxsys.net/images/png/uk-skysports-epl.png",
+"url": "https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=uk-skysports-epl",
+"referer": "https://playerembed-lb.blackboxsys.net/player.php",
+"userAgent": "ExoPlayerLib/2.15.1"
+},
+
+
+{
+"name": "Sky Sports Main Event UK",
+"image": "https://rentapi.blackboxsys.net/images/png/uk-skysports-mainevent.png",
+"url": "https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=uk-skysports-mainevent",
+"referer": "https://playerembed-lb.blackboxsys.net/player.php",
+"userAgent": "ExoPlayerLib/2.15.1"
+},
+
+{
+"name": "Sky Sports Arena",
+"image": "https://rentapi.blackboxsys.net/images/png/uk-skysports-arena.png",
+"url":"https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=uk-skysports-arena",
+"referer": "https://playerembed-lb.blackboxsys.net/player.php",
+"userAgent": "ExoPlayerLib/2.15.1"
+},
+
+{
+"name": "Sky Sports golf",
+"image": "https://www.ballhd24.live/wp-content/themes/ballhd24_api_live11/logo/skysportgolf.png",
+"url":"https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=uk-skysports-golf",
+"referer": "https://playerembed-lb.blackboxsys.net/player.php",
+"userAgent": "ExoPlayerLib/2.15.1"
+},
+
+{
+"name": "Sky Sports F1",
+"image": "https://dookeela.live/uploads/1712888821.png",
+"url":"https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=uk-skysports-f1",
+"referer": "https://playerembed-lb.blackboxsys.net/player.php",
+"userAgent": "ExoPlayerLib/2.15.1"
+},
+
+{
+"name": "Sky Sports Mix",
+"image": "https://dookeela.live/uploads/1712889285.png",
+"url":"https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=uk-skysports-mix",
+"referer": "https://playerembed-lb.blackboxsys.net/player.php",
+"userAgent": "ExoPlayerLib/2.15.1"
+},
+
+{
+"name": "Sky Sports Tennis",
+"image": "https://dookeela.live/uploads/1712889076.png",
+"url":"https://dookeela.live/live-tv/skysportstennis",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "TNT Sport 1",
+"image": "https://rentapi.blackboxsys.net/images/png/uk-btsport1hd.png",
+"url": "https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=uk-btsport1hd",
+"referer": "https://playerembed-lb.blackboxsys.net/player.php",
+"userAgent": "ExoPlayerLib/2.15.1"
+},
+
+{
+"name": "TNT Sport 2",
+"image": "https://rentapi.blackboxsys.net/images/png/uk-btsport2hd.png",
+"url": "https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=uk-btsport2hd",
+"referer": "https://playerembed-lb.blackboxsys.net/player.php",
+"userAgent": "ExoPlayerLib/2.15.1"
+},
+
+{
+"name": "TNT Sport 3",
+"image":"https://rentapi.blackboxsys.net/images/png/uk-btsport3hd.png",
+"url": "https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=uk-btsport3hd",
+"referer": "https://playerembed-lb.blackboxsys.net/player.php",
+"userAgent": "ExoPlayerLib/2.15.1"
+},
+
+{
+"name": "TNT Sport 4",
+"image":"https://upload.wikimedia.org/wikipedia/en/6/6b/TNT_Sports_4_logo.png",
+"url": "https://dookeela.live/live-tv/btsport4#",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+
+{  
+name:"MU TV",
+image:"https://www.img03.xyz/assets/img/ch_logo/uk-mutv.jpg",
+"url":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"LFC TV",
+image:"https://ufa77.tv/data/ufa77live/stream/img_ch/20201015234027_1602779966739.jpg",
+"url":"https://www.ball24.tv/allchannel/?id=lfctv",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"RM TV(ES)",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBXnO8ojVWTiB14uFB5sVRuiR4EZosXco-WQ&usqp=CAU",
+"url":"https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"RM TV(EN)",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBXnO8ojVWTiB14uFB5sVRuiR4EZosXco-WQ&usqp=CAU",
+"url":"https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"FS1",
+image:"https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/640px-2015_Fox_Sports_1_logo.svg.png",
+"url":"https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=us-foxsports1",
+"referer": "https://playerembed-lb.blackboxsys.net/player.php",
+"userAgent": "ExoPlayerLib/2.15.1"
+},
+
+{  
+name:"FS2",
+image:"https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/640px-FS2_logo_2015.svg.png",
+"url":"https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=us-foxsports2",
+"referer": "https://playerembed-lb.blackboxsys.net/player.php",
+"userAgent": "ExoPlayerLib/2.15.1"
+},
+
+{
+"name": "ESPN",
+"image": "https://rentapi.blackboxsys.net/images/png/us-espn1.png",
+"url": "https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=us-espn1",
+"referer": "https://playerembed-lb.blackboxsys.net/player.php",
+"userAgent": "ExoPlayerLib/2.15.1"
+},
+
+{
+"name": "ESPN 2",
+"image": "https://rentapi.blackboxsys.net/images/png/us-espn2.png",
+"url": "https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=us-espn2",
+"referer": "https://playerembed-lb.blackboxsys.net/player.php",
+"userAgent": "ExoPlayerLib/2.15.1"
+},
+
+{
+"name": "BBC 1",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/640px-BBC_One_logo_2021.svg.png",
+"url": "https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=uk-bbc1hd",
+"referer": "https://playerembed-lb.blackboxsys.net/player.php",
+"userAgent": "ExoPlayerLib/2.15.1"},
+
+{
+"name": "TSN 1",
+"image": "https://rentapi.blackboxsys.net/images/png/ca-tsn1.png",
+"url": "https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=ca-tsn1",
+"referer": "https://playerembed-lb.blackboxsys.net/player.php",
+"userAgent": "ExoPlayerLib/2.15.1"
+},
+
+{
+"name": "TSN 2",
+"image": "https://rentapi.blackboxsys.net/images/png/ca-tsn2.png",
+"url": "https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=ca-tsn2",
+"referer": "https://playerembed-lb.blackboxsys.net/player.php",
+"userAgent": "ExoPlayerLib/2.15.1"
+},
+
+{
+"name": "TSN 3",
+"image": "https://rentapi.blackboxsys.net/images/png/ca-tsn3.png",
+"url": "https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=ca-tsn3",
+"referer": "https://playerembed-lb.blackboxsys.net/player.php",
+"userAgent": "ExoPlayerLib/2.15.1"},
+
+{
+"name": "TSN 4",
+"image": "https://rentapi.blackboxsys.net/images/png/ca-tsn4.png",
+"url": "https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=ca-tsn4",
+"referer": "https://playerembed-lb.blackboxsys.net/player.php",
+"userAgent": "ExoPlayerLib/2.15.1"
+},
+
+{
+"name": "TSN 5",
+"image": "https://rentapi.blackboxsys.net/images/png/ca-tsn5.png",
+"url": "https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=ca-tsn5",
+"referer": "https://playerembed-lb.blackboxsys.net/player.php",
+"userAgent": "ExoPlayerLib/2.15.1"
+},
+
+{
+"name": "Sky Sports 1 New Zealand",
+"image": "https://rentapi.blackboxsys.net/images/png/nz-skysport1.png",
+"url": "https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=nz-skysport1",
+"referer": "https://playerembed-lb.blackboxsys.net/player.php",
+"userAgent": "ExoPlayerLib/2.15.1"
+},
+
+
+{
+"name": "Sky Sports 7 New Zealand",
+"image": "https://rentapi.blackboxsys.net/images/png/nz-skysport7.png",
+"url": "https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=nz-skysport7",
+"referer": "https://playerembed-lb.blackboxsys.net/player.php",
+"userAgent": "ExoPlayerLib/2.15.1"
+},
+
+{
+"name": "Sky Sports 8 New Zealand",
+"image": "https://rentapi.blackboxsys.net/images/png/nz-skysport8.png",
+"url": "https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=nz-skysport8",
+"referer": "https://playerembed-lb.blackboxsys.net/player.php",
+"userAgent": "ExoPlayerLib/2.15.1"
+},
+
+
+{  
+name:"Viaplay Sports 1",
+image:"https://img2.sport-tv-guide.live/images/stations/a95.png",
+"url":"https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=uk-premiersports",
+"referer": "https://playerembed-lb.blackboxsys.net/player.php",
+"userAgent": "ExoPlayerLib/2.15.1"
+},
+
+{  
+name:"Viaplay Sports 2",
+image:"https://img2.sport-tv-guide.live/images/stations/a1442.png",
+"url":"https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=uk-premiersports2",
+"referer": "https://playerembed-lb.blackboxsys.net/player.php",
+"userAgent": "ExoPlayerLib/2.15.1"
+},
+
+
+{  
+name:" ITV 1 HD (UK)",
+image:"https://freetvdd.com/wp-content/uploads/2019/12/itv-hd.png",
+"url":"https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=uk-itv1hd",
+"referer": "https://playerembed-lb.blackboxsys.net/player.php",
+"userAgent": "ExoPlayerLib/2.15.1"
+},
+
+{  
+name:"Eurosport 1 UK",
+image:"https://rentapi.blackboxsys.net/images/png/uk-eurosport.png",
+"url":"https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=uk-eurosport",
+"referer": "https://playerembed-lb.blackboxsys.net/player.php",
+"userAgent": "ExoPlayerLib/2.15.1"
+},
+
+{  
+name:"Eurosport 2 UK",
+image:"https://rentapi.blackboxsys.net/images/png/uk-eurosport2.png",
+"url":"https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=uk-eurosport2",
+"referer": "https://playerembed-lb.blackboxsys.net/player.php",
+"userAgent": "ExoPlayerLib/2.15.1"
+},
+
+
+{  
+name:"Sport TV 1",
+image:"https://dookeela.live/uploads/1663979709.png",
+"url":"https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=pt-sporttv1",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Sport TV 2",
+image:"https://dookeela.live/uploads/1663979801.png",
+"url":"https://dookeela.live/live-tv/sporttv2",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Sport TV 3",
+image:"https://dookeela.live/uploads/1663980327.png",
+"url":"https://dookeela.live/live-tv/sporttv3",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Sport TV 4",
+image:"https://dookeela.live/uploads/1664041351.png",
+"url":"https://dookeela.live/live-tv/sporttv4",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Sport TV 5",
+image:"https://dookeela.live/uploads/1664125991.png",
+"url":"https://dookeela.live/live-tv/sporttv5",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+  
+{  
+name:"Astro Arena",
+image:"https://dookeela.live/uploads/1697812603.png",
+"url":"https://dookeela.live/live-tv/astroarena#",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{
+"name":"WWE",
+"image":"https://mitvhacks.com/wp-content/uploads/2022/04/WWE-Network-on-Mi-TV-Stick-1.png",
+"url":"https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=us-wwe",
+"referer": "https://playerembed-lb.blackboxsys.net/player.php",
+"userAgent": "ExoPlayerLib/2.15.1"},
+
+{  
+name:"NFL Network",
+image:"https://dookeela.live/uploads/1694909293.png",
+"url":"https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=us-nfl",
+"referer": "https://playerembed-lb.blackboxsys.net/player.php",
+"userAgent": "ExoPlayerLib/2.15.1"},
+
+{
+"name":"CCTV-5",
+"image":"https://www.tvchinese.net/uploads/tv/cctv5.jpg",
+"url":"http://hplayer.ggapk.net/tv_player/clappr.php?url=https://k99441.kylintv.tv/live/cctv5hd_iphone.m3u8",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"CCTV-5+ Sports Events",
+image:"https://www.tvchinese.net/uploads/tv/cctv5+.jpg",
+"url":"http://hplayer.ggapk.net/tv_player/clappr.php?url=http://43.132.64.50/outlivecloud-cdn.ysp.cctv.cn/ysp/2024078003.m3u8",
+"playInNatPlayer": "true"
+},
+
+
+{  
+name:"Astro Sports 2",
+image:"https://dookeela.live/uploads/1664580131.png",
+"url":"https://en.gdplayertv.to/live-tv/astro-supersport/",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+
+
+  			{
+				"name": " Astro Sports 1",
+				"image": "https://dookeela.live/uploads/1664580131.png",
+				"imageScale": "fitStart",
+				"url": "https://en.gdplayertv.to/live-tv/astro-supersport/",
+				"referer": "https://en.gdplayertv.to/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+
+
+
+  			{
+				"name": " Astro Sports 2",
+				"image": "https://dookeela.live/uploads/1664580131.png",
+				"imageScale": "fitStart",
+				"url": "https://en.gdplayertv.to/live-tv/astro-supersport-2",
+				"referer": "https://en.gdplayertv.to/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+
+{  
+name:"BEIN1",
+image:"https://static.wikia.nocookie.net/logopedia/images/9/94/BE_IN_SPORT_1_HD_2013.jpg",
+"url":"https://cdn2.aws-live-streaming.com/lsmscore/bein1/playlist.m3u8",
+"referer": ":https://99dooball.com/",
+"playInNatPlayer": "true"
+},
+{  
+name:"BEIN2",
+image:"https://static.wikia.nocookie.net/logopedia/images/9/94/BE_IN_SPORT_1_HD_2013.jpg",
+"url":"https://cdn2.aws-live-streaming.com/lsmscore/bein2/playlist.m3u8",
+"referer": ":https://99dooball.com/",
+"playInNatPlayer": "true"
+},
+{  
+name:"BEIN3",
+image:"https://static.wikia.nocookie.net/logopedia/images/9/94/BE_IN_SPORT_1_HD_2013.jpg",
+"url":"https://cdn2.aws-live-streaming.com/lsmscore/bein3/playlist.m3u8",
+"referer": ":https://99dooball.com/",
+"playInNatPlayer": "true"
+},
+{  
+name:"BEIN4",
+image:"https://static.wikia.nocookie.net/logopedia/images/9/94/BE_IN_SPORT_1_HD_2013.jpg",
+"url":"https://cdn2.aws-live-streaming.com/lsmscore/bein4/playlist.m3u8",
+"referer": ":https://99dooball.com/",
+"playInNatPlayer": "true"
+},
+{  
+name:"BEIN5",
+image:"https://static.wikia.nocookie.net/logopedia/images/9/94/BE_IN_SPORT_1_HD_2013.jpg",
+"url":"https://cdn2.aws-live-streaming.com/lsmscore/bein5/playlist.m3u8",
+"referer": ":https://99dooball.com/",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"BEIN6",
+image:"https://static.wikia.nocookie.net/logopedia/images/9/94/BE_IN_SPORT_1_HD_2013.jpg",
+"url":"https://cdn2.aws-live-streaming.com/lsmscore/bein6/playlist.m3u8",
+"referer": ":https://99dooball.com/",
+"playInNatPlayer": "true"
+},
+
+
+
+{
+"name": "True Premier Football HD 1",
+"image": "https://dl.dropbox.com/scl/fi/m39ntjxh0s3b4vilskmfc/epl1.png?rlkey=o0nbk82n3bpqil97lg8vhp6k2&dl=0",
+"info":"DKL",
+"url": "https://cdn1.googlecdn.live/4k/epl1_sd/playlist.m3u8",
+"referer": "https://dookeela.live/"},
+ 
+ 
+ 
+{
+"name"			:	"True Premier Football HD 1",
+"image"			:	"https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"info":"freetvdd",
+"url"			:	"https://streaming.livescorethai.net/iptv/epl-1.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+ 
+{"name": "True Premier Football HD 1",
+"image": "https://www.img09.xyz/assets/img/ch_logo/doomovie-epl1.png",
+"info":"youdooball.com",
+"url": "https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8",
+"referer": "https://www.youdooball.com/"},
+ 
+ 
+{
+"name": "True Premier Football HD 1",
+"info":  "BSB. livescorethai.net",
+"image": "https://www.img09.xyz/assets/img/ch_logo/doomovie-epl1.png",
+"url": "https://streaming.livescorethai.net/iptv/bsb-epl1.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net"},
+ 
+ 
+{"name": "True Premier Football HD 1","image": "https://api-soccer.thai-play.com/images/tv/FxKl1hWHCcaRmo9ZOIiE2HnUJygUQCNTrue_Premier_Football_HD_1.png","url":"https://dolive.thaim3u.com/xn--12c1bs8ba0c0esd.live/siamsport-1/playlist.m3u8","referer": "https://live-demo.iamtheme.com/","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33","info": "SIAMZEED"},
+ 
+ 
+{"name": "True Premier Football HD 1",
+"image": "https://www.img09.xyz/assets/img/ch_logo/doomovie-epl1.png",
+"info":"Baygonhero_Heng99",
+"url": "https://www.heng99bet.com/live/epl1",
+"referer": "https://www.heng99bet.com/live/epl1"},
+ 
+ 
+ 
+{
+"name": "True Premier Football HD 2",
+"image": "https://dl.dropbox.com/scl/fi/7ka1ta3gldxjyhy7mxh8a/epl2.png?rlkey=w1u2auevfdxr9y1utwjfighil&dl=0",
+"info":"DKL",
+"url": "https://cdn2.aws-live-streaming.com/lsmscore/epl2/playlist.m3u8",
+"referer": "https://dookeela.live/"},
+ 
+ 
+{
+"name"			:	"True Premier Football HD 2",
+"image"			:	"https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/epl-2.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+ 
+ 
+{"name": "True Premier Football HD 2",
+"image": "https://www.img09.xyz/assets/img/ch_logo/doomovie-epl2.png",
+"info":"youdooball.com",
+"url": "https://sport.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8",
+"referer": "https://www.youdooball.com/"},
+ 
+ 
+{
+"name": "True Premier Football HD 2",
+"info":  "BSB. livescorethai.net",
+"image": "https://www.img09.xyz/assets/img/ch_logo/doomovie-epl2.png",
+"url": "https://streaming.livescorethai.net/iptv/bsb-epl2.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net"},
+ 
+ 
+{"name": "True Premier Football HD 2","image": "https://api-soccer.thai-play.com/images/tv/8cdpTAZzt5KNu2QcIpOSJbKsBZHCXfHa1819.png","url": "https://dolive.thaim3u.com/xn--12c1bs8ba0c0esd.live/siamsport-2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNS8yMDI0IDU6NTc6MzEgUE0maGFzaF92YWx1ZT13NW5IWjZkK2JGUlFiUjBBUEN1ZkZBPT0mdmFsaWRtaW51dGVzPTYw","referer": "https://live-demo.iamtheme.com/","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33","info": "SIAMZEED"},
+ 
+ 
+{"name": "True Premier Football HD 2",
+"image": "https://www.img09.xyz/assets/img/ch_logo/doomovie-epl2.png",
+"info":"Baygonhero_Heng99",
+"url": "https://www.heng99bet.com/live/epl2",
+"referer": "https://www.heng99bet.com/live/epl1"},
+ 
+ 
+ 
+ 
+{
+"name": "True Premier Football HD 3",
+"image": "https://dl.dropbox.com/scl/fi/vf9ip98bvwt8xlzauvi55/epl3.png?rlkey=xtqwebs1zrftkped4dykbmsrp&dl=0",
+"info":"DKL",
+"url": "https://cdn2.aws-live-streaming.com/lsmscore/epl3/playlist.m3u8",
+"referer": "https://dookeela.live/"},
+ 
+ 
+ 
+{
+"name"			:	"True Premier Football HD 3",
+"image"			:	"https://cms.dmpcdn.com/livetv/2022/01/12/251d71d0-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/epl-3.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+ 
+{"name": "True Premier Football HD 3",
+"image": "https://www.img09.xyz/assets/img/ch_logo/doomovie-epl3.png",
+"info":"youdooball.com",
+"url": "https://sport.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8",
+"referer": "https://www.youdooball.com/"},
+ 
+ 
+ 
+{"name": "True Premier Football HD 3","image": "https://api-soccer.thai-play.com/images/tv/Nm0iqmsKCLZBxlYShlSp702TjLUpEFkTrue_Premier_Football_HD_3.png","url": "https://dolive.thaim3u.com/xn--12c1bs8ba0c0esd.live/siamsport-3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNS8yMDI0IDY6MDA6NDcgUE0maGFzaF92YWx1ZT12am55eWtXYjlnbWd4aGhrWTlyRzRRPT0mdmFsaWRtaW51dGVzPTYw","referer": "https://live-demo.iamtheme.com/","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33","info": "SIAMZEED"},
+ 
+ 
+{"name": "True Premier Football HD 3",
+"image": "https://www.img09.xyz/assets/img/ch_logo/doomovie-epl3.png",
+"info":"Baygonhero_Heng99",
+"url": "https://www.heng99bet.com/live/epl3",
+"referer": "https://www.heng99bet.com/live/epl1"},
+ 
+ 
+{
+"name": "True Premier Football HD 4",
+"image": "https://cms.dmpcdn.com/livetv/2022/01/12/257296b0-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+"info":"DKL",
+"url": "https://cdn2.aws-live-streaming.com/lsmscore/epl4/playlist.m3u8",
+"referer": "https://dookeela.live/"},
+ 
+ 
+{
+"name"			:	"True Premier Football HD 4",
+"image"			:	"https://cms.dmpcdn.com/livetv/2022/01/12/257296b0-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/epl-4.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+ 
+ 
+{"name": "True Premier Football HD 4",
+"image": "https://www.img09.xyz/assets/img/ch_logo/doomovie-epl4.png",
+"info":"youdooball.com",
+"url": "https://sport.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8",
+"referer": "https://www.youdooball.com/"},
+ 
+ 
+{
+"name": "True Premier Football HD 4",
+"info":  "BSB. livescorethai.net",
+"image": "https://www.img09.xyz/assets/img/ch_logo/doomovie-epl4.png",
+"url": "https://streaming.livescorethai.net/iptv/bsb-epl4.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net"},
+ 
+{"name": "True Premier Football HD 4","image": "https://api-soccer.thai-play.com/images/tv/w3dj8zkTukWC49JZSm1kzXqIa3lDljitv-station-true-premier-football-4-1821.png","url": "https://dolive.thaim3u.com/xn--12c1bs8ba0c0esd.live/siamsport-4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNS8yMDI0IDY6MDA6NDcgUE0maGFzaF92YWx1ZT12am55eWtXYjlnbWd4aGhrWTlyRzRRPT0mdmFsaWRtaW51dGVzPTYw","referer": "https://live-demo.iamtheme.com/","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33","info": "SIAMZEED"},
+ 
+ 
+{"name": "True Premier Football HD 4",
+"image": "https://www.img09.xyz/assets/img/ch_logo/doomovie-epl4.png",
+"info":"Baygonhero_Heng99",
+"url": "https://www.heng99bet.com/live/epl4",
+"referer": "https://www.heng99bet.com/live/epl1"},
+ 
+ 
+{
+"name": "True Premier Football HD 5",
+"image": "https://cms.dmpcdn.com/livetv/2022/01/12/25d3c980-7374-11ec-8066-ffb72c13e721_webp_320.png",
+"info":"DKL",
+"url": "https://cdn2.aws-live-streaming.com/lsmscore/epl5/playlist.m3u8",
+"referer": "https://dookeela.live/"},
+ 
+ 
+{
+"name"			:	"True Premier Football HD 5",
+"image"			:	"https://cms.dmpcdn.com/livetv/2022/01/12/25d3c980-7374-11ec-8066-ffb72c13e721_webp_320.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/epl-5.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+ 
+{"name": "True Premier Football HD 5",
+"image": "https://www.img09.xyz/assets/img/ch_logo/doomovie-epl5.png",
+"info":"youdooball.com",
+"url": "https://sport.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8",
+"referer": "https://www.youdooball.com/"},
+ 
+ 
+{"name": "True Premier Football HD 5","image": "https://api-soccer.thai-play.com/images/tv/lU31HrjVOMsrvGp7AVNSvQTX1JleH8ntv-station-true-premier-football-5-1822.png","url": "https://dolive.thaim3u.com/xn--12c1bs8ba0c0esd.live/siamsport-5/playlist.m3u8","referer": "https://live-demo.iamtheme.com/","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33","info": "SIAMZEED"},
+ 
+ 
+{"name": "True Premier Football HD 5",
+"image": "https://www.img09.xyz/assets/img/ch_logo/doomovie-epl5.png",
+"info":"Baygonhero_Heng99",
+"url": "https://www.heng99bet.com/live/epl5",
+"referer": "https://www.heng99bet.com/live/epl1"},
+ 
+ 
+{
+"name"		: "True Sport HD 1 (TH)",
+"image"		: "https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+"url"		: "https://streaming.livescorethai.net/iptv/hd-tsport1.stream/chunks.m3u8",
+"info"		: "FreeTVdd",
+"referer"	: "https://freetvdd.com/"
+},
+ 
+ 
+ 
+{
+"name"		: "True Sport HD 2 (TH)",
+"image"		: "https://cms.dmpcdn.com/livetv/2022/01/12/285432d0-7374-11ec-8066-ffb72c13e721_webp_320.png",
+"url"		: "https://streaming.livescorethai.net/iptv/hd-tsport2.stream/chunks.m3u8",
+"info"		: "FreeTVdd",
+"referer"	: "https://freetvdd.com/"
+},
+ 
+ 
+ 
+{
+"name"		: "True Sport HD 3 (TH)",
+"image"		: "https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url"		: "https://streaming.livescorethai.net/iptv/hd-tsport3.stream/chunks.m3u8",
+"info"		: "FreeTVdd",
+"referer"	: "https://freetvdd.com/"
+},
+ 
+ 
+ 
+{
+"name"		: "True Sport HD 4 (TH)",
+"image"		: "https://cms.dmpcdn.com/livetv/2022/01/12/293236c0-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+"url"		: "https://streaming.livescorethai.net/iptv/hd-tsport4.stream/chunks.m3u8",
+"info"		: "FreeTVdd",
+"referer"	: "https://freetvdd.com/"
+},
+ 
+ 
+ 
+{
+"name"		: "True Sport HD 5 (TH)",
+"image"		: "https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",
+"url"		: "https://streaming.livescorethai.net/iptv/sd-tsport5.stream/chunks.m3u8",
+"info"		: "FreeTVdd",
+"referer"	: "https://freetvdd.com/"
+},
+ 
+ 
+ 
+{
+"name"		: "True Sport HD 7 (TH)",
+"image"		: "https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",
+"url"		: "https://streaming.livescorethai.net/iptv/sd-tsport7.stream/chunks.m3u8",
+"info"		: "FreeTVdd",
+"referer"	: "https://freetvdd.com/"
+},
+ 
+{
+"name"		: "True Tennis HD (TH)",
+"image"		: "https://cms.dmpcdn.com/livetv/2022/01/12/29936990-7374-11ec-8066-ffb72c13e721_webp_320.png",
+"url"		: "https://streaming.livescorethai.net/iptv/sd-tsport7.stream/chunks.m3u8",
+"info"		: "FreeTVdd",
+"referer"	: "https://freetvdd.com/"
+},
+ 
+ 
+ 
+{
+"name": "Supersport Variety1 ",
+"image": "https://img.inwiptv.net/postor/20240419194404Supersport_Variety1.jpg",
+"info":"",
+"url": "https://webhdrus.onlinehdhls.ru/lb/premium416/index.m3u8",
+"referer": "https://weblivehdplay.ru/"},
+ 
+ 
+ 
+{
+"name": "Supersport Variety2",
+"image": "https://img.inwiptv.net/postor/20240419194422Supersport_Variety2.jpg",
+"info":"",
+"url": "https://webhdrus.onlinehdhls.ru/lb/premium417/index.m3u8",
+"referer": "https://weblivehdplay.ru/"},
+ 
+ 
+{
+"name": "Supersport Variety3",
+"image": "https://img.inwiptv.net/postor/20240419194601Supersport_Variety3.jpg",
+"info":"",
+"url": "https://webhdrus.onlinehdhls.ru/lb/premium418/index.m3u8",
+"referer": "https://weblivehdplay.ru/"},
+ 
+ 
+{
+"name": "Supersport Variety4",
+"image": "https://img.inwiptv.net/postor/20240419194627Supersport_Variety4.jpg",
+"info":"",
+"url": "https://webhdrus.onlinehdhls.ru/lb/premium419/index.m3u8",
+"referer": "https://weblivehdplay.ru/"},
+ 
+ 
+ 
+{
+"name": "Supersport Action",
+"image": "https://img.inwiptv.net/postor/20240419194705Supersport_Action.jpg",
+"info":"",
+"url": "https://webhdrus.onlinehdhls.ru/lb/premium420/index.m3u8",
+"referer": "https://weblivehdplay.ru/"},
+ 
+ 
+{
+"name": "Supersport Blitz",
+"image": "https://img.inwiptv.net/postor/20240419194753Supersport_Blitz.jpg",
+"info":"",
+"url": "https://webhdrus.onlinehdhls.ru/lb/premium572/index.m3u8",
+"referer": "https://weblivehdplay.ru/"},
+ 
+ 
+ 
+{
+"name": "Supersport Cricket",
+"image": "https://img.inwiptv.net/postor/20240419194820Supersport_Cricket.jpg",
+"info":"",
+"url": "https://webhdrus.onlinehdhls.ru/lb/premium368/index.m3u8",
+"referer": "https://weblivehdplay.ru/"},
+ 
+ 
+ 
+ 
+{
+"name": "Supersport Football",
+"image": "https://img.inwiptv.net/postor/20240419194833Supersport_Football.jpg",
+"info":"",
+"url": "https://webhdrus.onlinehdhls.ru/lb/premium56/index.m3u8",
+"referer": "https://weblivehdplay.ru/"},
+ 
+ 
+{
+"name": "Supersport Golf",
+"image": "https://img.inwiptv.net/postor/20240419194933Supersport_Golf.jpg",
+"info":"",
+"url": "https://webhdrus.onlinehdhls.ru/lb/premium422/index.m3u8",
+"referer": "https://weblivehdplay.ru/"},
+ 
+ 
+ 
+{
+"name": "SuperSport GrandStand",
+"image": "https://img.inwiptv.net/postor/20240419194921SuperSport_GrandStand.jpg",
+"info":"",
+"url": "https://webhdrus.onlinehdhls.ru/lb/premium412/index.m3u8",
+"referer": "https://weblivehdplay.ru/"},
+ 
+ 
+ 
+ 
+{
+"name": "SuperSport Laliga",
+"image": "https://img.inwiptv.net/postor/20240419194954SuperSport_Laliga.jpg",
+"info":"",
+"url": "https://webhdrus.onlinehdhls.ru/lb/premium415/index.m3u8",
+"referer": "https://weblivehdplay.ru/"},
+ 
+{
+"name": "SuperSport Maximo1",
+"image": "https://img.inwiptv.net/postor/20240419195014SuperSport_Maximo1.jpg",
+"info":"",
+"url": "https://webhdrus.onlinehdhls.ru/lb/premium572/index.m3u8",
+"referer": "https://weblivehdplay.ru/"},
+ 
+ 
+ 
+{
+"name": "SuperSport_Motorsport",
+"image": "https://img.inwiptv.net/postor/20240419195110SuperSport_Motorsport.jpg",
+"info":"",
+"url": "https://webhdrus.onlinehdhls.ru/lb/premium424/index.m3u8",
+"referer": "https://weblivehdplay.ru/"},
+ 
+ 
+{
+"name": "Supersport Premier League",
+"image": "https://img.inwiptv.net/postor/20240419195809Supersport_ Premierleague.jpg",
+"info":"",
+"url": "https://webhdrus.onlinehdhls.ru/lb/premium414/index.m3u8",
+"referer": "https://weblivehdplay.ru/"},
+ 
+ 
+ 
+{
+"name": "Supersport PSL",
+"image": "https://img.inwiptv.net/postor/20240419195830Supersport_PSL.jpg",
+"info":"",
+"url": "https://webhdrus.onlinehdhls.ru/lb/premium413/index.m3u8",
+"referer": "https://weblivehdplay.ru/"},
+ 
+ 
+ 
+ 
+ 
+ 
+{
+"name": "Supersport Rugby",
+"image": "https://img.inwiptv.net/postor/20240419195851Supersport_Rugby.jpg",
+"info":"",
+"url": "https://webhdrus.onlinehdhls.ru/lb/premium421/index.m3u8",
+"referer": "https://weblivehdplay.ru/"},
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{
+"name": "Supersport Tennis",
+"image": "https://img.inwiptv.net/postor/20240419195909Supersport_Tennis.jpg",
+"info":"",
+"url": "https://webhdrus.onlinehdhls.ru/lb/premium423/index.m3u8",
+"referer": "https://weblivehdplay.ru/"},
+ 
+ 
+ 
+{
+"name": "FIGHT SPORT",
+"image": "https://img.inwiptv.net/postor/20240419195925FIGHT_SPORTS.jpg",
+"info":"",
+"url": "https://webhdrus.onlinehdhls.ru/lb/premium757/index.m3u8",
+"referer": "https://weblivehdplay.ru/"},
+ 
+ 
+ 
+{
+"name": "RS SportKlub1",
+"image": "https://rentapi.blackboxsys.net/images/png/rs-sportklub1.png",
+"info":"",
+"url": "https://webhdrus.onlinehdhls.ru/lb/premium101/index.m3u8",
+"referer": "https://weblivehdplay.ru/"},
+ 
+ 
+{
+"name": "RS SportKlub2",
+"image": "https://rentapi.blackboxsys.net/images/png/rs-sportklub2.png",
+"info":"",
+"url": "https://webhdrus.onlinehdhls.ru/lb/premium102/index.m3u8",
+"referer": "https://weblivehdplay.ru/"},
+ 
+ 
+{
+"name": "RS SportKlub3",
+"image": "https://rentapi.blackboxsys.net/images/png/rs-sportklub3.png",
+"info":"",
+"url": "https://webhdrus.onlinehdhls.ru/lb/premium103/index.m3u8",
+"referer": "https://weblivehdplay.ru/"},
+
+
+
+
+
+
+]
+}
+<html>
+<head>
+  <meta charset="UTF-8">
+  <link rel="shortcut icon" href="/icon.jpg" type="image/x-icon">
+  	<title>รู้น่ะคิดอะไรอยู่</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="description" content="รู้น่ะคิดอะไรอยู่"> 
+<meta http-equiv=refresh content=1;URL=https://www.google.co.th/>
+<body bgcolor="000000">
+<center>
+  <h2><img src="https://www.technologychaoban.com/wp-content/uploads/2017/08/3-1-768x576.jpg"></h2>
+</center>
+</body>
+</html>
