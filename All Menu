@@ -13,15 +13,15 @@
    ]	
   }	,
 {		
-   "name": "ดิจิตอลทีวี",		
-   "image": "https://whatphone.net/wp-content/uploads/2015/02/tv_digital01.jpg",
+   "name": "MOVIE&TV บันเทิง",		
+   "image": "https://i0.wp.com/www.korseries.com/wp-content/uploads/2022/05/mtv-squid-game-jung-ho-yeon-cover.jpg",
    "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/TV",
    "stations": [		
    ]	
   }	,
 {		
-   "name": "MOVIE&TV บันเทิง",		
-   "image": "https://i0.wp.com/www.korseries.com/wp-content/uploads/2022/05/mtv-squid-game-jung-ho-yeon-cover.jpg",
+   "name": "",		
+   "image": "",
    "url": "https://pastebin.com/raw/SjHqYcaC",
    "stations": [		
    ]	
@@ -35,7 +35,7 @@
   }	,
 {		
    "name": "กีฬา SportTV2",		
-   "image": "https://www.bettertechtips.com/wp-content/uploads/2021/07/image1__-696x385.jpg",
+   "image": "https://xn--82cyjajfb6dl4dxdsa1bj7n.com/wp-content/uploads/2023/09/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2%E0%B8%82%E0%B8%B2%E0%B8%A2%E0%B8%AD%E0%B8%B8%E0%B8%9B%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2.jpg",
    "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/All%20sport2",
    "stations": [		
    ]	
