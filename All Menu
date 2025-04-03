@@ -40,7 +40,13 @@
    "stations": [		
    ]	
   }	,
-
+{		
+   "name": "เว็บกีฬา SportTV",		
+   "image": "https://img.freepik.com/free-vector/sport-text-banner-poster-design_1308-132612.jpg",
+   "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/WepBall",
+   "stations": [		
+   ]	
+  }	,
   	
   	{		
    "name": "กดรีเฟรช ทุกครั้ง",		
