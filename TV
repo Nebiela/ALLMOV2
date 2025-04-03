@@ -1,0 +1,564 @@
+{
+ "name": "MOVIE&TV บันเทิง",
+ "author": "ดูฟรี! Copyright by Neti",
+ "image": "https://nbcpalmsprings.com/wp-content/uploads/sites/8/2021/12/BEST-MOVIES-OF-2021.jpeg",
+ "info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+ "stations": [
+ 
+ 
+			{
+				"name": " HBO",
+				"image": "https://dookeela.live/uploads/1703686191.png",
+				"imageScale": "fitStart",
+				"url": "https://dookeela.live/live-tv/hbo",
+				"referer": "https://dookeela.live/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+        {
+"name": "HBO THAI",
+"image": "https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/logohbo.png",
+"imageScale": "fitStart",
+"url": "https://omeplay.com/embed/hbo",
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36",
+        "info":"(อัพเดท/2/1/24)",
+        "embed":"true",
+        "online":"true"
+        },
+
+
+ {
+				"name": " HBO (EN) ",
+				"image": "https://dookeela.live/uploads/1703686191.png",
+				"imageScale": "fitStart",
+				"url": "https://streaming.livescorethai.net/iptv/hd-hboeng.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw",
+				"referer": "https://freetvdd.com/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+ 
+{
+				"name": " HBO Hit ",
+				"image": "https://dookeela.live/uploads/1703786599.png",
+				"imageScale": "fitStart",
+				"url": "https://dookeela.live/live-tv/hbo-hits",
+				"referer": "https://dookeela.live/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+{
+				"name": " HBO Family ",
+				"image": "https://dookeela.live/uploads/1703786776.png",
+				"imageScale": "fitStart",
+				"url": "https://dookeela.live/live-tv/hbo-family",
+				"referer": "https://dookeela.live/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+
+{
+				"name": " 3BB Asian ",
+				"image": "https://dookeela.live/uploads/1703829940.png",
+				"imageScale": "fitStart",
+				"url": "https://dookeela.live/live-tv/3bbasian",
+				"referer": "https://dookeela.live/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+ 
+{
+				"name": " Hits ",
+				"image": "https://dookeela.live/uploads/1706112791.png",
+				"imageScale": "fitStart",
+				"url": "https://dookeela.live/live-tv/hits",
+				"referer": "https://dookeela.live/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+{
+				"name": " TrueAsianMore ",
+				"image": "https://dookeela.live/uploads/1719205850.png",
+				"imageScale": "fitStart",
+				"url": "https://dookeela.live/live-tv/trueasianmore",
+				"referer": "https://dookeela.live/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+ 
+ {
+				"name": " Hits Movie ",
+				"image": "https://dookeela.live/uploads/1714100677.png",
+				"imageScale": "fitStart",
+				"url": "https://dookeela.live/live-tv/hits-movies",
+				"referer": "https://dookeela.live/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+ {
+				"name": " MOno29 ",
+				"image": "https://dookeela.live/uploads/1703787713.png",
+				"imageScale": "fitStart",
+				"url": "https://dookeela.live/live-tv/mono29",
+				"referer": "https://dookeela.live/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+ {
+				"name": " MTV Live ",
+				"image": "https://dookeela.live/uploads/1721687257.png",
+				"imageScale": "fitStart",
+				"url": "https://dookeela.live/live-tv/mtv",
+				"referer": "https://dookeela.live/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+ {
+				"name": " iQIYI ",
+				"image": "https://dookeela.live/uploads/1706405008.png",
+				"imageScale": "fitStart",
+				"url": "https://dookeela.live/live-tv/iqiyi",
+				"referer": "https://dookeela.live/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+ {
+				"name": " CineMax ",
+				"image": "https://dookeela.live/uploads/1703786799.png",
+				"imageScale": "fitStart",
+				"url": "https://dookeela.live/live-tv/cinemax",
+				"referer": "https://dookeela.live/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+
+ {
+				"name": " CineMax EN",
+				"image": "https://dookeela.live/uploads/1703786799.png",
+				"imageScale": "fitStart",
+				"url": "https://tv247.us/watch/cinemax-us-free-live-stream/",
+				"referer": "https://tv247.us/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+
+{
+				"name": " True Series ",
+				"image": "https://dookeela.live/uploads/1719205991.png",
+				"imageScale": "fitStart",
+				"url": "https://dookeela.live/live-tv/trueseries",
+				"referer": "https://dookeela.live/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+{
+				"name": " True Movie Hits ",
+				"image": "https://dookeela.live/uploads/1719803882.png",
+				"imageScale": "fitStart",
+				"url": "https://dookeela.live/live-tv/truemoviehits",
+				"referer": "https://dookeela.live/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+{
+				"name": " Movie Hits ",
+				"image": "https://drive.google.com/uc?id=1-iv4fES4umIodFOJa1ER3nBhM0hL4KQo",
+				"imageScale": "fitStart",
+				"url": "https://streaming.livescorethai.net/iptv/sd-moviehits.stream/playlist.m3u8",
+				"referer": "https://freetvdd.com/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+{
+				"name": " AXN (en)",
+				"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png",
+				"imageScale": "fitStart",
+				"url": "https://streaming.livescorethai.net/iptv/hd-axn.stream/chunks.m3u8",
+				"referer": "https://freetvdd.com/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+{
+				"name": " Warner TV  🇹🇭",
+				"image": "http://tvsmagazine.com/images/channels/sm_WARNR.jpg",
+				"imageScale": "fitStart",
+				"url": "https://streaming.livescorethai.net/iptv/hd-warnertv.stream/chunks.m3u8",
+				"referer": "https://freetvdd.com/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+
+
+{"name"              :     "CH3",
+"image"             :     "https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png",
+"url"               :     "https://www.xn--72czaud0ezbn4b8de.com/live/player/3hd",
+"referer"           :  "https://www.xn--72czaud0ezbn4b8de.com/live/",
+"playInNatPlayer"   :     "true"},
+
+
+{"name"              :     "NBT2HD",
+"image"             :     "https://cms.dmpcdn.com/livetv/2020/08/19/1ff76c00-e1f4-11ea-a0b4-232d08119930_320.png",
+"url"               :     "https://inwiptv.com/player_demo.php?channel=27189",
+"referer"           :  "",
+"playInNatPlayer"   :     "true"},
+
+
+{"name"              :     "Thai Pbs",
+"image"             :     "https://www.img01.xyz/assets/img/ch_logo/hd-tpbs.png",
+"url"               :     "https://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8",
+"referer"           :  "https://program.thaipbs.or.th/live",
+"playInNatPlayer"   :     "true"},
+
+
+{"name"              :     "ALTV4",
+"image"             :     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYBc4Yv0JZBdL9XmUPw4FABJZvx0B0yrFGJQ&usqp=CAU",
+"url"               :     "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8",
+"referer"           :  "https://www.altv.tv/live",
+"playInNatPlayer"   :     "true"},
+
+
+{"name"              :     "CH5HD",
+"image"             :     "https://tv5.co.th/tv5hd1-web/img/tv5hd_logo_light.png",
+"url"               :     "https://www.livedoomovies.com:4431/02_5HD_720p/chunklist.m3u8",
+"referer"           :  "https://www.youdooball.com/",
+"playInNatPlayer"   :     "true"},
+
+
+{"name"              :     "T Sports 7",
+"image"             :     "https://cms.dmpcdn.com/livetv/2022/02/10/e00c0e00-8a3c-11ec-8f9e-831d2ccecc69_webp_320.png",
+"url"               :     "https://www.livedoomovies.com:4431/02_T_Sports_480p/chunklist.m3u8",
+"referer":"https://www.youdooball.com/",
+"playInNatPlayer"   :     "true"},
+
+
+
+{"name"              :     "TPTV",
+"image"             :     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Thai_Parliament_TV_Logo.jpg/220px-Thai_Parliament_TV_Logo.jpg",
+"url"               :     "https://www.inwiptv.com/player_demo.php?channel=27186",
+"referer"           :  "",
+"playInNatPlayer"   :     "true"},
+
+
+{"name"              :     "TNN16",
+"image"             :     "https://cms.dmpcdn.com/livetv/2020/06/15/799524c0-aec1-11ea-a6df-39e5f68ac856_original.png",
+"url"               :     "https://inwiptv.com/player_demo.php?channel=27179",
+"referer"           :  "",
+"playInNatPlayer"   :     "true"},
+
+{"name"              :     "JKN18",
+"image"             :     "https://cms.dmpcdn.com/livetv/2021/06/15/3e4e0540-cdb4-11eb-9a22-7958179a38a7_original.png",
+"url"               :     "https://5f27aa1f6ef91.streamlock.net/jkncnbc/myStream/playlist.m3u8",
+"referer"           :  "http://www.onlinethailand.net/tv_online/JKN-Channel.php",
+"playInNatPlayer"   :     "true"},
+
+
+{"name"              :     "Nation 22",
+"image"             :     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nation_TV_Logo.svg/1200px-Nation_TV_Logo.svg.png",
+"url"               :     "https://inwiptv.com/player_demo.php?channel=27162",
+"referer"           :  "",
+"playInNatPlayer"   :     "true"},
+
+
+{"name"              :     "Workpoint",
+"image"             :     "https://worldcontentmarket.com/wp-content/uploads/bfi_thumb/Company-Logo-6xru7qiu9tatfmxm4s3bupn9ops9y9apn7xibuvy4ow.png",
+"url"               :     "https://www.livedoomovies.com:4431/02_WORKPOINT_720p/chunklist.m3u8",
+"referer"           :  "https://www.siammovie-hd.com/",
+"playInNatPlayer"   :     "true"},
+
+
+{"name"              :     "True4u",
+"image"             :     "https://www.img01.xyz/assets/img/ch_logo/sd-24u.png",
+"url"               :     "https://inwiptv.com/player_demo.php?channel=27156",
+"referer"           :  "",
+"playInNatPlayer"   :     "true"},
+
+
+{"name"              :     "GMM25",
+"image"             :     "https://www.gmm25.com/asset/img/gmm25-logo.png",
+"url"               :     "https://inwiptv.com/player_demo.php?channel=27153",
+"referer"           :  "",
+"playInNatPlayer"   :     "true"},
+
+
+{"name"              :     "CH8",
+"image"             :     "https://cms.dmpcdn.com/livetv/2019/02/26/ebe998c5-7d25-402b-ab70-46f1ad6dcc4e.png",
+"url"               :     "https://www.inwiptv.com/player_demo.php?channel=27147",
+"referer"           :  "",
+"playInNatPlayer"   :     "true"},
+
+
+{"name"              :     "MONO29",
+"image"             :     "https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png",
+"url"               :     "https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080TH.stream/playlist.m3u8
+",
+"referer"           :  "",
+"playInNatPlayer"   :     "true"},
+
+
+{"name"              :     "MCOTHD",
+"image"             :     "https://upload.wikimedia.org/wikipedia/th/thumb/0/0c/MCOT_logo_new.jpg/220px-MCOT_logo_new.jpg",
+"url"               :     "https://inwiptv.com/player_demo.php?channel=27141",
+"referer"           :  "",
+"playInNatPlayer"   :     "true"},
+
+
+{"name"              :     "ONE31",
+"image"             :     "https://upload.wikimedia.org/wikipedia/th/e/ef/Watermark-ONE.png",
+"url"               :     "https://www.livedoomovies.com:4431/02_GMMONE_720p/chunklist.m3u8",
+"referer"           :  "https://www.youdooball.com/",
+"playInNatPlayer"   :     "true"},
+
+
+{"name"              :     "Thairath TV",
+"image"             :     "https://jobs.techtalkthai.com/wp-content/uploads/2018/07/Thairath_TV321-660x330.png",
+"url"               :     "https://thairathtv2.cdn.byteark.com/fleetstream/live1/720p/index.m3u8",
+"referer"           :  "https://www.thairath.co.th/tv/live",
+"playInNatPlayer"   :     "true"},
+
+
+{"name"              :     "AMARIN HD",
+"image"             :     "https://www.amarintv.com/assets/images/logo.png",
+"url"               :     "https://www.livedoomovies.com:4431/02_AMARINHD_720p/chunklist.m3u8",
+"referer"           :  "https://www.youdooball.com/",
+"playInNatPlayer"   :     "true"},
+
+{"name"              :     "7 HD",
+"image"             :     "https://static.ch7.com/images/theme2019/icon/ic_logo_ch7hd.png?a=1",
+"url"               :     "https://www.livedoomovies.com:4431/02_7HD_720p/chunklist.m3u8",
+"referer"           :  "https://www.youdooball.com/",
+"playInNatPlayer"   :     "true"},
+
+
+{"name"              :     "PPTV HD",
+"image"             :     "https://cms.dmpcdn.com/livetv/2021/01/23/2c564460-5d75-11eb-9b73-89c5b53fdd5d_original.png",
+"url"               :     "https://www.livedoomovies.com:4431/02_PPTVHD_720p/chunklist.m3u8",
+"referer"           :  "https://www.youdooball.com/",
+"playInNatPlayer"   :     "true"},
+
+#######Gatoon#################################
+
+{"name": "ANIMAX(ENG SUB)",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/640px-Animax_logo.svg.png",
+"url": "https://dookeela.live/live-tv/animax#",
+"referer": "",
+"playInNatPlayer": "true"
+},
+ 
+{"name": "Cartoonito",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Cartoonito.png",
+"url": "https://dookeela.live/live-tv/cartoonito",
+"referer": "",
+"playInNatPlayer": "true"
+},
+ 
+{"name": "CARTOON NETWORK",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0171.png",
+"url": "https://dookeela.live/live-tv/cartoon-network",
+"playInNatPlayer": "true"
+},
+ 
+{"name": "CARTOON CLUB",
+"image": "https://cms.dmpcdn.com/livetv/2019/01/21/a01a26bb-ed4a-45c5-88a9-ff30f6bbb039.png",
+"url": "https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist_w846301590.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+ 
+ 
+{"name": "Boomerang ",
+"image": "https://media-mvtv-app.imgix.net/uploads/channel/153_x_ZS5bxCh70inMwuRt3qvI8d6WD2mBzce4.jpg",
+"url": "https://edge6a.v2h-cdn.com/boomerang/boomerang.stream/chunklist_w1109284925.m3u8",
+"playInNatPlayer": "true"
+},
+ 
+{"name": "FWTOON",
+"image": "https://img.inwiptv.net/postor/20200512162950fw teletoon(1).jpg",
+"url": "https://www.inwiptv.com/player_demo.php?channel=92941",
+"referer": "",
+"playInNatPlayer": "true"
+},
+ 
+{
+"name":"TRUE SPARK Play",
+"image":"https://cms.dmpcdn.com/livetv/2017/10/18/fc9ea58f-72b7-44a4-b27b-3179df6c8445.png",
+"url": "https://dookeela.live/live-tv/truesparkplay",
+"playInNatPlayer": "true"
+},
+ 
+{
+"name":"DreamWorks",
+"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/800px-DreamWorks_Channel_Logo.svg.png",
+"url":"https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=hd-dreamworks", 
+"referer": "https://playerembed-lb.blackboxsys.net/player.php",
+"userAgent": "ExoPlayerLib/2.15.1"
+},
+ 
+{"name": "CBeebies",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/CBeebies_2023.svg/512px-CBeebies_2023.svg.png",
+"url": "https://dookeela.live/live-tv/cbeebies#",
+"referer": "",
+"playInNatPlayer": "true"
+},
+ 
+{"name": "Nick Jr",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/Nickjr_2024.png",
+"url": "https://dookeela.live/live-tv/nickjr",
+"referer": "",
+"playInNatPlayer": "true"
+},
+ 
+{"name": "Nickelodeon",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_Nickelodeon2.png",
+"url": "https://dookeela.live/live-tv/nickelodeon",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+################สารคดี#####################
+
+{name:"ANIMAL PLANET",image:"https://sv1.picz.in.th/images/2022/10/07/p2KZbb.png",url:"https://dookeela.live/live-tv/animal-planet","referer": "https://dookeela.live","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"},
+ 
+{name:"WILD",image:"https://sv1.picz.in.th/images/2022/10/07/p25sh1.png","url": "http://31.220.3.170/play/live.php?mac=00:1A:79:BF:E6:64&stream=11374&extension=ts&play_token", "referer": "https://freetvdd.com","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"},
+
+{name:"WILD LIFE",image:"https://img5.pic.in.th/file/secure-sv1/image4c94565edb3023a3.png","url": "https://d1vp12yk4i8ou5.cloudfront.net/playlist720p.m3u8", "referer": "https://freetvdd.com","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"},
+
+{name:"WILD PLANET",image:"https://img2.pic.in.th/pic/6661ae81131ac2e01d5.png","url": "https://d3c7duantorcb1.cloudfront.net/amgwildplanetuk/playlist1080p.m3u8 ", "referer": " https://freetvdd.com","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"},
+
+{name:"NAT GEO WILD",image:"https://img.pic.in.th/images__1_-removebg-preview.png","url": "https://livestream.zazerconer.workers.dev/channel/UCDPk9MG2RexnOMGTD-YnSnA.m3u8 ", "referer": "https://freetvdd.com","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"},
+
+{name:"NATIONAL GEOGRAPHIC WILD",image:"https://wildtoinspire.submittable.com/Public/Custom/16803/NGW-Logo-transparent-White.png",url:"http://31.220.3.170/play/live.php?mac=00:1A:79:BF:E6:64&stream=12086&extension=ts&play_token","playInNatPlayer": "true"},
+
+{name:"ANIMAL KINGDOM",image:"https://sv1.picz.in.th/images/2022/10/20/vSr9Ml.png","url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC18/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+ 
+{name:"NATURE TIME",image:"https://sv1.picz.in.th/images/2022/11/10/vaoq5Q.png","url": "https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8","referer": "https://ustvgo.tv/", "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S"},
+ 
+{name:"REAL WILD",image:"https://img2.pic.in.th/pic/Real-Wild_1070.png","url": "https://lds-realwild-rakuten.amagi.tv/playlist.m3u8","referer": "https://lds-realwild-rakuten.amagi.tv/", "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S"},
+ 
+{"name":"สำรวจโลก",image:"https://sv1.picz.in.th/images/2022/10/07/p2W9GQ.png","url": "https://dookeela.live/live-tv/samrujlok","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+ 
+{"name":"MYSCI",image:"https://sv1.picz.in.th/images/2022/10/10/pni2iJ.png","url": "https://dookeela.live/live-tv/mysci","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+
+{name:"ของดี ประเทศไทย",image:"https://sv1.picz.in.th/images/2022/10/07/psMGUa.png","url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC31/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+ 
+{name:"ANIMAL SHOW",image:"https://sv1.picz.in.th/images/2022/10/10/pniLMP.png",url:"https://dookeela.live/live-tv/animalshow","referer": "https://wacth.tv/","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"},
+
+{name:"LOVE NATURE",image:"https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png", "url":"http://31.220.3.170/play/live.php?mac=00:1A:79:BF:E6:64&stream=115735&extension=ts&play_token","referer":"https://ufanance.co/", "info":"","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", "playInNatPlayer": "true"},
+ 
+{"name":"LOVE 4K NATURE","image": "https://sv1.picz.in.th/images/2022/10/24/vh2kMf.png","url":"https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"},
+ 
+{name:"LOVE NATURE",image:"https://sv1.picz.in.th/images/2022/10/07/p2QbCa.png",url:"https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",referer:""},
+ 
+{"name":"WILD EARTH","image":"https://img2.pic.in.th/pic/images__1_-removebg-preview526e6382f581ad15.png","url":"https://wildearth-roku.amagi.tv/masterR432p.m3u8","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+ 
+{name:"CLARITY 4K",image:"https://sv1.picz.in.th/images/2021/10/25/uq9wUl.png",url:"https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8?checkedby","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+ 
+{name:"BBC EARTH",image:"https://sv1.picz.in.th/images/2022/10/07/p2cNRW.png","url": "https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/playlist.m3u8", "referer": " https://freetvdd.com","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"},
+ 
+{name:"BBC LIFESTYLE",image:"https://sv1.picz.in.th/images/2022/10/07/p2cfM1.png","url": "http://31.220.3.170/play/live.php?mac=00:1A:79:BF:E6:64&stream=115625&extension=ts&play_token","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"},
+
+{name:"DISCOVERY",image:"https://sv1.picz.in.th/images/2022/10/07/p2R8zI.png","url":"https://dookeela.live/live-tv/discovery","referer":"https://dookeela.live/", "info":"","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", "playInNatPlayer": "true"},
+ 
+{name:"DISCOVERY ASIA",image:"https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch208_425_305","url": "https://dookeela.live/live-tv/discovery-asia","referer": "https://dookeela.live","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"},
+
+{name:"HISTORY",image:"https://miraclemarinejets.com/wp-content/uploads/history-1.png","url":"https://streaming.livescorethai.net/iptv/hd-history.stream/playlist.m3u8","referer":"https://freetvdd.com", "info":"","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", "playInNatPlayer": "true"},
+
+{"name":"TRUE EXPLORE WILD","image": "https://img2.pic.in.th/pic/true1b4a72c61001cb771ea343e629adfb2c8.png","url":"https://streaming.livescorethai.net/iptv/sd-expwild.stream/chunks.m3u8","referer": "https://freetvdd.com/","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"},
+ 
+{"name":"TRUE EXPLORE SCI","image":"https://img2.pic.in.th/pic/537ad5b0-9af8-11ee-a6ba-8b5bcfefee63_webp_original.webp","url":"http://31.220.3.170/play/live.php?mac=00:1A:79:BF:E6:64&stream=115660&extension=ts&play_token","referer":"https://ufanance.co/", "info":"","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", "playInNatPlayer": "true"},
+ 
+{name:"TRUE EXPLORE LIFE",image:"https://img2.pic.in.th/pic/486c7da0-e599-11ed-b481-1b121c78e74e_webp_original.png","url":"http://31.220.3.170/play/live.php?mac=00:1A:79:BF:E6:64&stream=115659&extension=ts&play_token","referer":"https://ufanance.co/", "info":"","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", "playInNatPlayer": "true"},
+ 
+
+
+{name:"FOOD NETWORK ENG",image:"https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png","url": "https://streaming.livescorethai.net/iptv/hd-foodeng.stream/chunks.m3u8",referer:"https://freetvdd.com/"},
+
+{name:"ASIAN FOOD CHANNEL",image:"https://sv1.picz.in.th/images/2023/11/05/ddvb4Fa.png","url": "https://streaming.livescorethai.net/iptv/sd-asianfood.stream/playlist.m3u8", "referer": "https://freetvdd.com/", "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S"},
+
+{name:"TLC",image:"https://img5.pic.in.th/file/secure-sv1/800px-TLC_Logo.svg.png","url": "https://streaming.livescorethai.net/iptv/sd-tlc.stream/playlist.m3u8","referer":"https://freetvdd.com/"},
+
+{"name":"ปลูกปัญญา","image":"https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F1d7dc8be-49df-46c7-ac16-4847229c6ab9.png&w=320&h=240","url":"http://www.trueplookpanya.com/new/tv_live?var_link=720p","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+ 
+{name:"ถิ่่นใต้",image:"https://sv1.picz.in.th/images/2022/10/07/p25XDq.png",url:"https://www.inwiptv.com/player_demo.php?channel=61235",referer:"https://www.inwiptv.com/"},
+
+{"name":"FARM TV","image":"https://img2.pic.in.th/pic/farm.png","url": "https://www.inwiptv.com/player_demo.php?channel=89429",referer:"https://www.inwiptv.com/"},
+
+{name:"CABLE CHANNEL 37",image:"https://sv1.picz.in.th/images/2022/10/07/p2R1XQ.png",url:"http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+ 
+{"name": "NATURE","image":"https://sv1.picz.in.th/images/2022/10/07/p2Ump0.png","url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be1c3f9851dd5632e2c91b2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=f7034991-33bf-11eb-bb3e-5b164828c024&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=efe33e33-7d88-4efc-9008-6a4d66c45198&userId=&serverSideAds=true",referer:""},
+ 
+{name:"WORLD OF SCIENCE",image:"https://sv1.picz.in.th/images/2022/10/07/p256Y9.png","url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC3/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+ 
+{name:"GLOBAL TREKKER",image:"https://img.pic.in.th/Global-Trekker_logo_primary.png","url": "https://dookeela.live/live-tv/global-trekker-channel","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+ 
+{name:"HARLEY DIVIDSON",image:"https://img2.pic.in.th/pic/images-removebg-preview-1.png",url:"https://hdtv.prod2.ioio.tv/broker/play/e529407a-cb61-45ce-a9ad-94f0ad5e0ad9.m3u8",referer:""},
+
+{name:"CGTN DOCUMENTARY",image:"https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",url:"https://livedoc.cgtn.com/500d/prog_index.m3u8",referer:""},
+ 
+{name:"LOUPE",image:"https://images.squarespace-cdn.com/content/55f79bede4b0917adab94052/1611005142885-LJJTKDYMQJ7S6SQ8L182/Program-Guide-Channel-Logo_Loupe.png?content-type=image%2Fpng",url:"http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+ 
+{name:"DMAX",image:"https://img2.pic.in.th/pic/dmax.png",url:"https://streaming.livescorethai.net/iptv/uk-dmax.stream/chunks.m3u8",referer:"https://freetvdd.com/"},
+ 
+{name:"DISCOVERY HISTORY",image:"https://img2.pic.in.th/pic/9d13b0fc-4ff1-3be9-bf3e-9a551780fbdf.png","url": "https://streaming.livescorethai.net/iptv/uk-discoveryhistory.stream/chunks.m3u8","referer": "https://freetvdd.com/","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"},
+ 
+{name:"DISCOVERY TORBO",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png","url": "https://streaming.livescorethai.net/iptv/uk-discoveryturbo.stream/chunks.m3u8","referer": "https://freetvdd.com/","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"},
+ 
+{name:"HUNT CHANNEL",image:"https://www.pngkit.com/png/full/206-2062370_hunt-hunt-channel.png",url:"https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+ 
+{name:"OUTSIDE TV",image:"https://images.squarespace-cdn.com/content/5d4990d25e751100013dfc06/1566935946485-2L3KNVSCKP6AJ53PKV2D/OTV_OutsideTV_Logo_Cropped_RGB.png?format=1500w&content-type=image%2Fpng",url:"https://outside-tv.samsung.wurl.com/manifest/playlist.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+ 
+{"name":"NASA","image": "https://img2.pic.in.th/pic/NASA_logo.svg.png", "url": "https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+ 
+ 
+
+{name:"FOODLE CHANNEL",image:"https://img2.pic.in.th/pic/5838_Gallery.png","url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC6/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+{name:"HOUSE CHANNEL",image:"https://img2.pic.in.th/pic/Screenshot_20231104_215547_Gallery-removebg-preview.png","url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC17/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+{"name":"TV5 MONDE ASIE",image:"https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_810/LANDSCAPE_43/aUwEJIgo.png","url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC10/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+{name:"TV5 MONDE STYLE",image:"https://img2.pic.in.th/pic/imagesf9d088a67bf2cc5e.png","url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC25/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+{name:"TVE",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/900px-Logo_TVE-Internacional.svg.png","url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC4/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+{name:"RAI ITALIA",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1200px-Rai_Italia_-_Logo_2017.svg.png","url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC7/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+{"name":"RT",image:"https://www.i-pic.info/i/05ls643102.png","url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC9/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+{name:"DW",image:"https://www.i-pic.info/i/3StH643106.png","url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC12/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+{"name":"DUBAI",image:"https://www.i-pic.info/i/Eb3F643110.png","url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC15/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+{"name":"CNA",image:"https://www.i-pic.info/i/WCe5643117.png","url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC16/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+{name:"EURONEWS",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/2560px-Euronews_2016_logo.svg.png","url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC35/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+{name:"FRANCE 24",image:"https://webdoc.france24.com/10years-france24-international-news-channel/img/logo_f24.png","url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC34/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+{"name":"BLOOMBERG",image:"https://www.i-pic.info/i/mWA2667630.png","url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC36/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+{"name":"YTN",image:"https://www.i-pic.info/i/jYbc667632.png","url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC44/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+{"name":"CGTN",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png","url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC51/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+{name:"РOCCИЯ",image:"https://www.i-pic.info/i/CYOA667634.png","url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC57/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+
+
+
+
+]
+}
+<html>
+<head>
+  <meta charset="UTF-8">
+  <link rel="shortcut icon" href="/icon.jpg" type="image/x-icon">
+  	<title>รู้น่ะคิดอะไรอยู่</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="description" content="รู้น่ะคิดอะไรอยู่"> 
+<meta http-equiv=refresh content=1;URL=https://www.google.co.th/>
+<body bgcolor="000000">
+<center>
+  <h2><img src="https://www.technologychaoban.com/wp-content/uploads/2017/08/3-1-768x576.jpg"></h2>
+</center>
+</body>
+</html>
