@@ -1,7 +1,7 @@
 {		
  "name": "MOVIEหนัง&ดูTVบอล",		
  "author": "กดรีเฟรช ประสาน มุมขวาบน By Neti ดูฟรีกันไป",				
- "url": "",	
+ "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/All%20Menu",	
  "image": "https://img.freepik.com/premium-vector/national-sports-day-vector-illustration-with-sportsperson-from-different-sport-flat-cartoon_2175-16026.jpg?w=996",		
  "groups": [		
 
@@ -19,13 +19,7 @@
    "stations": [		
    ]	
   }	,
-{		
-   "name": "",		
-   "image": "",
-   "url": "https://pastebin.com/raw/SjHqYcaC",
-   "stations": [		
-   ]	
-  }	,
+
 {		
    "name": "กีฬา SportTV1",		
    "image": "https://www.bettertechtips.com/wp-content/uploads/2021/07/image1__-696x385.jpg",
