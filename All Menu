@@ -13,6 +13,28 @@
    ]	
   }	,
 {		
+   "name": "Movie Thai (หนังไทย)",		
+   "image": "https://s.isanook.com/mv/0/ud/19/99257/99257-thumbnail.jpg?ip/crop/w670h402/q80/jpg",
+   "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/Mov2025",
+   "stations": [		
+   ]	
+  }	,
+{		
+   "name": "Movie Chaina (หนังจีน)",		
+   "image": "https://f.ptcdn.info/928/078/000/rktdqa8aqk2qJktRfd0-o.jpg",
+   "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/Mov2025",
+   "stations": [		
+   ]	
+  }	,
+{		
+   "name": "Netfilx หนังเน็ตฟิก",		
+   "image": "https://ipadappz.com/wp-content/uploads/2023/05/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87-netflix-2023.jpg",
+   "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/WepBall",
+   "stations": [		
+   ]	
+  }	,
+
+{		
    "name": "MOVIE&TV บันเทิง",		
    "image": "https://i0.wp.com/www.korseries.com/wp-content/uploads/2022/05/mtv-squid-game-jung-ho-yeon-cover.jpg",
    "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/TV",
@@ -34,13 +56,7 @@
    "stations": [		
    ]	
   }	,
-{		
-   "name": "เว็บกีฬา SportTV",		
-   "image": "https://img.freepik.com/free-vector/sport-text-banner-poster-design_1308-132612.jpg",
-   "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/WepBall",
-   "stations": [		
-   ]	
-  }	,
+
   	
 { 
 "name":"เว็บดูบอลฟรี!",
