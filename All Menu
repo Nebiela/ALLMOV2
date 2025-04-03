@@ -4,25 +4,18 @@
  "url": "",	
  "image": "https://img.freepik.com/premium-vector/national-sports-day-vector-illustration-with-sportsperson-from-different-sport-flat-cartoon_2175-16026.jpg?w=996",		
  "groups": [		
-  	
-  	{		
-   "name": "กดรีเฟรช ทุกครั้ง",		
-   "image": "https://vc2i.rweb-images.com/www.pandp.co.th/images/column_1556853454/Refresh22.jpg",
-   "stations": [		
-   ]	
-  }	,
 
 {		
    "name": "Movie หนังใหม่ (2025)",		
    "image": "https://assets.beartai.com/uploads/2020/06/202000602_20-%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%84%E0%B8%97%E0%B8%A2.jpg",
-   "url": "https://pastebin.com/raw/LtPa2mMY",
+   "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/Mov2025",
    "stations": [		
    ]	
   }	,
 {		
    "name": "ดิจิตอลทีวี",		
    "image": "https://whatphone.net/wp-content/uploads/2015/02/tv_digital01.jpg",
-   "url": "https://pastebin.com/raw/Tb5dGLjV",
+   "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/TV",
    "stations": [		
    ]	
   }	,
@@ -34,13 +27,27 @@
    ]	
   }	,
 {		
-   "name": "กีฬา SportTV",		
+   "name": "กีฬา SportTV1",		
    "image": "https://www.bettertechtips.com/wp-content/uploads/2021/07/image1__-696x385.jpg",
-   "url": "https://pastebin.com/raw/3gievskq",
+   "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/Sport1",
+   "stations": [		
+   ]	
+  }	,
+{		
+   "name": "กีฬา SportTV2",		
+   "image": "https://www.bettertechtips.com/wp-content/uploads/2021/07/image1__-696x385.jpg",
+   "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/All%20sport2",
    "stations": [		
    ]	
   }	,
 
+  	
+  	{		
+   "name": "กดรีเฟรช ทุกครั้ง",		
+   "image": "https://vc2i.rweb-images.com/www.pandp.co.th/images/column_1556853454/Refresh22.jpg",
+   "stations": [		
+   ]	
+  }	,
 
  ]		
 }		
