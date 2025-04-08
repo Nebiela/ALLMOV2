@@ -7,7 +7,7 @@
 
 {		
    "name": "Movie หนังใหม่ (2025)",		
-   "image": "https://assets.beartai.com/uploads/2020/06/202000602_20-%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%84%E0%B8%97%E0%B8%A2.jpg",
+   "image": "https://www.vanas.ca/images/blog/vfx-visual-effects-vanas.jpg",
    "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/Mov2025",
    "stations": [		
    ]	
@@ -29,7 +29,7 @@
 {		
    "name": "Netfilx หนังเน็ตฟิก",		
    "image": "https://ipadappz.com/wp-content/uploads/2023/05/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87-netflix-2023.jpg",
-   "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/WepBall",
+   "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/Netf",
    "stations": [		
    ]	
   }	,
