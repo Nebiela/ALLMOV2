@@ -1,0 +1,743 @@
+{
+"name"              :     "Netflix",
+"image"             :     "https://www.i-pic.info/i/WL9H368777.png",
+"url"               :     "",
+"stations" : [
+
+{  
+name:"Army of Thieves (2021) แผนปล้นยุโรปเดือด",
+image:"https://www.24-hd.com/wp-content/uploads/2023/02/Army-of-Thieves-2021.jpg",
+"url":"https://main.77player.xyz/m3u8/4bb918624cbf45984d6bb118/4bb918624cbf45984d6bb118438.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+ 
+{  
+name:"Army of the Dead (2021) แผนปล้นซอมบี้เดือด",
+image:"https://www.24-hd.com/wp-content/uploads/2023/02/Army-of-the-Dead-2021.jpg",
+"url":"https://main.77player.xyz/m3u8/6ded9dc29698c018eb7ee082/6ded9dc29698c018eb7ee082438.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+ 
+{  
+name:"The Vault (2021) หยุดโลกปล้น",
+image:"https://www.24-hd.com/wp-content/uploads/2022/09/The-Vault-Way-Down-2021-%E0%B8%AB%E0%B8%A2%E0%B8%B8%E0%B8%94%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B8%9B%E0%B8%A5%E0%B9%89%E0%B8%99.jpg",
+"url":"https://main.77player.xyz/newplaylist/7ef1910370b5ab93891bf6ee/7ef1910370b5ab93891bf6ee.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Unlocked (2023) แค่โทรศัพท์มือถือหาย ทำไมต้องกลายเป็นศพ",
+image:"https://www.24-hd.com/wp-content/uploads/2023/02/Unlocked-2023.jpg",
+"url":"https://main.77player.xyz/newplaylist/b296628b239fa68a5934a3f8/b296628b239fa68a5934a3f8.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+ 
+{  
+name:"OMG! Oh My Girl (2022) OMG รักจังวะ ผิดจังหวะ",
+image:"https://www.24-hd.com/wp-content/uploads/2023/02/OMG-Oh-My-Girl-2022-OMG-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%A7%E0%B8%B0-%E0%B8%9C%E0%B8%B4%E0%B8%94%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B0.jpg",
+"url":"https://main.77player.xyz/newplaylist/157757455e513565747ddaa0/157757455e513565747ddaa0.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+ 
+{  
+name:"We Have a Ghost (2023) บ้านนี้ผีป่วน",
+image:"https://www.24-hd.com/wp-content/uploads/2023/02/We-Have-a-Ghost-2023-%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%B5%E0%B9%89%E0%B8%9C%E0%B8%B5%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99.jpg",
+"url":"https://main.77player.xyz/newplaylist/bba4643c88484004bd0b62da/bba4643c88484004bd0b62da.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Sweet & Sour (2021) รักหวานอมเปรี้ยว",
+image:"https://www.24-hd.com/wp-content/uploads/2023/02/Sweet-Sour-2021-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%AB%E0%B8%A7%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%A1%E0%B9%80%E0%B8%9B%E0%B8%A3%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%A7.jpg",
+"url":"https://main.77player.xyz/newplaylist/17f8f29a012970de5cee7818/17f8f29a012970de5cee7818.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Call Me Chihiro (2023) ฉันชื่อจิฮิโระ",
+image:"https://www.24-hd.com/wp-content/uploads/2023/02/Call-Me-Chihiro-2023-%E0%B8%89%E0%B8%B1%E0%B8%99%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%88%E0%B8%B4%E0%B8%AE%E0%B8%B4%E0%B9%82%E0%B8%A3%E0%B8%B0.jpg",
+"url":"https://main.77player.xyz/newplaylist/f1751121b83e15d2ada233c1/f1751121b83e15d2ada233c1.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Your Place or Mine (2023) รักสลับบ้าน",
+image:"https://www.24-hd.com/wp-content/uploads/2023/02/Your-Place-or-Mine-2023-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%AA%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99.jpg",
+"url":"https://main.77player.xyz/newplaylist/94aafdced2a47261339f7e3c/94aafdced2a47261339f7e3c.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Nobody (2021) คนธรรมดานรกเรียกพี่",
+image:"https://www.24-hd.com/wp-content/uploads/2023/02/Nobody-2021-%E0%B8%84%E0%B8%99%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%94%E0%B8%B2%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%81%E0%B8%9E%E0%B8%B5%E0%B9%88.jpg",
+"url":"https://main.77player.xyz/newplaylist/5f2ffa866cfed56965940138/5f2ffa866cfed56965940138.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"True Spirit (2023) ทรูสปิริต",
+image:"https://www.24-hd.com/wp-content/uploads/2023/02/True-Spirit-2023-%E0%B8%97%E0%B8%A3%E0%B8%B9%E0%B8%AA%E0%B8%9B%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%95.jpg",
+"url":"https://main.77player.xyz/newplaylist/88abbb43aab8ac0ed4e415c5/88abbb43aab8ac0ed4e415c5.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"The Knight of Shadows Between Yin and Yang (2019) โคตรพยัคฆ์หยินหยาง",
+image:"https://www.24-hd.com/wp-content/uploads/2023/02/The-Knight-of-Shadows-Between-Yin-and-Yang-2019.jpg",
+"url":"https://main.77player.xyz/newplaylist/5048f98d602ece69b00d2b31/5048f98d602ece69b00d2b31.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"6 Underground (2019) 6 ลับ ดับ โหด",
+image:"https://www.24-hd.com/wp-content/uploads/2023/02/6-Underground-2019.jpg",
+"url":"https://main.77player.xyz/newplaylist/9a073bc2428837e21877e8f2/9a073bc2428837e21877e8f2.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Pamela A Love Story (2023) ความรักของพาเมล่า",
+image:"https://www.24-hd.com/wp-content/uploads/2023/01/Pamela-A-Love-Story-2023.jpg",
+"url":"https://main.77player.xyz/newplaylist/faf0c7613a6beef16f5be225/faf0c7613a6beef16f5be225.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"You People (2023)",
+image:"https://www.24-hd.com/wp-content/uploads/2023/01/You-People-2023.jpg",
+"url":"https://main.77player.xyz/newplaylist/9e071b69f677c896e99f3930/9e071b69f677c896e99f3930.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Narvik (2023) นาร์วิค",
+image:"https://www.24-hd.com/wp-content/uploads/2023/01/Narvik-2023-%E0%B8%99%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%A7%E0%B8%B4%E0%B8%84.jpg",
+"url":"https://main.77player.xyz/newplaylist/55cf73cd9796bca9d2b129b1/55cf73cd9796bca9d2b129b1.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Jung E (2023) จอง อี",
+image:"https://www.24-hd.com/wp-content/uploads/2023/01/Jung-E-2023.jpg",
+"url":"https://main.77player.xyz/newplaylist/ac4c1450f0ffbdced3ed5315/ac4c1450f0ffbdced3ed5315.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Dog Gone (2023) หมาหลง",
+image:"https://www.24-hd.com/wp-content/uploads/2023/01/Dog-Gone-2023-%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%87.jpg",
+"url":"https://main.77player.xyz/newplaylist/7a53083884e4d97c9bfc9e37/7a53083884e4d97c9bfc9e37.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"The Pale Blue Eye (2023) เดอะ เพล บลู อาย",
+image:"https://www.24-hd.com/wp-content/uploads/2023/01/The-Pale-Blue-Eye-2023-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B9%80%E0%B8%9E%E0%B8%A5-%E0%B8%9A%E0%B8%A5%E0%B8%B9-%E0%B8%AD%E0%B8%B2%E0%B8%A2.jpg",
+"url":"https://main.77player.xyz/newplaylist/8524d0b684a3659cfbe40a0e/8524d0b684a3659cfbe40a0e.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"White Noise (2022) ไวต์ นอยส์",
+image:"https://www.24-hd.com/wp-content/uploads/2022/12/White-Noise-2022.jpg",
+"url":"https://main.77player.xyz/newplaylist/44c74c6259b47915b49e0290/44c74c6259b47915b49e0290.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"7 Women and a Murder (2022) 7 สตรี 1 ฆาตกรรม",
+image:"https://www.24-hd.com/wp-content/uploads/2022/12/7-Women-and-a-Murder-2022-7-%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B8%B5-1-%E0%B8%86%E0%B8%B2%E0%B8%95%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1-%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%AB%E0%B8%8D%E0%B8%B4%E0%B8%87.jpg",
+"url":"https://main.77player.xyz/newplaylist/8450d9a2c32f017ec6cbb2f1/8450d9a2c32f017ec6cbb2f1.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Roald Dahl’s Matilda the Musical (2022) มาทิลด้า เดอะ มิวสิคัล",
+image:"https://www.24-hd.com/wp-content/uploads/2022/12/Roald-Dahls-Matilda-the-Musical-2022.jpg",
+"url":"https://main.77player.xyz/newplaylist/8cb54b81d16922568451ecff/8cb54b81d16922568451ecff.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Glass Onion A Knives Out Mystery (2022) ฆาตกรรมหรรษา ใครฆ่าเพื่อน",
+image:"https://www.24-hd.com/wp-content/uploads/2022/12/Glass-Onion-A-Knives-Out-Mystery-2022-%E0%B8%86%E0%B8%B2%E0%B8%95%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%AB%E0%B8%A3%E0%B8%A3%E0%B8%A9%E0%B8%B2-%E0%B9%83%E0%B8%84%E0%B8%A3%E0%B8%86%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99.jpg",
+"url":"https://main.77player.xyz/newplaylist/771378e33dd51d3c7b59ee05/771378e33dd51d3c7b59ee05.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"The Seven Deadly Sins Grudge of Edinburgh (2022) ศึกตำนาน 7 อัศวิน แค้นเอดินเบอระ",
+image:"https://www.24-hd.com/wp-content/uploads/2022/12/The-Seven-Deadly-Sins-Grudge-of-Edinburgh-2022.jpg",
+"url":"https://main.77player.xyz/newplaylist/9495f8fd2285c71b616dae26/9495f8fd2285c71b616dae26.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"The Big 4 (2022)",
+image:"https://www.24-hd.com/wp-content/uploads/2022/12/The-Big-4-2022.jpg",
+"url":"https://main.77player.xyz/newplaylist/03447a192227da78397957c0/03447a192227da78397957c0.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Kangaroo Valley (2022) หุบเขาแห่งจิงโจ้",
+image:"https://www.24-hd.com/wp-content/uploads/2022/12/Kangaroo-Valley-2022-%E0%B8%AB%E0%B8%B8%E0%B8%9A%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%88%E0%B8%B4%E0%B8%87%E0%B9%82%E0%B8%88%E0%B9%89.jpg",
+"url":"https://main.77player.xyz/newplaylist/f03de8d9947165285ec9491f/f03de8d9947165285ec9491f.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Guillermo del Toro’s Pinocchio (2022) พิน็อกคิโอ หุ่นน้อยผจญภัย โดยกีเยร์โม เดล โตโร",
+image:"https://www.24-hd.com/wp-content/uploads/2022/12/Guillermo-del-Toros-Pinocchio-2022.jpg",
+"url":"https://main.77player.xyz/newplaylist/cf2c5c4e6b4741005c7d6961/cf2c5c4e6b4741005c7d6961.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"The Boss Baby Christmas Bonus (2022) บอสเบบี้ คริสต์มาสโบนัส",
+image:"https://www.24-hd.com/wp-content/uploads/2022/12/The-Boss-Baby-Christmas-Bonus-2022.jpg",
+"url":"https://main.77player.xyz/newplaylist/1d8f30e1f485c2bd8c5ff263/1d8f30e1f485c2bd8c5ff263.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Big Bug (2022) บิ๊กบั๊ก",
+image:"https://www.24-hd.com/wp-content/uploads/2022/12/Big-Bug-2022-%E0%B8%9A%E0%B8%B4%E0%B9%8A%E0%B8%81%E0%B8%9A%E0%B8%B1%E0%B9%8A%E0%B8%81.jpg",
+"url":"https://main.77player.xyz/newplaylist/d0f0e4d435b73c4c5a79906e/d0f0e4d435b73c4c5a79906e.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Warriors of Future (2022) นักรบแห่งอนาคต",
+image:"https://www.24-hd.com/wp-content/uploads/2022/12/Warriors-of-Future-2022-%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%9A%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%AD%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%95.jpg",
+"url":"https://main.77player.xyz/newplaylist/dd531433641b45527740a9dd/dd531433641b45527740a9dd.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Scrooge A Christmas Carol (2022)",
+image:"https://www.24-hd.com/wp-content/uploads/2022/12/Scrooge-A-Christmas-Carol-2022.jpg",
+"url":"https://main.77player.xyz/newplaylist/7e1c4b0da3c152d333cfa07b/7e1c4b0da3c152d333cfa07b.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Troll (2022) โทรลล์",
+image:"https://www.24-hd.com/wp-content/uploads/2022/12/Troll-2022-%E0%B9%82%E0%B8%97%E0%B8%A3%E0%B8%A5%E0%B8%A5%E0%B9%8C.jpg",
+"url":"https://main.77player.xyz/newplaylist/871bb3bbf517cc41edde6af2/871bb3bbf517cc41edde6af2.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+
+
+{  
+name:"My Name Is Vendetta (2022) ในนามของความแค้น",
+image:"https://www.24-hd.com/wp-content/uploads/2022/11/My-Name-Is-Vendetta-2022-%E0%B9%83%E0%B8%99%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99.jpg",
+"url":"https://main.77player.xyz/newplaylist/8d673b330cfeb08bc5a63d02/8d673b330cfeb08bc5a63d02.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Christmas Full of Grace (2022) คริสต์มาสกับกราซา",
+image:"https://www.24-hd.com/wp-content/uploads/2022/11/Christmas-Full-of-Grace-2022.jpg",
+"url":"https://main.77player.xyz/newplaylist/b7d2a5e6d1e09237e7c250c2/b7d2a5e6d1e09237e7c250c2.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Outside the Wire (2021) สมรภูมินอกลวดหนาม",
+image:"https://www.24-hd.com/wp-content/uploads/2022/11/Outside-the-Wire-2021-%E0%B8%AA%E0%B8%A1%E0%B8%A3%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%AD%E0%B8%81%E0%B8%A5%E0%B8%A7%E0%B8%94%E0%B8%AB%E0%B8%99%E0%B8%B2%E0%B8%A1.jpg",
+"url":"https://main.77player.xyz/newplaylist/1d2885ea3f028854ba491bb3/1d2885ea3f028854ba491bb3.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"The Action Pack Saves Christmas (2022) แอ็คชั่นแพ็คพิทักษ์คริสต์มาส",
+image:"https://www.24-hd.com/wp-content/uploads/2022/11/The-Action-Pack-Saves-Christmas-2022.jpg",
+"url":"https://main.77player.xyz/newplaylist/4a85c201e957b718bae76183/4a85c201e957b718bae76183.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Blasted (2022) คู่หูปะทะเอเลี่ยน",
+image:"https://www.24-hd.com/wp-content/uploads/2022/11/Blasted-2022-%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9%E0%B8%9B%E0%B8%B0%E0%B8%97%E0%B8%B0%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99.jpg",
+"url":"https://xxx.77player.xyz/autoplaylist/ab0591f0fa7416200ee9ff88d5934c4a/ab0591f0fa7416200ee9ff88d5934c4a.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"The Noel Diary (2022) บันทึกของโนเอล",
+image:"https://www.24-hd.com/wp-content/uploads/2022/11/The-Noel-Diary-2022-%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B6%E0%B8%81%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%82%E0%B8%99%E0%B9%80%E0%B8%AD%E0%B8%A5.jpg",
+"url":"https://main.77player.xyz/newplaylist/64516bf9564bea7c50d26fa8/64516bf9564bea7c50d26fa8.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Purple Hearts (2022) เพอร์เพิลฮาร์ท",
+image:"https://www.24-hd.com/wp-content/uploads/2022/11/Purple-Hearts-2022-%E0%B9%80%E0%B8%9E%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B8%A5%E0%B8%AE%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%97.jpg",
+"url":"https://main.77player.xyz/newplaylist/037311b0ce986bdda11286e5/037311b0ce986bdda11286e5.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Lesson Plan (2022) โรงเรียนอันตราย",
+image:"https://www.24-hd.com/wp-content/uploads/2022/11/Lesson-Plan-2022-%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%A2.jpg",
+"url":"https://main.77player.xyz/newplaylist/6d25f9d0df6c75fbff729795/6d25f9d0df6c75fbff729795.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Christmas on Mistletoe Farm (2022) คริสต์มาสใต้ต้นรัก",
+image:"https://www.24-hd.com/wp-content/uploads/2022/11/Christmas-on-Mistletoe-Farm-2022.jpg",
+"url":"https://main.77player.xyz/newplaylist/db0e142dc4db2a0d0412326d/db0e142dc4db2a0d0412326d.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"The Swimmers (2022)",
+image:"https://www.24-hd.com/wp-content/uploads/2022/11/The-Swimmers-2022.jpg",
+"url":"https://main.77player.xyz/newplaylist/d9254d74e0fa128fa3ea0559/d9254d74e0fa128fa3ea0559.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Slumberland (2022) สลัมเบอร์แลนด์",
+image:"https://www.24-hd.com/wp-content/uploads/2022/11/Slumberland-2022.jpg",
+"url":"https://main.77player.xyz/newplaylist/251e7ec4cacf545cb6dab8ae/251e7ec4cacf545cb6dab8ae.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+
+
+{  
+name:"The Wonder (2022) เดอะ วันเดอร์",
+image:"https://www.24-hd.com/wp-content/uploads/2022/11/The-Wonder-2022.jpg",
+"url":"https://main.77player.xyz/newplaylist/0c305195c7021b50d95207c3/0c305195c7021b50d95207c3.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Jurassic World Camp Cretaceous Hidden Adventure (2022) จูราสสิค เวิลด์ ค่ายครีเทเชียส การผจญภัยซ่อนเร้น",
+image:"https://www.24-hd.com/wp-content/uploads/2022/11/Jurassic-World-Camp-Cretaceous-Hidden-Adventure-2022.jpg",
+"url":"https://main.77player.xyz/newplaylist/40e965a1d7ff0eae12426f0c/40e965a1d7ff0eae12426f0c.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"My Fathers Dragon (2022) มังกรของพ่อ",
+image:"https://www.24-hd.com/wp-content/uploads/2022/11/My-Fathers-Dragon-2022.jpg",
+"url":"https://streamhls.com/view/c795c7f7-d25e-57cb-9215-f1c2fa70d242.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Falling for Christmas (2022) ตกหลุมรักวันคริสต์มาส",
+image:"https://www.24-hd.com/wp-content/uploads/2022/11/Falling-for-Christmas-2022.jpg",
+"url":"https://streamhls.com/view/dfdc5b6f-a810-557e-9ecc-5d71219fa807.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Lost Bullet 2 Back for More (2022) แรงทะลุกระสุน 2",
+image:"https://www.24-hd.com/wp-content/uploads/2022/11/Lost-Bullet-2-Back-for-More-2022.jpg",
+"url":"https://streamhls.com/view/71dcdebc-50b1-5802-9aad-15a80992f34f.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Lost Bullet (2020) แรงทะลุกระสุน",
+image:"https://www.24-hd.com/wp-content/uploads/2022/11/Lost-Bullet-2020.jpg",
+"url":"https://streamhls.com/view/b3b01ad0-571d-5032-be74-3cb1d237951e.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+
+{  
+name:"The Soccer Football Movie (2022) ภารกิจปราบปีศาจฟุตบอล",
+image:"https://www.24-hd.com/wp-content/uploads/2022/11/The-Soccer-Football-Movie-2022-%E0%B8%A0%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%9A%E0%B8%9B%E0%B8%B5%E0%B8%A8%E0%B8%B2%E0%B8%88%E0%B8%9F%E0%B8%B8%E0%B8%95%E0%B8%9A%E0%B8%AD%E0%B8%A5.jpg",
+"url":"https://streamhls.com/view/d2e056f3-4363-5904-a946-cb78c98ec375.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Fearless Love (2022) ทวงคืน",
+image:"https://www.24-hd.com/wp-content/uploads/2022/11/Fearless-Love-2022-%E0%B8%97%E0%B8%A7%E0%B8%87%E0%B8%84%E0%B8%B7%E0%B8%99.jpg",
+"url":"https://streamhls.com/view/7d831edb-5c41-57f2-9ed0-79ecdd5c8d5d.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Enola Holmes 2 (2022) เอโนลา โฮล์มส์ 2",
+image:"https://www.24-hd.com/wp-content/uploads/2022/11/Enola-Holmes-2-2022-%E0%B9%80%E0%B8%AD%E0%B9%82%E0%B8%99%E0%B8%A5%E0%B8%B2-%E0%B9%82%E0%B8%AE%E0%B8%A5%E0%B9%8C%E0%B8%A1%E0%B8%AA%E0%B9%8C-2.jpg",
+"url":"https://streamhls.com/view/5b13403b-e464-5e29-b4c3-b27061ec6b5b.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Enola Holmes (2020) เอโนลา โฮล์มส์",
+image:"https://www.24-hd.com/wp-content/uploads/2022/11/Enola-Holmes-2020-%E0%B9%80%E0%B8%AD%E0%B9%82%E0%B8%99%E0%B8%A5%E0%B8%B2-%E0%B9%82%E0%B8%AE%E0%B8%A5%E0%B9%8C%E0%B8%A1%E0%B8%AA%E0%B9%8C.jpg",
+"url":"https://xxx.77player.xyz/ioshls/41ca99f4a645b6e81f1c93c11182291a/41ca99f4a645b6e81f1c93c11182291a.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"The Takeover (2022) เดอะ เทค โอเวอร์",
+image:"https://www.24-hd.com/wp-content/uploads/2022/11/The-Takeover-2022-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B9%80%E0%B8%97%E0%B8%84-%E0%B9%82%E0%B8%AD%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C.jpg",
+"url":"https://streamhls.com/view/0c11ea0e-a0e7-5feb-8433-decdd508ffce.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{ 
+name:"Wendell & Wild (2022) เวนเดลล์กับไวลด์",
+image:"https://www.24-hd.com/wp-content/uploads/2022/10/Wendell-Wild-2022.jpg",
+"url":"https://streamhls.com/view/565b25b1-286e-5667-8f70-1e330be4d835.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Barbie Epic Road Trip (2022)",
+image:"https://www.24-hd.com/wp-content/uploads/2022/10/Barbie-Epic-Road-Trip-2022.jpg",
+"url":"https://streamhls.com/view/260b2e6b-98ee-5d35-b7b9-dd58dfa40187.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"All Quiet on The Western Front (2022) แนวรบด้านตะวันตก เหตุการณ์ไม่เปลี่ยนแปลง",
+image:"https://www.24-hd.com/wp-content/uploads/2022/10/All-Quiet-on-The-Western-Front-2022.jpg",
+"url":"https://streamhls.com/view/00fdecf8-d519-5ec6-a859-a7819ca6bddf.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Robbing Mussolini (2022) ปล้นมุสโสลินี",
+image:"https://www.24-hd.com/wp-content/uploads/2022/10/Robbing-Mussolini.jpg",
+"url":"https://streamhls.com/view/e8ecd024-bf73-58f5-9178-fef8c3ee82ca.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Hellhole (2022) ขุมนรก",
+image:"https://www.24-hd.com/wp-content/uploads/2022/10/Hellhole-2022-%E0%B8%82%E0%B8%B8%E0%B8%A1%E0%B8%99%E0%B8%A3%E0%B8%81.jpg",
+"url":"https://streamhls.com/view/b1dc84fe-44e3-5a4d-a74a-376eb581f9a8.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+
+{  
+name:"The Good Nurse (2022)",
+image:"https://www.24-hd.com/wp-content/uploads/2022/10/The-Good-Nurse-2022.jpg",
+"url":"https://streamhls.com/view/3a5dd749-3119-5c31-8a2f-d581e95c8475.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Descendant (2022) ทายาทเรือทาส",
+image:"https://www.24-hd.com/wp-content/uploads/2022/10/Descendant-2022.jpg",
+"url":"https://streamhls.com/view/0aa1bb99-48bd-5a83-b149-577e5b74c173.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"20th Century Girl (2022) 20 เซนจูรี่ รักนี้ซาบซ่า",
+image:"https://www.24-hd.com/wp-content/uploads/2022/10/20th-Century-Girl-2022.jpg",
+"url":"https://streamhls.com/view/e0141cc6-dbce-5aca-994e-f8f70dc6945b.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"The School for Good and Evil (2022) โรงเรียนแห่งความดีและความชั่ว",
+image:"https://www.24-hd.com/wp-content/uploads/2022/10/The-School-for-Good-and-Evil-2022-%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%94%E0%B8%B5%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%A7.jpg",
+"url":"https://streamhls.com/view/fe8764ff-63ee-577c-9485-ceb77c6562df.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+
+{  
+name:"The Curse of Bridge Hollow (2022) คำสาปแห่งบริดจ์ฮอลโลว์",
+image:"https://www.24-hd.com/wp-content/uploads/2022/10/The-Curse-of-Bridge-Hollow-2022.jpg",
+"url":"https://streamhls.com/view/9f73e65b-0c21-52f7-86fb-28a81df8de94.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+
+{  
+name:"Luckiest Girl Alive (2022) ให้ตายสิ ใครๆ ก็อิจฉา",
+image:"https://www.24-hd.com/wp-content/uploads/2022/10/Luckiest-Girl-Alive-2022.jpg",
+"url":"https://streamhls.com/view/8262ed79-9fba-59ae-a268-4723e9c3cdc5.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Old People (2022) เกิด แก่ กัน ตาย",
+image:"https://www.24-hd.com/wp-content/uploads/2022/10/Old-People-2022.jpg",
+"url":"https://streamhls.com/view/921d477a-8d20-5edf-a501-667780ed9cb4.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"The Trapped 13 (2022) 13หมูป่า เรื่องเล่าจากในถ้ำ",
+image:"https://www.24-hd.com/wp-content/uploads/2022/10/The-Trapped-13-2022.jpg",
+"url":"https://streamhls.com/view/7d5e6fa2-b2b7-554d-812e-650ee71e8c0d.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+
+{  
+name:"Mr. Harrigans Phone (2022) โทรศัพท์คนตาย",
+image:"https://www.24-hd.com/wp-content/uploads/2022/10/Mr.-Harrigans-Phone-2022.jpg",
+"url":"https://streamhls.com/view/df68de41-9a93-53a4-a575-a5c5a024ca0e.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+
+{  
+name:"Rainbow (2022) สายรุ้ง",
+image:"https://www.24-hd.com/wp-content/uploads/2022/09/Rainbow-2022-%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%A3%E0%B8%B8%E0%B9%89%E0%B8%87.jpg",
+"url":"https://xxx.77player.xyz/m3u8/4da0e1c08a7849a6ff2578d0/4da0e1c08a7849a6ff2578d0800.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Incantation (2022) มนตรา",
+image:"https://www.24-hd.com/wp-content/uploads/2022/09/Incantation-2022.jpg",
+"url":"https://streamhls.com/view/116c5352-00ff-5b63-bee9-12b87bf1110a.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Blonde (2022) บลอนด์",
+image:"https://www.24-hd.com/wp-content/uploads/2022/09/Blonde-2022.jpg",
+"url":"https://streamhls.com/view/e3197ab6-76d1-5f85-b85e-6bd3bdd15f9c.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"FullMetal Alchemist The Final Alchemy (2022) แขนกลคนแปรธาตุ ปัจฉิมบท",
+image:"https://www.24-hd.com/wp-content/uploads/2022/09/FullMetal-Alchemist-The-Final-Alchemy-2022.jpg",
+"url":"https://streamhls.com/view/a58740db-a399-5a9d-bc31-c28829cabbbf.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Love Off the Cuff (2017) รัก 7 ปี ขอดีให้ดีอีกสักหน",
+image:"https://www.24-hd.com/wp-content/uploads/2022/09/Love-Off-the-Cuff-2017.jpg",
+"url":"https://xxx.77player.xyz/ioshls/3020aa52452379f7156eeb403c6c87b1/3020aa52452379f7156eeb403c6c87b1.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Lou (2022) แกะรอยในความมืด",
+image:"https://www.24-hd.com/wp-content/uploads/2022/09/Lou-2022-%E0%B9%81%E0%B8%81%E0%B8%B0%E0%B8%A3%E0%B8%AD%E0%B8%A2%E0%B9%83%E0%B8%99%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A1%E0%B8%B7%E0%B8%94.jpg",
+"url":"https://streamhls.com/view/c39d2fa3-a5b2-5978-b082-88001c97622d.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"The Perfumier (2022) กลิ่นฆาตกร",
+image:"https://www.24-hd.com/wp-content/uploads/2022/09/The-Perfumier-2022-%E0%B8%81%E0%B8%A5%E0%B8%B4%E0%B9%88%E0%B8%99%E0%B8%86%E0%B8%B2%E0%B8%95%E0%B8%81%E0%B8%A3.jpg",
+"url":"https://streamhls.com/view/8b75bc7f-bccf-5ed1-a845-4facb5833c9e.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Body Cam (2020) กล้องจับตาย",
+image:"https://www.24-hd.com/wp-content/uploads/2022/09/Body-Cam-2020.jpg",
+"url":"https://streamhls.com/view/e418eadf-5657-53b1-bba4-792078dbc7f3.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"The Adam Project (2022) ย้อนเวลาหาอดัม",
+image:"https://www.24-hd.com/wp-content/uploads/2022/09/The-Adam-Project-2022.jpg",
+"url":"https://streamhls.com/view/f7d5a0c7-fcc6-5216-b137-0823b4aac875.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Interceptor (2022) สงครามขีปนาวุธ",
+image:"https://www.24-hd.com/wp-content/uploads/2022/09/Interceptor-2022.jpg",
+"url":"https://streamhls.com/view/954fb87f-e5d2-539b-a3fd-b44e02b5eddb.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{  
+name:"Do Revenge (2022) แค้นนัก สลับกันแก้",
+image:"https://www.24-hd.com/wp-content/uploads/2022/09/Do-Revenge-2022-%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99%E0%B8%99%E0%B8%B1%E0%B8%81-%E0%B8%AA%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%81%E0%B8%81%E0%B9%89.jpg",
+"url":"https://streamhls.com/view/823a162c-d5a4-5859-9f96-2e21e7320769.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Drifting Home (2022) บ้านล่องลอย",
+image:"https://www.24-hd.com/wp-content/uploads/2022/09/Drifting-Home-2022-%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A5%E0%B8%AD%E0%B8%A2.jpg",
+"url":"https://streamhls.com/view/49c2272c-44d1-5239-a01e-b6d658620a46.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Book of Love (2022) นิยายรักฉบับฉันและเธอ",
+image:"https://www.24-hd.com/wp-content/uploads/2022/09/Book-of-Love-2022-%E0%B8%99%E0%B8%B4%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%89%E0%B8%9A%E0%B8%B1%E0%B8%9A%E0%B8%89%E0%B8%B1%E0%B8%99%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%98%E0%B8%AD.jpg",
+"url":"https://main.77player.xyz/newplaylist/98805fd8caa2d1da797d70b1/98805fd8caa2d1da797d70b1.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"End of the Road (2022) สุดปลายถนน",
+image:"https://www.24-hd.com/wp-content/uploads/2022/09/End-of-the-Road-2022.jpg",
+"url":"https://streamhls.com/view/a0fe5f64-5d7b-5500-a586-bb7265eb479c.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Kingdom Ashin of the North (2021) ผีดิบคลั่ง บัลลังก์เดือด อาชินแห่งเผ่าเหนือ",
+image:"https://www.24-hd.com/wp-content/uploads/2022/09/Kingdom-Ashin-of-the-North-2021.jpg",
+"url":"https://main.77player.xyz/newplaylist/016dbea2e0bc8f84c79440d4/016dbea2e0bc8f84c79440d4.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Diorama (2022) ไดโอรามา",
+image:"https://www.24-hd.com/wp-content/uploads/2022/09/Diorama-2022.jpg",
+"url":"https://streamhls.com/view/14602c81-cde7-59f8-820c-1419f8d578af.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Gangubai Kathiawadi (2022) หญิงแกร่งแห่งมุมไบ",
+image:"https://www.24-hd.com/wp-content/uploads/2022/09/Gangubai-Kathiawadi-2022-%E0%B8%AB%E0%B8%8D%E0%B8%B4%E0%B8%87%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B9%88%E0%B8%87%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%A1%E0%B8%B8%E0%B8%A1%E0%B9%84%E0%B8%9A.jpg",
+"url":"https://streamhls.com/view/56d63e40-195c-5f40-bd4f-10d6e0480156.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"The Gray Man (2022) ล่องหนฆ่า",
+image:"https://www.24-hd.com/wp-content/uploads/2022/09/The-Gray-Man-2022-%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B8%86%E0%B9%88%E0%B8%B2.jpg",
+"url":"https://streamhls.com/view/ef51867a-c2df-5c98-91dc-10d95391d6d2.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Me Time (2022)",
+image:"https://www.24-hd.com/wp-content/uploads/2022/09/Me-Time-2022.jpg",
+"url":"https://streamhls.com/view/f8fb8708-e4b7-5b10-965b-cb94ae661674.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+
+{  
+name:"I Came By (2022) แวะมาในเงามืด",
+image:"https://www.24-hd.com/wp-content/uploads/2022/09/I-Came-By-2022-%E0%B9%81%E0%B8%A7%E0%B8%B0%E0%B8%A1%E0%B8%B2%E0%B9%83%E0%B8%99%E0%B9%80%E0%B8%87%E0%B8%B2%E0%B8%A1%E0%B8%B7%E0%B8%94.jpg",
+"url":"https://cdn-21.vip-streaming.com:30443/imovieth/3-ssd/movie/store-2000/ICameBy.2022.mp4/playlist.m3u8",
+"referer": "https://movie-1.iamtheme.com/",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Fullmetal Alchemist The Revenge Of Scar (2022) แขนกลคนแปรธาตุ สการ์ชำระแค้น",
+image:"https://www.24-hd.com/wp-content/uploads/2022/08/Fullmetal-Alchemist-The-Revenge-Of-Scar-2022-%E0%B9%81%E0%B8%82%E0%B8%99%E0%B8%81%E0%B8%A5%E0%B8%84%E0%B8%99%E0%B9%81%E0%B8%9B%E0%B8%A3%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8-%E0%B8%AA%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%8A%E0%B8%B3%E0%B8%A3%E0%B8%B0%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99.jpg",
+"url":"https://streamhls.com/view/263d6ecb-0503-5fe4-ae54-e4d1aee1038c.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"FullMetal Alchemist (2017) แขนกลคนแปรธาตุ",
+image:"https://www.24-hd.com/wp-content/uploads/2022/08/FullMetal-Alchemist-2017.jpg",
+"url":"https://streamhls.com/view/68516605-bf02-5a08-82ab-2ad4b4b01364.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+
+
+
+
+ 
+ 
+ 
+]
+}
