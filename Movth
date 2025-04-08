@@ -1,0 +1,703 @@
+{
+"name"              :     "Movie Thai (หนังไทย)",
+"image"             :     "https://assets.beartai.com/uploads/2020/06/202000602_20-%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%84%E0%B8%97%E0%B8%A2.jpg",
+"url"               :     "",
+"stations" : [
+
+{  
+name:" แดง พระโขนง DAENG PHRA KHANONG (2022)",
+image:"https://xn--72c9aba3d6aqa7a3pmd.com/wp-content/uploads/2022/07/%E0%B9%81%E0%B8%94%E0%B8%87-%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%82%E0%B8%99%E0%B8%87-Daeng-Phra-Khanong-2022-187x280.jpg",
+"url":"https://cdn3.cdn9x.com/jgr5f714/720p.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{  
+name:" 4 KINGS (2021) อาชีวะยุค90",
+image:"https://xn--72c9aba3d6aqa7a3pmd.com/wp-content/uploads/2022/04/4-Kings-%E0%B8%AD%E0%B8%B2%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%B0-%E0%B8%A2%E0%B8%B8%E0%B8%84-90-2021-218x280.jpg",
+"url":"https://hlsp2p.com/view/c8307862-95a6-564a-b4ce-9603ef4577fa.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{  
+name:" ฮักเถิดเทิง LOVE RUMBLE THE MOVIE (2020)",
+image:"https://nungdeedee.com/uploads/images/9199aBzasVbGHNYiegrGS0xCOgvnaJ7LpMJN.jpg",
+"url":"https://ezycdn.com/playlist-fbnrk011-SD.m3u8",
+"referer": "https://ezycdn.com/",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"พี่นาค 3 (2022) PEE NAK 3",
+image:"https://www.nung2hdd.com/wp-content/uploads/2022/07/7uWGD8TaFrDsh6AUpfdJNqjn4kM-200x300.jpg",
+"url":"https://play.kakjeawplay.xyz/0761561e-6d5c-467e-b589-ab79fc11c256/0",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Pee Nak 2 (2020) พี่นาค 2",
+image:"https://movie44.com/wp-content/uploads/2020/11/Pee-Nak-2-2020.jpg",
+"url":"https://xxx.77player.xyz/autoplaylist/7695290307caecaebba6b6ca048527f0/7695290307caecaebba6b6ca048527f0.m3u8",
+"referer": "https://www.i-moviehd.com/",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Pee Nak (2019) พี่นาค 1",
+image:"https://movie2film.com/wp-content/uploads/2020/12/Pee-Nak-2019.jpg",
+"url":"https://xxx.77player.xyz/autoplaylist/91ed11acd18298a2761332700a580df2/91ed11acd18298a2761332700a580df2.m3u8",
+"referer": "https://www.i-moviehd.com/",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"THE ROCKET ANGELS (2022) บั้งไฟสไลเดอร์",
+image:"https://www.i-moviehd.com/wp-content/uploads/2022/08/The-Rocket-Angels-2022-%E0%B8%9A%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%84%E0%B8%9F%E0%B8%AA%E0%B9%84%E0%B8%A5%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C.png",
+"url":"https://streamhls.com/view/b564a5a2-bdd2-5ac3-9b2c-7996440525b1.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"บักแตงโม (2022) Bug Tangmo",
+image:"https://www.movie678.com/images/movie/bfqNoLedOvNKhU9oZMH6fJUlx12xnIc%E0%B8%9A%E0%B8%B1%E0%B8%81%E0%B9%81%E0%B8%95%E0%B8%87%E0%B9%82%E0%B8%A1_(2022)_Bugtangmo.jpg",
+"url":"https://m1free.inwstream.com:1936/movie3/Bugtangmo_2022/Bugtangmo_2022_th_1080p_F.mp4/chunk.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"7 ประจัญบาน ภาค 2 Seven Street Fighters 2 (2005)",
+image:"https://movie285.com/wp-content/uploads/2019/04/193.jpg",
+"url":"https://server41.oneplayer.online:11231/mp4/wrV0nRO/file_720.mp4",
+"referer": "https://doomovie.oneplayer.online/",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"7 ประจัญบาน ภาค 1 Heavens Seven (2002)",
+image:"https://www.s1movies.com/wp-content/uploads/2021/09/MOVIE539.COM-722.webp",
+"url":"https://server41.oneplayer.online:11231/mp4/uxP6X1J/file_720.mp4",
+"referer": "https://doomovie.oneplayer.online/",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"ส่ม ภัค เสี่ยน E-SAN LOVE STORY (2017)",
+image:"https://www.nung2hdd.com/wp-content/uploads/2018/04/zVycDWiWcv6KgTqSELIU4XkhqBp-200x300.jpg",
+"url":"https://hlsp2p.com/view/0041452a-eae0-55c7-a0ca-e599b4cb0c9d.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"ขุนบันลือ Khun Bunlue (2018)",
+image:"https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2022/04/a85qbzh0s1w-11146-poster-265x375.jpg",
+"url":"https://play.kakjeawplay.xyz/076699c8-e0b2-4712-8dc3-a6b7542e5dba/0",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Hello Yasothorn 3 (2013) แหยมยโสธร 3",
+image:"https://nungdeedee.com/uploads/images/eq35xf1pjmogw8s088.png",
+"url":"https://cnn.nebulamov.com/src/hls/Hello_Yasothorn_3_2013_186944_04-06-09pm_2022-09-03_hls.m3u8/hls_main.m3u8",
+"referer": "https://player.nebulamov.com/",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Hello Yasothorn 2 (2009) แหยมยโสธร 2",
+image:"https://3.bp.blogspot.com/-wzyMJi4o604/ViJ2fjBSw5I/AAAAAAAAaoY/0bQZ1Shu9nM/s320/YAM2.jpg",
+"url":"https://cnn.nebulamov.com/src/hls/Hello_Yasothorn_2_2009_147614_03-56-52pm_2022-09-03_hls.m3u8/hls_main.m3u8",
+"referer": "https://player.nebulamov.com/",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Hello Yasothorn 1 (2005) แหยมยโสธร 1",
+image:"https://nungdeedee.com/uploads/images/2ygn2xeu7cyscko04w.png",
+"url":"https://cnn.nebulamov.com/src/hls/Hello_Yasothorn_2005_155333_04-15-00pm_2022-09-03_hls.m3u8/hls_main.m3u8",
+"referer": "https://player.nebulamov.com/",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"God Bless The Trainees Too! (2021) ห้าวเป้งจ๋า อย่าแกงน้อง",
+image:"https://www.123-hd.com/wp-content/uploads/2021/06/%E0%B8%AB%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B9%80%E0%B8%9B%E0%B9%89%E0%B8%87%E0%B8%88%E0%B9%8B%E0%B8%B2-%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B9%81%E0%B8%81%E0%B8%87%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%87-2021-God-Bless-The-Trainees-Too-300x450.png",
+"url":"https://ezycdn.com/playlist-aiutfclo-SD.m3u8",
+"referer": "https://ezycdn.com/",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"ผ้าผีบอก PAH PHEE BOK (2022)",
+image:"https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2022/10/Pah-Phee-Bok-2022-265x375.png",
+"url":"https://hlsp2p.com/view/a275e5dc-7b12-5e23-8b61-24362efd418e.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Thailand Only (2017) ไทยแลนด์โอนลี่ เมืองไทยอะไรก็ได้",
+image:"https://movie2film.com/wp-content/uploads/2021/01/Thailand-Only-2017.jpg",
+"url":"https://hlsp2p.com/view/11332336-0ef7-502f-acd1-25c70f32f7bb.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+}, 
+
+{  
+name:"CRAZY CRYING LADY (2012) คุณนายโฮ",
+image:"https://4.bp.blogspot.com/-Gg4C-UolJLc/VoXs4HlM3WI/AAAAAAAAASc/6mzM6S17_1E/s1600/pSMAVbN.jpg",
+"url":"https://streamhls.com/view/4357a013-65eb-5e61-ae04-e73888334a7b.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+}, 
+
+{  
+name:"Racing Love (2011) มิดไมล์",
+image:"https://i-movie2free.com/wp-content/uploads/2021/10/MV5BNTczN2ZkYjctYWMwZC00NjE1LWE3MGQtYzE1N2QyNGEyY2MzXkEyXkFqcGdeQXVyMjgxOTcwMzE@._V1_FMjpg_UX1000_.jpg",
+"url":"https://nungdeedee.com/movie/info/13727/Racing-Love-2011-%E0%B8%A1%E0%B8%B4%E0%B8%94%E0%B9%84%E0%B8%A1%E0%B8%A5%E0%B9%8C",
+"referer": "",
+"playInNatPlayer": "true"
+}, 
+
+{  
+name:"Fast 888 (2016) ป๊าด 888 แรงทะลุนรก",
+image:"https://de88.me/wp-content/uploads/2022/08/%E0%B8%9B%E0%B9%8A%E0%B8%B2%E0%B8%94888%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%99%E0%B8%A3%E0%B8%812016Fast888.jpg",
+"url":"https://dedkub.cyou/hd/720/0660-Fast888.2016.mp4",
+"referer": "",
+"playInNatPlayer": "true"
+}, 
+
+{  
+name:"I LOVE YOU TWO (2016) จำเนียรวิเวียนโตม",
+image:"https://www.nung2hdd.com/wp-content/uploads/2020/08/oPMo3pfaKJB8LS7BKb48RSKAJ6O-200x300.jpg",
+"url":"https://streamhls.com/view/b30e617f-1b0e-59fc-a38e-17693368ea64.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+}, 
+
+{  
+name:"ไบค์แมน ศักรินทร์ตูดหมึก (2018) BIKEMAN",
+image:"https://www.nung2hdd.com/wp-content/uploads/2019/02/20190205120748515151.jpg",
+"url":"https://dedkub.cyou/hot/0100-Bikeman.mp4",
+"referer": "",
+"playInNatPlayer": "true"
+}, 
+
+{  
+name:"ไบค์แมน 2 (2019) BIKEMAN 2",
+image:"https://www.nung2hdd.com/wp-content/uploads/2020/05/nRwLovgdL0CVo1iG0wELnflFSV4.jpg",
+"url":"https://streamhls.com/view/d736cb10-e3a2-562d-8477-21f14db51649.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+}, 
+
+{  
+name:"NAMO OK (2014) นะโม โอเค",
+image:"https://igoalmovie.com/images/movie/stWwvmvGbkFHDambWABlUoNQnIYl59MNamo-OK-%E0%B8%99%E0%B8%B0%E0%B9%82%E0%B8%A1-%E0%B9%82%E0%B8%AD%E0%B9%80%E0%B8%84-e1517824613863.webp",
+"url":"https://proxy2-cdn1.cdn9x.com/gi9f2nfg/720p.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+}, 
+
+{  
+name:"Love on The Rock (2014) รักหมดแก้ว",
+image:"https://hdfilmth.com/images/movie/8cYd8A6gwfxhFDIY0z3ILFC3nMCmQ3w.jpg",
+"url":"https://hlsp2p.com/view/a39ebeba-faf5-5d9b-966b-04f326ffd9c9.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+}, 
+
+{  
+name:"กาลครั้งหนึ่งเมื่อเช้านี้ (1994) ONCE UPON A TIME",
+image:"https://www.nung2hdd.com/wp-content/uploads/2021/08/ff19caa8e101af7d747d534e837ad382-200x300.jpg",
+"url":"https://streamhls.com/view/ab260492-2641-5729-b154-a6a3937b4a50.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+}, 
+
+{  
+name:"The Protector (2005) ต้มยำกุ้ง",
+image:"https://movie2film.com/wp-content/uploads/2021/02/The-Protector-2005.jpg",
+"url":"https://gg-th.com/videos/_YPTuniqid_5e38a316dbcad8.78149211_SD.mp4",
+"referer": "",
+"playInNatPlayer": "true"
+}, 
+
+{  
+name:"Tom yum goong 2 (2013) ต้มยำกุ้ง 2",
+image:"https://www.pannunghd.com/wp-content/uploads/2013/11/Tom-Yum-Goong-2-2013-%E0%B8%95%E0%B9%89%E0%B8%A1%E0%B8%A2%E0%B8%B3%E0%B8%81%E0%B8%B8%E0%B9%89%E0%B8%87-2.jpg",
+"url":"https://free100.co/cli-uploader/mini-hd-the-protector-2-2013-th-1688765970/1280x720p.m3u8",
+"referer": "https://bbk100.xyz/",
+"playInNatPlayer": "true"
+}, 
+
+{  
+name:"ฅนไฟบิน Fire Warriors (2006)",
+image:"https://www.xn--72czpba5eubsa1bzfzgoe.com/wp-content/uploads/2022/04/E0B885E0B899E0B984E0B89FE0B89AE0B8B4E0B89928200629-279x400-c-default.webp",
+"url":"https://cdn3.cdn9x.com/m9qm5ef6/720p.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+}, 
+
+{  
+name:"Love Destiny The Movie (2022) บุพเพสันนิวาส 2",
+image:"https://www.24-hd.com/wp-content/uploads/2022/12/Love-Destiny-The-Movie-2022-%E0%B8%9A%E0%B8%B8%E0%B8%9E%E0%B9%80%E0%B8%9E%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%B4%E0%B8%A7%E0%B8%B2%E0%B8%AA-2.jpg",
+"url":"https://cdn9x.com/playlist/update_p4cc3jr8.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+}, 
+
+{  
+name:"THE LAKE (2022) บึงกาฬ",
+image:"https://www.i-moviehd.com/wp-content/uploads/2022/12/The-Lake-2022-%E0%B8%9A%E0%B8%B6%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%AC.png",
+"url":"https://cdn9x.com/playlist/update_3o9o4m8v.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+}, 
+
+{  
+name:"ขุนแหย The Lost Hero Of Ayodhya (2022)",
+image:"https://movie-vip.com/wp-content/uploads/2022/12/%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B9%81%E0%B8%AB%E0%B8%A2-The-Lost-Hero-Of-Ayodhya-2022.webp",
+"url":"https://streamhls.com/view/23ee6a43-f1c7-5725-9ae3-ede318d2a581.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+}, 
+
+{  
+name:"ALONE IN OUTING (2022) เธอ เหงา เรา เต่า",
+image:"https://fm2play.com/wp-content/uploads/2022/12/vlHOnp3El5BiRR09tXt7SSaTGES-210x300.jpg",
+"url":"https://cdn9x.com/playlist/update_iioi4dt.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+}, 
+
+{  
+name:"ปฏิบัติการกู้หวย The Lost Lotteries (2022)",
+image:"https://movie2uhd.com/wp-content/uploads/2022/11/The-Lost-Lotteries.webp",
+"url":"https://cdn9x.com/playlist/update_ltliv3fu.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+}, 
+
+{  
+name:"LOVE เลยร้อยเอ็ด LOVE 101 (2022)",
+image:"https://www.hooq-movie.com/wp-content/uploads/2022/12/Love-101-2022-LOVE-%E0%B9%80%E0%B8%A5%E0%B8%A2%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B9%80%E0%B8%AD%E0%B9%87%E0%B8%94.jpg",
+"url":"https://streamhls.com/view/8e689c0a-eef7-5a40-b881-72e9a23ce6b1.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+}, 
+
+
+{  
+name:"อีหล่าเอ๋ย (2020) LUCKILY IN LOVE",
+image:"https://www.doomovie-free.com/wp-content/uploads/2022/04/g6WHaIqgme6ivSJJfodeX8W4m5C.jpg",
+"url":"https://streamhls.com/view/2d072c3c-d138-5e88-a49b-bc5efcf585cf.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+}, 
+
+{  
+name:"เลิฟยู โคกอีเกิ้ง (2020) Love U Kohk-E-Kueng",
+image:"https://www.xn--72czpba5eubsa1bzfzgoe.com/wp-content/uploads/2022/04/hbNbEMfZjYZibhQ3NuiqFYMK1p9-279x400-c-default.webp",
+"url":"https://streamhls.com/view/52259879-c046-5b2a-8687-a10c9354df60.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+}, 
+
+{  
+name:"THE PROTECT (2019) บอดี้การ์ด หน้าหัก",
+image:"https://www.nung2hdd.com/wp-content/uploads/2020/11/npKHVmrA6flpXRuHDBADQab0aYT-200x300.jpg",
+"url":"https://streamhls.com/view/bd0540aa-638b-56c1-a82b-1c28a2fd0bac.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+}, 
+
+{  
+name:"บอดี้การ์ดหน้าเหลี่ยม The Bodyguard (2004)",
+image:"https://img.inwiptv.net/postor/20220903120101u4Rjt0slnaWmptbHKrUoKWIxmmb.jpg",
+"url":"https://fw4free.com/player.php?channel=1017338&id=38",
+"referer": "",
+"playInNatPlayer": "true"
+}, 
+
+{  
+name:"บอดี้การ์ดหน้าเหลี่ยม 2 The Bodyguard 2 (2007)",
+image:"https://img.inwiptv.net/postor/202209031204059y7dSKlx2mXIpSXVP1jPkNZP0Y9.jpg",
+"url":"https://fw4free.com/player.php?channel=1017339&id=38",
+"referer": "",
+"playInNatPlayer": "true"
+}, 
+
+{  
+name:"ทิดน้อย Tid Noi: More Than True Love (2023)",
+image:"https://moviexo.watch/wp-content/uploads/2023/05/1e99dfdd7017ec61d2cc13e1199de2ad.jpg",
+"url":"https://cdn9x.com/playlist/update_jsmeposo.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+}, 
+
+{  
+name:"BUAPHAN FAN YAP (2022) บัวผันฟันยับ",
+image:"https://www.nung2hdd.com/wp-content/uploads/2020/10/Bua-Pun-Fun-Yup-2022-Poster.jpg",
+"url":"https://streamhls.com/view/d40f638c-845d-533a-ab1f-6f1612b769dc.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+}, 
+
+{  
+name:"THARAE UNITED (2022) ท่าแร่ยูไนเต็ด",
+image:"https://www.nung2hdd.com/wp-content/uploads/2023/04/Tha-Rae-United-2022.jpg",
+"url":"https://server14.oneplayer.online:11231/mp4/uQpE64S/file_720.mp4",
+"referer": "https://doomovie.oneplayer.online/",
+"playInNatPlayer": "true"
+}, 
+
+{  
+name:"4bia (2008) 4แพร่ง",
+image:"https://www.9nunghd.com/wp-content/uploads/2022/04/E0B8AAE0B8B5E0B988E0B981E0B89EE0B8A3E0B988E0B887.webp",
+"url":"https://streamhls.com/view/6dd3f8a3-3bc5-5faf-ba58-7982cc0fa681.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+}, 
+
+
+{  
+name:"Phobia 2 (2009) 5 แพร่ง",
+image:"https://www.24-hd.com/wp-content/uploads/2022/09/Phobia-2-2009-5-%E0%B9%81%E0%B8%9E%E0%B8%A3%E0%B9%88%E0%B8%87-187x269.jpg",
+"url":"https://streamhls.com/view/b0279ec1-c5f4-5e37-bab3-3f504130cfbc.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+}, 
+
+
+{  
+name:"หุ่นพยนต์ Hoon Payon (2023) 20+",
+image:"https://img.inwiptv.net/postor/20230714193216tir2vwzZfgdBms3C0eYpSjDgQem.jpg",
+"url":"https://fw4free.com/player.php?channel=1233627&id=38",
+"referer": "",
+"playInNatPlayer": "true"
+}, 
+
+{  
+name:"ปลุกพยนต์ Pook Payon (2023) 18+",
+image:"https://img.inwiptv.net/postor/202307141929294xQGGBC2vpXiUX3xLX92q6c9Y4Y.jpg",
+"url":"https://fw4free.com/player.php?channel=1233626&id=38",
+"referer": "",
+"playInNatPlayer": "true"
+}, 
+
+{  
+name:"The Murderer (2023) เมอร์เด้อเหรอ ฆาตกรรมอิหยังวะ",
+image:"https://320hd.com/wp-content/uploads/2023/07/711.jpg",
+"url":"https://free100.co/cli-uploader/the-murderer-2023-tha-1690523920/1280x720p.m3u8",
+"referer": "https://bbk100.xyz/",
+"playInNatPlayer": "true"
+}, 
+
+{  
+name:"Khun Phan (2016) ขุนพันธ์",
+image:"https://www.24-hd.com/wp-content/uploads/2022/11/Khun-Phan-2016-%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C-187x269.jpg",
+"url":"https://main.77player.xyz/newplaylist/655177bf2f073404ccd82ce2/655177bf2f073404ccd82ce2.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+}, 
+
+{  
+name:"Khun Phan 2 (2018) ขุนพันธ์ 2",
+image:"https://www.24-hd.com/wp-content/uploads/2022/11/Khun-Phan-2-2018-%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C-2-187x269.jpg",
+"url":"https://main.77player.xyz/newplaylist/6cb316bccc0f7c8de68f031a/6cb316bccc0f7c8de68f031a.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+}, 
+
+{  
+name:"Khun Phan 3 (2023) ขุนพันธ์ 3",
+image:"https://www.24-hd.com/wp-content/uploads/2023/08/Khun-Phan-3-2023-%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C-3-187x269.jpg",
+"url":"https://main.77player.xyz/newplaylist/21ac1f31d2bdd314ea06014c/21ac1f31d2bdd314ea06014c.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+}, 
+
+{  
+name:"Ong-Bak (2003) องค์บาก",
+image:"https://48enterprise.com/img/movie_img/2021_26_44_33.jpg",
+"url":"https://main.77player.xyz/newplaylist/7c0ac184e1d3e13828f9fa87/7c0ac184e1d3e13828f9fa87.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+}, 
+
+{  
+name:"Ong Bak 2 (2008) องค์บาก 2",
+image:"https://48enterprise.com/img/movie_img/2021_26_54_32.jpg",
+"url":"https://main.77player.xyz/newplaylist/e73ed9cd433dacdff005d770/e73ed9cd433dacdff005d770.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+}, 
+
+{  
+name:"Ong Bak 3 (2010) องค์บาก 3",
+image:"https://www.nung2hdd.com/wp-content/uploads/2015/04/ongbak3.jpg",
+"url":"https://main.77player.xyz/newplaylist/451e5c051d789ee9f6d735b1/451e5c051d789ee9f6d735b1.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+}, 
+
+{  
+name:"ออนซอนเด (2019) On-Zon-De",
+image:"https://www.678moviehd.com/wp-content/uploads/2021/09/2019-on-zon-de.jpg",
+"url":"https://main.77player.xyz/newplaylist/3bccb00291e024fa8e6379ce/3bccb00291e024fa8e6379ce.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+}, 
+
+
+{  
+name:" ไทบ้าน เดอะซีรีส์ ภาค 1 (2017) THAIBAN THE SERIES",
+image:"https://xn--2022-zeo6d9aba3jsc0aa7c7g3hnf.com/wp-content/uploads/2023/01/Thi-Baan-the-Series-1.jpg",
+"url":"https://hlsp2p.com/view/40cff6eb-c553-589d-b447-27bdee61c03e.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+}, 
+
+{  
+name:"ไทบ้านเดอะซีรีส์ 2.1 (2018) Thi-Baan The Series 2",
+image:"https://www.movie678.com/images/movie/33eh5kcZeZOUHKX5H1zFcWbL265q3Zc%E0%B9%84%E0%B8%97%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99_%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B9%8C_2.1_Thi-Baan_The_Series_2.1_(2018).jpg",
+"url":"https://streamhls.com/view/8c3446d0-2173-5b50-b5b2-61a5e3f2182e.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+}, 
+
+{  
+name:"ไทบ้านเดอะซีรีส์ 2.2 (2018) Thi-Baan The Series 2.2",
+image:"https://www.678moviehd.com/wp-content/uploads/2021/09/201905242342151.jpg",
+"url":"https://streamhls.com/view/3a39fd1a-8280-5cb7-88ac-66dd6d9b918a.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+}, 
+
+{  
+name:"Thi-Baan x BNK (2020) ไทบ้าน × BNK48 จากใจผู้สาวคนนี้",
+image:"https://www.123-hd.com/wp-content/uploads/2020/04/%E0%B9%84%E0%B8%97%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99-x-BNK48-%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B9%83%E0%B8%88%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%84%E0%B8%99%E0%B8%99%E0%B8%B5%E0%B9%89-300x450.png",
+"url":"https://streamhls.com/view/30630b18-83db-5763-ba53-f6939fd20fbc.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+}, 
+
+{  
+name:"ไทบ้านเดอะซีรีส์ : หมอปลาวาฬ (2022) Thi-Baan The Series Mo Plawan",
+image:"https://doonungonline.com/wp-content/uploads/2022/12/DN5hQjYKLosDnKjrDAGVzU2qAdh7yRj-203x300.jpg",
+"url":"https://streamhls.com/view/fab54254-6da4-571c-aef4-dd5d8c9805ab.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+}, 
+
+{  
+name:"ส้มตำ (Somtum) Muay Thai Giant (2008)",
+image:"https://www.678moviehd.com/wp-content/uploads/2021/09/tumblr_lngh1yktos1qm3qa2o1_500.jpg",
+"url":"https://streamhls.com/view/79308fcd-f616-50af-8d10-6675109af061.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+}, 
+
+{  
+name:"THE OVERTURE (2004) โหมโรง",
+image:"https://movie44.com/wp-content/uploads/2021/12/The-Overture-2004.jpg.webp",
+"url":"https://cdn9x.com/playlist/update_pppgftel.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+}, 
+
+{  
+name:"Tiger Running (2023) เสือเผ่น ๑",
+image:"https://www.movie-free.org/wp-content/uploads/2023/08/4v5s0AoJc1gWRfNXMvsiZw4vuen.jpg",
+"url":"https://m1free.inwstream.com:1936/movie3/Tiger_Running_2023/Tiger_Running_2023_th_1080.mp4/chunk.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+}, 
+
+{  
+name:"ฮักล้นไห หัวใจนายเกิบคีบ PICKLED LOVE POTION (2022)",
+image:"https://www.nung2hdd.com/wp-content/uploads/2022/08/Pickled-Love-Potion-200x300.jpg",
+"url":"https://streamhls.com/view/fff798cc-e997-50e2-9435-a77e621c4841.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+}, 
+
+{  
+name:"THUNDER MONK (2023) อาตมาฟ้าผ่า",
+image:"https://www.movie-vip.com/wp-content/uploads/2023/09/THUNDER-MONK-2023-%E0%B8%AD%E0%B8%B2%E0%B8%95%E0%B8%A1%E0%B8%B2%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%9C%E0%B9%88%E0%B8%B2.webp",
+"url":"https://m1free.inwstream.com:1936/movie3/Thunder_Monk_2023/Thunder_Monk_2023_th_1080.mp4/chunk.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+}, 
+
+{  
+name:"แอปชนแอป App War (2018)",
+image:"https://www.vojkuhd.com/wp-content/uploads/2019/05/App-War-2018.jpg.webp",
+"url":"https://streamhls.com/view/09828b59-ec38-5c18-9ef2-0b887167695a.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+}, 
+
+{  
+name:"ฮักบี้ บ้านบาก (2019) Hugby Ban Bak",
+image:"https://www.movie2fin.com/images/movie/XTLOWxv46KRSRuy7TomiQVXdDedFj2P%E0%B8%AE%E0%B8%B1%E0%B8%81%E0%B8%9A%E0%B8%B5%E0%B9%89_%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%9A%E0%B8%B2%E0%B8%81.jpg",
+"url":"https://hlsp2p.com/view/66941e82-5613-5db2-afb7-793145b623a8.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+}, 
+
+{  
+name:"เซียนหรั่ง เดอะมูฟวี่ ZIEN-LANG Best Friends Forever (2023)",
+image:"https://img.inwiptv.net/postor/20230919184008unnamed.jpg",
+"url":"https://hlsp2p.com/view/3b8292f9-373d-5da7-ba4a-d2313bc17c86.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+}, 
+
+{  
+name:"The Trapped 13 (2022) 13หมูป่า เรื่องเล่าจากในถ้ำ",
+image:"https://movie2uhd.com/wp-content/uploads/2022/10/The-Trapped-13-How-We-Survived-The-Thai-Cave.webp",
+"url":"https://main.77player.xyz/newplaylist/1bb17e80f37a2a7839dc2767/1bb17e80f37a2a7839dc2767.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+}, 
+
+{  
+name:"LOOKTUNG MILLIONAIRE (2013) รวมพลคนลูกทุ่งเงินล้าน",
+image:"https://movie2film.com/wp-content/uploads/2022/09/Looktung-Millionaire-2013.jpg",
+"url":"https://server2.oneplayer.online/mp4/0PlZETe/file_720.mp4",
+"referer": "https://doomovie.oneplayer.online/",
+"playInNatPlayer": "true"
+}, 
+
+{  
+name:"ONCE UPON A STAR (2023) มนต์รักนักพากย์",
+image:"https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/5w74euRtfaXzF0awoOtokBxGpvk-265x375.jpg",
+"url":"https://hlsp2p.com/view/50a09d12-7036-54b5-9cc7-71a31f0dacb8.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+}, 
+
+
+{  
+name:"Panya Raenu 1 (2011) ปัญญา เรณู ภาค 1",
+image:"https://www.bybe2movie.com/wp-content/uploads/2023/03/Panya-Raenu-1-2011.jpg.webp",
+"url":"https://m1free.inwstream.com:1936/movie1/panya-renu-1-3/panya-raenu-1-th-720p-fwtv.m4v/playlist.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+}, 
+
+{  
+name:"Panya Raenu 2 (2012) ปัญญา เรณู ภาค 2",
+image:"https://nunghdmai.com/wp-content/uploads/2022/04/2zQDLVeusP8d5mPDQfRu6WtoyfDBEOx-200x300.jpg",
+"url":"https://main.77player.xyz/newplaylist/78238a225d3ec51de215678b/78238a225d3ec51de215678b.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+}, 
+
+{  
+name:"Panya Raenu 3 (2013) ปัญญา เรณู รูปู รูปี",
+image:"https://037hdmov.com/images/movie/9PpI7bGBrBlbcgYjFHdDYGk3aJd9iaDPanya-Raenu-3-2013-%E0%B8%9B%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2-%E0%B9%80%E0%B8%A3%E0%B8%93%E0%B8%B9-%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B8%B9-%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B8%B5-e1534564731943.webp",
+"url":"https://main.77player.xyz/newplaylist/c863f412c2609d20ad97eca0/c863f412c2609d20ad97eca0.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+}, 
+
+{  
+name:"E-Sarn Tootsie Part 1 (2024) อีสานตุ๊ดซี่ ภาค 1",
+image:"https://www.037hdmovie.com/wp-content/uploads/2024/01/E-Sarn-Tootsie-Part-1-2024.jpg",
+"url":"https://hlsp2p.com/view/c102931e-719e-5775-97fd-0e1e2b858cb4.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+}, 
+
+
+{  
+name:"E-Sarn Tootsie Part 2 (2024) อีสานตุ๊ดซี่ ภาค 2",
+image:"https://www.037hdmovie.com/wp-content/uploads/2024/02/E-Sarn-Tootsie-Part-2.png",
+"url":"https://hlsp2p.com/view/aec8fbe5-3611-598a-9271-bb83e3694130.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+}, 
+
+{  
+name:"นาคี 2 (2018) NAKEE 2",
+image:"https://www.doomovie-free.com/wp-content/uploads/2019/11/201907201336174.jpg",
+"url":"https://player.037hlstream.xyz/31725ca9-b532-4612-b90e-481e02390406/0",
+"referer": "",
+"playInNatPlayer": "true"
+}, 
+
+{  
+name:"แสงกระสือ (2019) Krasue Inhuman Kiss",
+image:"https://www.doomovie-free.com/wp-content/uploads/2019/11/20190616174257MV5BN2NjYWU4ZT.jpg",
+"url":"https://cdn9x.com/playlist/update_mc85bfbu.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+}, 
+
+
+{  
+name:"Inhuman Kiss: The Last Breath (Sang Krasue 2) (2023) แสงกระสือ 2",
+image:"https://www.doomovie-free.com/wp-content/uploads/2023/06/Inhuman-Kiss-The-Last-Breath2022.jpg",
+"url":"https://streamhls.com/view/6087e85d-e98d-5163-a6b8-8a478d97631f.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+}, 
+
+{  
+name:"The Undertaker (2023) สัปเหร่อ",
+image:"https://www.123-hd.com/wp-content/uploads/2024/02/The-Undertaker-2023-%E0%B8%AA%E0%B8%B1%E0%B8%9B%E0%B9%80%E0%B8%AB%E0%B8%A3%E0%B9%88%E0%B8%AD-1-300x450.jpg",
+"url":"https://main.24playerhd.com/newplaylist/fa0618ad16c8e18530e3646d/fa0618ad16c8e18530e3646d.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+}, 
+
+{  
+name:"14 อีกครั้ง (2023) I Love You Two Thousand",
+image:"https://movie-online.org/wp-content/uploads/2024/02/14-Again-I-Love-You-Two-Thousand-2023-14-%E0%B8%AD%E0%B8%B5%E0%B8%81%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87.jpg",
+"url":"https://main.24playerhd.com/newplaylist/8ac6265b78cd9d572eb514f6/8ac6265b78cd9d572eb514f6.m3u8",
+"referer": "https://www.24-hd.com/",
+"playInNatPlayer": "true"
+}, 
+
+{  
+name:"คุณตูบสายดาร์ก ปิดเมืองกัด (2023) Darkdog Lockdown",
+image:"https://ssdmovie.com/wp-content/uploads/2023/07/DARKDOG-LOCKDOWN-2023-e1689243086321.webp",
+"url":"https://lnwplayer.com/proxy-video/6612fae0cf4c367584f8f0875456661e.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+}, 
+
+{  
+name:"Mid Road Gang (2007) มะหมา 4 ขาครับ",
+image:"https://nungdeedee.com/uploads/images/14381Nh5cLO6T6WOFedfvk5HJLs7qwHKl0Crw.jpg",
+"url":"https://nungdeedee.com/movie/info/29885/ma-mha-4-khaa-khrap-%E0%B8%A1%E0%B8%B0%E0%B8%AB%E0%B8%A1%E0%B8%B2-4-%E0%B8%82%E0%B8%B2%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%9A",
+"referer": "",
+"playInNatPlayer": "true"
+}, 
+
+
+{  
+name:"Mid Road Gang 2 (2012) มะหมา 2",
+image:"https://www.vojkuhd.com/wp-content/uploads/2016/01/Mid-Road-Gang-2-%E0%B8%A1%E0%B8%B0%E0%B8%AB%E0%B8%A1%E0%B8%B2-2.jpg.webp",
+"url":"https://streamhls.com/view/e5eeb9c3-c7ae-5633-9578-bce3b1737bbe.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+}, 
+
+
+
+
+
+
+ 
+]
+}
+ 
