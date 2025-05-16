@@ -9,6 +9,41 @@
 
 
 {  
+name:"Hunters (2025) ฅนต่อยผี",
+image:"https://037hdx.tv/wp-content/uploads/2025/05/Holy-Night-Demon-Hunters-2025-%E0%B8%85%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B8%9C%E0%B8%B5.webp",
+"url":"https://backend.movieplaythai.com/hls/0751b1edf24b65000e6adcad1e5c80fd/master.m3u8",
+"referer": "https://037hdx.tv/",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Home: Rebirth (2025) โฮมสวีทโฮม กำเนิดใหม่",
+image:"https://037hdx.tv/wp-content/uploads/2025/05/Home-Sweet-Home-Rebirth-2025-%E0%B9%82%E0%B8%AE%E0%B8%A1%E0%B8%AA%E0%B8%A7%E0%B8%B5%E0%B8%97%E0%B9%82%E0%B8%AE%E0%B8%A1-%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88.webp",
+"url":"https://backend.movieplaythai.com/hls/90d4a5629c0bc50ff60491bd15116389/master.m3u8",
+"referer": "https://037hdx.tv/",
+"playInNatPlayer": "true"
+},
+
+
+{  
+name:"(2025) คืนลวง",
+image:"https://037hdx.tv/wp-content/uploads/2025/05/Night-of-Deception-2025-%E0%B8%84%E0%B8%B7%E0%B8%99%E0%B8%A5%E0%B8%A7%E0%B8%87.webp",
+"url":"https://backend.movieplaythai.com/hls/f9e9418a2cb29188c1eed4550982c345/master.m3u8",
+"referer": "https://037hdx.tv/",
+"playInNatPlayer": "true"
+},
+
+
+{  
+name:"Wick Is Pain (2025)",
+image:"https://037hdx.tv/wp-content/uploads/2025/05/Wick-Is-Pain-2025.webp",
+"url":"https://backend.movieplaythai.com/hls/516e306c82f8e187ad63b669bfa307bd/master.m3u8",
+"referer": "https://037hdx.tv/",
+"playInNatPlayer": "true"
+},
+
+
+{  
 name:"(2025) มือสังหารสายอาร์ต 2",
 image:"https://037hdx.tv/wp-content/uploads/2025/04/Hitman-2-2025-%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%95-2.webp",
 "url":"https://backend.movieplaythai.com/hls/0088d93b66c8d8d4040a011efe1b59d6/master.m3u8",
