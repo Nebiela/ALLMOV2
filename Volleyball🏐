@@ -1,0 +1,84 @@
+{
+ "name": "Volleyball🏐",
+ "author": "ดูฟรี! ไม่ขายนะครับ Copyright by Neti",
+ "image": "https://img2.imgbiz.com/imgbiz/MK.gif",
+ "info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+ "stations": [
+
+{"name": "VNL-A",
+"image": "https://img5.pic.in.th/file/secure-sv1/vbtv0918755e466d33bf.png",
+"url": "https://cdn1.googlecdnforstreaming.live/live/polsatsport1/playlist.m3u8?wmsAuth=",
+"referer": "https://warpdooball.net/",
+"playInNatPlayer": "true"},
+
+{"name": "VNL-B",
+"image": "https://img5.pic.in.th/file/secure-sv1/vbtv0918755e466d33bf.png",
+"url": "https://cdn1.googlecdn.live:443/lsfb/polsatsport1/chunks.m3u8",
+"referer": "https://dookeela.live/",
+"playInNatPlayer": "true"},
+
+{"name": "VNL-C",
+"image": "https://img5.pic.in.th/file/secure-sv1/vbtv0918755e466d33bf.png",
+"url": "https://dolive.thaim3u.com/xstream/football-play-3/playlist.m3u8",
+"referer": "https://doolive4k.tv/",
+"playInNatPlayer": "true"},
+
+{"name": "VNL-D",
+"image": "https://img5.pic.in.th/file/secure-sv1/vbtv0918755e466d33bf.png",
+"url": "https://dolive.thaim3u.com/xstream/football-play-4/playlist.m3u8",
+"referer": "https://doolive4k.tv/",
+"playInNatPlayer": "true"},
+
+{"name": "VNL-E",
+"image": "https://img5.pic.in.th/file/secure-sv1/vbtv0918755e466d33bf.png",
+"url": "https://www.ball24.tv/allchannel/?id=baygonhero1",
+"playInNatPlayer": "true"},
+
+{"name": "VNL-F",
+"image": "https://img5.pic.in.th/file/secure-sv1/vbtv0918755e466d33bf.png",
+"url": "https://www.ball24.tv/allchannel/?id=baygonhero2",
+"playInNatPlayer": "true"},
+
+{"name": "VNL-G",
+"image": "https://img5.pic.in.th/file/secure-sv1/vbtv0918755e466d33bf.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=423&tv=PolsatSport1|Poland",
+"playInNatPlayer": "true"},
+
+{"name": "VNL-H",
+"image": "https://img5.pic.in.th/file/secure-sv1/vbtv0918755e466d33bf.png",
+"url": "https://dookeela.live/live-tv/polsatsport1",
+"playInNatPlayer": "true"},
+
+{"name": "VNL-I",
+"image": "https://img5.pic.in.th/file/secure-sv1/vbtv0918755e466d33bf.png",
+"url": "https://dookeela.live/live-tv/polsatsport2",
+"playInNatPlayer": "true"},
+
+{"name": "VNL-J",
+"image": "https://img5.pic.in.th/file/secure-sv1/vbtv0918755e466d33bf.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=463&tv=PolsatSport2|Poland",
+"playInNatPlayer": "true"},
+
+{"name": "VNL-K",
+"image": "https://img5.pic.in.th/file/secure-sv1/vbtv0918755e466d33bf.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=459&tv=PolsatSport3|Poland",
+"playInNatPlayer": "true"},
+
+{"name": "VNL-L",
+"image": "https://img5.pic.in.th/file/secure-sv1/vbtv0918755e466d33bf.png",
+"url": "https://windnew.newkso.ru/wind/premium47/mono.m3u8",
+"userAgent":"http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name": "One Sports🇵🇭",
+"image": "https://img5.pic.in.th/file/secure-sv1/obesports.png",
+"url": "http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=297658&extension=m3u8",
+"playInNatPlayer": "true"},
+
+{"name": "One Sports Plus🇵🇭",
+"image": "https://img2.pic.in.th/pic/obesportsplus.png",
+"url": "http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=297659&extension=m3u8",
+"playInNatPlayer": "true"},
+
+]
+}
