@@ -77,13 +77,13 @@
 
 {"name":"DAZN 1 Germany Test",
 "image":"https://img2.imgbiz.com/imgbiz/daza1doo.png",
-"url": "https://dkl-o53d.cdn.akamaiz.com/goalthcom_x5/dazn1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDI1IDExOjQ3OjM0IEFNJmhhc2hfdmFsdWU9OEFsQ0NsRm9mcnFGOUMwaGtPSVI3Zz09JnZhbGlkbWludXRlcz0yMA==",
+"url": "https://dkl-o53d.cdn.akamaiz.com/goalthcom_x5/dazn1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNy8yMDI1IDY6MDA6MzIgQU0maGFzaF92YWx1ZT1ZMXhyNDR6SEdudnM5WCtwbjg5Z2tnPT0mdmFsaWRtaW51dGVzPTIw",
 "referer": "https://goal-th.com/",
 "playInNatPlayer": "true"},
 
 {"name":"บีอินสปอตส์ 1 Test",
 "image":"https://img2.imgbiz.com/imgbiz/daza1doo.png",
-"url": "https://dkl-o53d.cdn.akamaiz.com/goalthcom_x5/bein1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDI1IDExOjQ5OjQyIEFNJmhhc2hfdmFsdWU9aVl1K2Z5M3ZZbGVXdlhVeEZldjBnUT09JnZhbGlkbWludXRlcz0yMA==",
+"url": "https://dkl-o53d.cdn.akamaiz.com/goalthcom_x5/bein1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNy8yMDI1IDY6MDE6MjEgQU0maGFzaF92YWx1ZT0vVHpTQkVSOVBodlJxWmhRbEtRR0ZBPT0mdmFsaWRtaW51dGVzPTIw",
 "referer": "https://goal-th.com/",
 "playInNatPlayer": "true"},
 
