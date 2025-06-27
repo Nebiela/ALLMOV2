@@ -87,5 +87,30 @@
 "referer": "https://goal-th.com/",
 "playInNatPlayer": "true"},
 
+{
+"name"			:	"DAZN 1 Germany Test ",
+"image"			:	"https://img2.imgbiz.com/imgbiz/daza1doo.png",
+"url"			:	"https://goal-th.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5/?id=160&tv=DAZN1Germany",
+"referer"		:	"https://goal-th.com/",
+"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+ 
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+{
+"name"			:	"Mono29 Test ",
+"image"			:	"https://img2.pic.in.th/pic/mono29977274214da259a2.png",
+"url"			:	"https://goal-th.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5/?id=279&tv=MONO29(%E0%B9%82%E0%B8%A1%E0%B9%82%E0%B8%9929)",
+"referer"		:	"https://goal-th.com/",
+"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+ 
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+
 ]
 }
