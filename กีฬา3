@@ -1,25 +1,45 @@
 {
- "name": "ดูบอล 2025",
- "author": "BY Neti Edit",
- "info": "ดูฟรีเพื่อความบันเทิงภายในที่พักอาศัย",
- "image": "https://i.postimg.cc/CKSb1R6H/Sport.jpg",
- "groups": [
-
-
-
-
-
-{
-"name"			:	"True Ball Thai 9 ",
-"image"			:	"https://dookeela.live/uploads/1723660123.png",
-"url"			:	"https://dookeela.live/live-tv/trueballthai9",
-"referer"		:	"https://dookeela.live/",
-"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
-"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+		"name": "FIFA Club World Cup 2025🏆🥇",
+		"author": "FIFA Club World Cup 2025🏆",
+		"image":"https://img2.imgbiz.com/imgbiz/anigiffifab7839c4b81a196fd.gif",
+		"url": "https://dl.dropboxusercontent.com/scl/fi/bkasmko3bk7ulk8m14wg5/FIFA-Club.txt?rlkey=m6hxkwzthtu5nuguisppf5dsm&st=9y8zen10&dl=0",
+		 "info": "FIFA Club World Cup",
  
-"desktop"		:	"true",
-"playInNatPlayer"	:	"true"
-},
+		"stations": [
+
+
+
+{"name":"True Ball Thai 9 ",
+"image":"https://dookeela.live/uploads/1723660123.png",
+"url": "https://dookeela.live/live-tv/trueballthai9",
+"referer": "https://dookeela.live/",
+"playInNatPlayer": "true"},
+
+
+{"name":"Mono29-A",
+"image":"https://img2.pic.in.th/pic/mono29977274214da259a2.png",
+"url":"https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8",
+"playInNatPlayer":"true"},
+
+{"name":"Mono29-B",
+"image":"https://img2.pic.in.th/pic/mono29977274214da259a2.png",
+"url":"https://goal-th.com/ช่องรายการทีวี/?id=279&tv=MONO29(โมโน29)",
+"playInNatPlayer":"true"},
+
+{"name":"DAZN 1-A🇩🇪",
+"image":"https://img2.imgbiz.com/imgbiz/daza1doo.png",
+"url": "https://dookeela.live/live-tv/dazn1",
+"playInNatPlayer":"true"},
+
+{"name":"DAZN 1-B🇩🇪",
+"image":"https://img2.imgbiz.com/imgbiz/daza1doo.png",
+"url": "https://cdnsv1.bunnycdncloud.com/andaman888th/dazn1de/playlist.m3u8",
+"referer": "https://www.andaman888th.net/",
+"playInNatPlayer": "true"},
+
+
+
+
 
 ]
 }
