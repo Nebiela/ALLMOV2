@@ -6,6 +6,45 @@
  "stations": [
  
 
+{
+"name"			:	"Astro Premier League",
+"image"			:	"https://dookeela.live/uploads/1729384542.png",
+"url"			:	"https://dookeela.live/live-tv/astropremierleague",
+"referer"		:	"https://dookeela.live/",
+"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+ 
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+{
+"name"			:	"Astro Premier League2",
+"image"			:	"https://dookeela.live/uploads/1729384542.png",
+"url"			:	"https://dookeela.live/live-tv/astropremierleague2",
+"referer"		:	"https://dookeela.live/",
+"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+ 
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+
+
+{
+"name"			:	"True Ball Thai 9 ",
+"image"			:	"https://dookeela.live/uploads/1723660123.png",
+"url"			:	"https://dookeela.live/live-tv/trueballthai9",
+"referer"		:	"https://dookeela.live/",
+"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+ 
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+
 
 			{
 				"name": " EPL-1",
