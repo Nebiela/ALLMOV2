@@ -8,6 +8,23 @@
 		"stations": [
 
 
+{"name":"sporttv1",
+"image":"https://dookeela.live/uploads/1663979709.png",
+"url": "https://dookeela.live/live-tv/sporttv1",
+"referer": "https://dookeela.live/",
+"playInNatPlayer": "true"},
+
+{"name":"sporttvplus",
+"image":"https://dookeela.live/uploads/1736239662.png",
+"url": "https://dookeela.live/live-tv/sporttvplus",
+"referer": "https://dookeela.live/",
+"playInNatPlayer": "true"},
+
+{"name":"3bbsports1",
+"image":"https://dookeela.live/uploads/1720429672.png",
+"url": "https://dookeela.live/live-tv/3bbsports1",
+"referer": "https://dookeela.live/",
+"playInNatPlayer": "true"},
 
 {"name":"trueidsports1",
 "image":"https://dookeela.live/uploads/1743311087.png",
