@@ -126,6 +126,49 @@
 "referer": "https://dookeela.live/",
 "playInNatPlayer": "true"},
 
+{"name":"truesports 3",
+"image":"https://dookeela.live/uploads/1664802480.png",
+"url": "https://dookeela.live/live-tv/tsp3",
+"referer": "https://dookeela.live/",
+"playInNatPlayer": "true"},
+
+{"name":"truesports 2",
+"image":"https://dookeela.live/uploads/1664499966.png",
+"url": "https://dookeela.live/live-tv/tsp2",
+"referer": "https://dookeela.live/",
+"playInNatPlayer": "true"},
+
+
+{"name":"truesports 3",
+"image":"https://dookeela.live/uploads/1664802480.png",
+"url": "https://dookeela.live/live-tv/tsp3",
+"referer": "https://dookeela.live/",
+"playInNatPlayer": "true"},
+
+{"name":"beinsport2 fr",
+"image":"https://dookeela.live/uploads/1685036091.png",
+"url": "https://dookeela.live/live-tv/beinsport2fr",
+"referer": "https://dookeela.live/",
+"playInNatPlayer": "true"},
+
+{"name":"beinsport2 fr",
+"image":"https://dookeela.live/uploads/1664323955.png",
+"url": "https://dookeela.live/live-tv/beinsport1fr",
+"referer": "https://dookeela.live/",
+"playInNatPlayer": "true"},
+
+{"name":"beinsports1tu",
+"image":"https://dookeela.live/uploads/1664502528.png",
+"url": "https://dookeela.live/live-tv/beinsports1tu",
+"referer": "https://dookeela.live/",
+"playInNatPlayer": "true"},
+
+{"name":"beinsports2tu",
+"image":"https://dookeela.live/uploads/1664502539.png",
+"url": "https://dookeela.live/live-tv/beinsports2tu",
+"referer": "https://dookeela.live/",
+"playInNatPlayer": "true"},
+
 
 ]
 }
