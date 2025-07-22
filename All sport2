@@ -10,55 +10,64 @@
 "name"					:			"บีอินสปอตส์ 1",
 "image"					:			"https://dookeela.live/uploads/1664500365.png",
 "url"					:			"https://dookeela.live/live-tv/bein1"
-},
+"referer": "https://dookeela.live/",
+"playInNatPlayer": "true"},
 
 {
 "name"					:			"บีอินสปอตส์ 2",
 "image"					:			"https://dookeela.live/uploads/1690843424.png",
 "url"					:			"https://dookeela.live/live-tv/bein2"
-},
+"referer": "https://dookeela.live/",
+"playInNatPlayer": "true"},
 
 {
 "name"					:			"บีอินสปอตส์ 3",
 "image"					:			"https://dookeela.live/uploads/1663980670.png",
 "url"					:			"https://dookeela.live/live-tv/bein3"
-},
+"referer": "https://dookeela.live/",
+"playInNatPlayer": "true"},
 
 {
 "name"					:			"dazn1",
 "image"					:			"https://dookeela.live/uploads/1679423986.png",
 "url"					:			"https://dookeela.live/live-tv/dazn1"
-},
+"referer": "https://dookeela.live/",
+"playInNatPlayer": "true"},
 
 {
 "name"					:			"dazn2",
 "image"					:			"https://dookeela.live/uploads/1694286704.png",
 "url"					:			"https://dookeela.live/live-tv/dazn2"
-},
+"referer": "https://dookeela.live/",
+"playInNatPlayer": "true"},
 
 {
 "name"					:			"dazn1 ES",
 "image"					:			"https://dookeela.live/uploads/1715571844.png",
 "url"					:			"https://dookeela.live/live-tv/dazn1es"
-},
+"referer": "https://dookeela.live/",
+"playInNatPlayer": "true"},
 
 {
 "name"					:			"dazn2 ES",
 "image"					:			"https://dookeela.live/uploads/1715571857.png",
 "url"					:			"https://dookeela.live/live-tv/dazn2es"
-},
+"referer": "https://dookeela.live/",
+"playInNatPlayer": "true"},
 
 {
 "name"					:			"ASEAN Mandiri Cup 2025",
 "image"					:			"https://dookeela.live/uploads/1752532908.png",
 "url"					:			"https://dookeela.live/live-tv/asean-u23-mandiri-cup-1"
-},
+"referer": "https://dookeela.live/",
+"playInNatPlayer": "true"},
 
 {
 "name"					:			"2 ASEAN Mandiri Cup 2025",
 "image"					:			"https://dookeela.live/uploads/1752532908.png",
 "url"					:			"https://dookeela.live/live-tv/asean-u23-mandiri-cup-2"
-},
+"referer": "https://dookeela.live/",
+"playInNatPlayer": "true"},
 
 
 
