@@ -5,107 +5,61 @@
  "image": "https://i.postimg.cc/CKSb1R6H/Sport.jpg",
  "groups": [
   
-{ 
-"name": "ฟุตบอล",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHBdFq77mFZvOxRyOsSGwgmzthRCnf140I9Q&s",
-"url": "https://docs.google.com/uc?export=download&id=1drRsv6Lo0kV8jYUGI3edOcLGao11PV3J",
-"import": false 
-},
+
 {
-"name"					:			"LIVE 1",
-"image"					:			"https://docs.google.com/uc?id=1FwOJs_QlGYnFUkI1TFuc73AcY2UxiHuA",
-"url"					:			"https://docs.google.com/uc?id=13aIp2X9Wz_rnNXuIyGnUHNu830zADTmc"
+"name"					:			"บีอินสปอตส์ 1",
+"image"					:			"https://dookeela.live/uploads/1664500365.png",
+"url"					:			"https://dookeela.live/live-tv/bein1"
 },
 
 {
-"name"					:			"LIVE 2",
-"image"					:			"https://docs.google.com/uc?id=1FwOJs_QlGYnFUkI1TFuc73AcY2UxiHuA",
-"url"					:			"https://docs.google.com/uc?id=1IK7LSr9let7H5GvjNTMcsUZifhq2n0_w"
-},
-{
-"name": "กีฬา 1 สำรอง",
-"image": "https://www.cloudroom.me/wp-content/uploads/2021/08/CLR-Blog-Sport.jpg",
-"url": "https://docs.google.com/uc?export=download&id=1HCVG2v6VAeaACGwXPG0vbXgYifxCCxVk",
-"import": false
-},
-{"name":"▶️Premier Bein⚽",
-"image":"https://i.imgur.com/Lsfkjj8.png",
-"url":"https://dl.dropboxusercontent.com/scl/fi/dwe1xeejht4birz7c83wn/DooTube-Premier.txt?rlkey=rg76gk8qbcpr5h7lsakmv63jx&st=xhcu82j9&dl=0",
-"import": false},
- 
-{"name":"▶️Sports⚽",
-"image":"https://i.imgur.com/UQHcS76.png",
-"url":"https://dl.dropboxusercontent.com/scl/fi/840ondnlcb8du3b1yg5k3/DooTube-Sports.txt?rlkey=0zo0u0wvf9twwi132w993fss5&st=5y3jo48q&dl=0",
-"import": false},
-
-{"name":"▶️Sports Inter🥇",
-"image":"https://i.imgur.com/LLwTraC.png",
-"url":"https://dl.dropboxusercontent.com/scl/fi/9uok6a6f0xg924474386h/DooTube-Sports-Inter.txt?rlkey=x1mawnw9tmzq74pf2ew2ohiil&st=pu4mmfkl&dl=0",
-"import": false}, 
-
-{"name":"▶️MotorSports🏍️",
-"image":"https://i.imgur.com/SAzXAPC.png",
-"url":"https://dl.dropboxusercontent.com/scl/fi/5hgpzsnxzysf696tvhtvk/DooTube-MotorSports.txt?rlkey=5uyqmpj948ov42ks1dntazqa8&st=kphvbbqj&dl=0",
-"import": false}, 
-
-{"name":"▶️Cycling Sports🚴",
-"image":"https://i.imgur.com/gu7ivmc.png",
-"url":"https://dl.dropboxusercontent.com/scl/fi/https://www.dropbox.com/scl/fi/s4f98vqwyc7idjdnbj10c/DooTube-Cycling.txt?rlkey=c6k3h8hxhbxcasm46egf2shk7&st=ev12goqi&dl=0",
-"import": false}, 
-
-{"name":"▶️Badminton Tennis🏸",
-"image":"https://i.imgur.com/KeVNc4r.png",
-"url":"https://dl.dropboxusercontent.com/scl/fi/dm4crg7nmku8xvscszvd1/DooTube-Tennis-Badminton.txt?rlkey=rbp9jogiv46jaeuz5jk8k3zgf&st=frbpg31a&dl=0",
-"import": false}, 
-
-{"name":"▶️Golf Sports🏌",
-"image":"https://i.imgur.com/b1JXbzn.png",
-"url":"https://dl.dropboxusercontent.com/scl/fi/ljqym9rxiyebdarhcsb0y/DooTube-Golf.txt?rlkey=l2m22250ug2zaybsqtvl02eeq&st=o73ayzez&dl=0",
-"import": false}, 
-
-{"name":"▶️Basketball🏀",
-"image":"https://i.imgur.com/e46Yimn.png",
-"url":"https://dl.dropboxusercontent.com/scl/fi/enty0ld4dskhaajbh67x1/DooTube-Basketball.txt?rlkey=467pidvu40ikukmnwt8em9ml5&st=829jfhhb&dl=0",
-"import": false},
-
-{"name":"▶️NFL,NHL,MLB🏈",
-"image":"https://i.imgur.com/fbPgIeB.png",
-"url":"https://dl.dropboxusercontent.com/scl/fi/9l90i4znzt7e4en1zda3s/DooTube-NFL-NHL-MLB.txt?rlkey=plkcozvytd3oxqjyzpqd6unud&st=8lcap4g8&dl=0",
-"import": false}, 
-
-{"name":"▶️Volleyball🏐",
-"image":"https://i.imgur.com/EKn1L44.png",
-"url":"https://dl.dropboxusercontent.com/scl/fi/00qv6xfmp5j2slb0f9573/DooTube-Volleyball.txt?rlkey=qf4mdt0sek55yoha5gk3xxurj&st=yn10wb68&dl=0",
-"import": false}, 
-
-{"name":"▶️Snooker🥢",
-"image":"https://i.imgur.com/ggXVwOk.png",
-"url":"https://dl.dropboxusercontent.com/scl/fi/2v7rn38fostzopjyh16cw/DooTube-Snooker.txt?rlkey=svpnpwnbroet9qmqrn5ui1yhw&st=q8gnkpsn&dl=0",
-"import": false}, 
-
-{"name":"▶️WWE Fight Boxing🥊",
-"image":"https://i.imgur.com/p6IJAew.png",
-"url":"https://dl.dropboxusercontent.com/scl/fi/cwqszszk8hnxyhy5b6tyx/DooTube-WWE-Boxing.txt?rlkey=jcetbb38230yeh70ceysidyuv&st=j2ida5yt&dl=0",
-"import": false}, 
-
-{"name":"▶️Extreme Sports🛹",
-"image":"https://i.imgur.com/AigPhh2.png",
-"url":"https://dl.dropboxusercontent.com/scl/fi/emi5q9wmhas3wsi1donjl/DooTube-Extreme.txt?rlkey=62mxl7atht5wccl1l368x8xh2&st=0c5i4inq&dl=0",
-"import": false}, 
-
-{
-"name": "สำรองบอล เผื่อฉุกเฉิน",
-"image": "http://www.sw2.ac.th/images/Aey/Sport63/vx2kj8.gif",
-"url": "https://drive.google.com/uc?export=download&id=1DKqFO_DZdyBYQMK4yhjXNUnj9JJhV5Lp",
-"import": false
+"name"					:			"บีอินสปอตส์ 2",
+"image"					:			"https://dookeela.live/uploads/1690843424.png",
+"url"					:			"https://dookeela.live/live-tv/bein2"
 },
 
 {
-"name": "super sport ",
-"image": "https://iconape.com/wp-content/files/hz/282292/png/supersport-logo.png",
-"url": "https://docs.google.com/uc?export=download&id=1AwAY2mWmvFAGTdBAEiFnXP6Htk4tsPG5",
-"import": false
+"name"					:			"บีอินสปอตส์ 3",
+"image"					:			"https://dookeela.live/uploads/1663980670.png",
+"url"					:			"https://dookeela.live/live-tv/bein3"
 },
+
+{
+"name"					:			"dazn1",
+"image"					:			"https://dookeela.live/uploads/1679423986.png",
+"url"					:			"https://dookeela.live/live-tv/dazn1"
+},
+
+{
+"name"					:			"dazn2",
+"image"					:			"https://dookeela.live/uploads/1694286704.png",
+"url"					:			"https://dookeela.live/live-tv/dazn2"
+},
+
+{
+"name"					:			"dazn1 ES",
+"image"					:			"https://dookeela.live/uploads/1715571844.png",
+"url"					:			"https://dookeela.live/live-tv/dazn1es"
+},
+
+{
+"name"					:			"dazn2 ES",
+"image"					:			"https://dookeela.live/uploads/1715571857.png",
+"url"					:			"https://dookeela.live/live-tv/dazn2es"
+},
+
+{
+"name"					:			"ASEAN Mandiri Cup 2025",
+"image"					:			"https://dookeela.live/uploads/1752532908.png",
+"url"					:			"https://dookeela.live/live-tv/asean-u23-mandiri-cup-1"
+},
+
+{
+"name"					:			"2 ASEAN Mandiri Cup 2025",
+"image"					:			"https://dookeela.live/uploads/1752532908.png",
+"url"					:			"https://dookeela.live/live-tv/asean-u23-mandiri-cup-2"
+},
+
 
 
 ]
