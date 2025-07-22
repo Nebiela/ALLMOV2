@@ -1,6 +1,6 @@
 {
-		"name": "Sport 3🏆🥇",
-		"author": "Sport 3🏆",
+		"name": "Sport 2🏆🥇",
+		"author": "Sport 2🏆",
 		"image":"https://img2.imgbiz.com/imgbiz/anigiffifab7839c4b81a196fd.gif",
 		"url": "https://dl.dropboxusercontent.com/scl/fi/bkasmko3bk7ulk8m14wg5/FIFA-Club.txt?rlkey=m6hxkwzthtu5nuguisppf5dsm&st=9y8zen10&dl=0",
 		 "info": "FIFA Club World Cup",
@@ -166,6 +166,105 @@
 {"name":"beinsports2tu",
 "image":"https://dookeela.live/uploads/1664502539.png",
 "url": "https://dookeela.live/live-tv/beinsports2tu",
+"referer": "https://dookeela.live/",
+"playInNatPlayer": "true"},
+
+{"name":"Astro football",
+"image":"https://dookeela.live/uploads/1729384406.png",
+"url": "https://dookeela.live/live-tv/astrofootball",
+"referer": "https://dookeela.live/",
+"playInNatPlayer": "true"},
+
+
+{"name":"Astro Premier League",
+"image":"https://dookeela.live/uploads/1729384542.png",
+"url": "https://dookeela.live/live-tv/astropremierleague",
+"referer": "https://dookeela.live/",
+"playInNatPlayer": "true"},
+
+{"name":"Astro Premier League2",
+"image":"https://dookeela.live/uploads/1729384542.png",
+"url": "https://dookeela.live/live-tv/astropremierleague2",
+"referer": "https://dookeela.live/",
+"playInNatPlayer": "true"},
+
+
+{"name":"DAZN 1 | Spain",
+"image":"https://dookeela.live/uploads/1715571844.png",
+"url": "https://dookeela.live/live-tv/dazn1es",
+"referer": "https://dookeela.live/",
+"playInNatPlayer": "true"},
+
+
+{"name":"DAZN 2 | Spain",
+"image":"https://dookeela.live/uploads/1715571857.png",
+"url": "https://dookeela.live/live-tv/dazn2es",
+"referer": "https://dookeela.live/",
+"playInNatPlayer": "true"},
+
+
+{"name":"spotv",
+"image":"https://dookeela.live/uploads/1664529562.png",
+"url": "https://dookeela.live/live-tv/spotv",
+"referer": "https://dookeela.live/",
+"playInNatPlayer": "true"},
+
+{"name":"spotv2",
+"image":"https://dookeela.live/uploads/1664529575.png",
+"url": "https://dookeela.live/live-tv/spotv2",
+"referer": "https://dookeela.live/",
+"playInNatPlayer": "true"},
+
+{"name":"mlb",
+"image":"https://dookeela.live/uploads/1695548172.png",
+"url": "https://dookeela.live/live-tv/mlb",
+"referer": "https://dookeela.live/",
+"playInNatPlayer": "true"},
+
+
+{"name":"nba",
+"image":"https://dookeela.live/uploads/1664532126.png",
+"url": "https://dookeela.live/live-tv/nba",
+"referer": "https://dookeela.live/",
+"playInNatPlayer": "true"},
+
+{"name":"astrocrickethd",
+"image":"https://dookeela.live/uploads/1720166377.png",
+"url": "https://dookeela.live/live-tv/astrocrickethd",
+"referer": "https://dookeela.live/",
+"playInNatPlayer": "true"},
+
+{"name":"mutv",
+"image":"https://dookeela.live/uploads/1665106261.png",
+"url": "https://dookeela.live/live-tv/mutv",
+"referer": "https://dookeela.live/",
+"playInNatPlayer": "true"},
+
+
+{"name":"lfctv",
+"image":"https://dookeela.live/uploads/1669940282.png",
+"url": "https://dookeela.live/live-tv/lfctv",
+"referer": "https://dookeela.live/",
+"playInNatPlayer": "true"},
+
+
+{"name":"TV4 Fotboll (Sweden)",
+"image":"https://dookeela.live/uploads/1695936059.png",
+"url": "https://dookeela.live/live-tv/tv4fotboll",
+"referer": "https://dookeela.live/",
+"playInNatPlayer": "true"},
+
+
+{"name":"ESPN 1 Netherlands",
+"image":"https://dookeela.live/uploads/1664501652.png",
+"url": "https://dookeela.live/live-tv/foxsports1nl",
+"referer": "https://dookeela.live/",
+"playInNatPlayer": "true"},
+
+
+{"name":"ESPN 2 Netherlands",
+"image":"https://dookeela.live/uploads/1664501662.png",
+"url": "https://dookeela.live/live-tv/foxsports2nl",
 "referer": "https://dookeela.live/",
 "playInNatPlayer": "true"},
 
