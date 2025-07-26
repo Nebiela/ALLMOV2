@@ -4,7 +4,128 @@
  "image": "https://www.bettertechtips.com/wp-content/uploads/2021/07/image1__-696x385.jpg",
  "info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
  "stations": [
- 
+
+
+
+
+	{
+				"name": "monomax01_720 -2",
+				"image": "https://img2.pic.in.th/pic/mono29977274214da259a2.png",
+				"imageScale": "fitStart",
+				"url": "https://e107.google-streams.com:9307/v5/_h3uDWTvSpbMI-4V-_ytRg/1753499534/e23e13315f256206b15485fea9f4226f/v_dpgAPrYGgttLVamRLQHg/1753510214/live/vx-origin/th-monomax02_720/playlist.m3u8",
+				"referer": "https://livesod365.com/live/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+
+	{
+				"name": "monomax01_720 -1",
+				"image": "https://img2.pic.in.th/pic/mono29977274214da259a2.png",
+				"imageScale": "fitStart",
+				"url": "https://s2x.apple-streams.com:9314/v5/JAUCAUO0hc-ZWsMDxUfcmQ/1753499387/e23e13315f256206b15485fea9f4226f/XfSVwZKgn75ndS4wDtwUfA/1753510067/live/lx-origin/th-monomax01_720/playlist.m3u8",
+				"referer": "https://livesod365.com/live/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+	{
+				"name": "beinsport2fr",
+				"image": "https://dookeela.live/uploads/1685036091.png",
+				"imageScale": "fitStart",
+				"url": "https://cdn2.aws-live-streaming.com/lsmscore/beinsport2fr/playlist.m3u8",
+				"referer": "https://dookeela.live/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+
+	{
+				"name": "beinsport1fr",
+				"image": "https://dookeela.live/uploads/1664323955.png",
+				"imageScale": "fitStart",
+				"url": "https://cdn2.aws-live-streaming.com/lsmscore/beinsport1fr/playlist.m3u8",
+				"referer": "https://dookeela.live/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+
+
+	{
+				"name": "mono29",
+				"image": "https://img2.pic.in.th/pic/mono29977274214da259a2.png",
+				"imageScale": "fitStart",
+				"url": "https://s2x.apple-streams.com:9314/v5/JAUCAUO0hc-ZWsMDxUfcmQ/1753499387/e23e13315f256206b15485fea9f4226f/XfSVwZKgn75ndS4wDtwUfA/1753510067/live/lx-origin/th-monomax01_720/playlist.m3u8",
+				"referer": "",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+
+	{
+				"name": "spotv2",
+				"image": "https://dookeela.live/uploads/1664529575.png",
+				"imageScale": "fitStart",
+				"url": "https://cdn2.aws-live-streaming.com/lsmscore/spotv2/playlist.m3u8",
+				"referer": "",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+
+
+	{
+				"name": "spotv",
+				"image": "https://dookeela.live/uploads/1664529562.png",
+				"imageScale": "fitStart",
+				"url": "https://cdn2.aws-live-streaming.com/lsmscore/spotv/playlist.m3u8",
+				"referer": "",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+
+	{
+				"name": "mono29",
+				"image": "https://img2.pic.in.th/pic/mono29977274214da259a2.png",
+				"imageScale": "fitStart",
+				"url": "https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8",
+				"referer": "",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+	{
+				"name": "DAZN 1",
+				"image": "https://img2.imgbiz.com/imgbiz/daza1doo.png",
+				"imageScale": "fitStart",
+				"url": "https://cdn1.googlecdn.live/4k/dazn1/playlist.m3u8",
+				"referer": "https://dookeela.live/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+	{
+				"name": "DAZN 1",
+				"image": "https://img2.imgbiz.com/imgbiz/daza1doo.png",
+				"imageScale": "fitStart",
+				"url": "https://cdnsv1.bunnycdncloud.com/andaman888th/dazn1de/playlist.m3u8",
+				"referer": "https://www.andaman888th.net/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+
+			{
+				"name": "DAZN 1",
+				"image": "https://img2.imgbiz.com/imgbiz/daza1doo.png",
+				"imageScale": "fitStart",
+				"url": "https://dkl-o53d.cdn.akamaiz.com/goalthcom_x5/dazn1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDI1IDExOjM0OjIyIEFNJmhhc2hfdmFsdWU9bmRNbkt5OWE1eU5SdkhlbG1HOEpvZz09JnZhbGlkbWludXRlcz0yMA==",
+				"referer": "https://goal-th.com/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
 
 
 
