@@ -8,22 +8,249 @@
 
 
 
+
 	{
-				"name": "monomax01_720 -2",
-				"image": "https://img2.pic.in.th/pic/mono29977274214da259a2.png",
+				"name": "Astro Football",
+				"image": "https://i.postimg.cc/xCcH0m7s/IMG-2879.png",
 				"imageScale": "fitStart",
-				"url": "https://e107.google-streams.com:9307/v5/_h3uDWTvSpbMI-4V-_ytRg/1753499534/e23e13315f256206b15485fea9f4226f/v_dpgAPrYGgttLVamRLQHg/1753510214/live/vx-origin/th-monomax02_720/playlist.m3u8",
-				"referer": "https://livesod365.com/live/",
+				"url": "https://live.catvod.com/smart.php?id=go_assp4/playlist.m3u8",
+				"referer": "",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+
+
+	{
+				"name": "Astro Premier League2",
+				"image": "https://i.postimg.cc/SsFqsF1w/IMG-2881.png",
+				"imageScale": "fitStart",
+				"url": "https://live.catvod.com/smart.php?id=go_assp2/playlist.m3u8",
+				"referer": "",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+
+
+	{
+				"name": "Astro Premier League",
+				"image": "https://i.postimg.cc/SsFqsF1w/IMG-2881.png",
+				"imageScale": "fitStart",
+				"url": "https://live.catvod.com/smart.php?id=go_assp1/playlist.m3u8",
+				"referer": "",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+
+
+	{
+				"name": "Red Bull TV",
+				"image": "https://i.postimg.cc/QCDrKFgh/IMG-1983.png",
+				"imageScale": "fitStart",
+				"url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8",
+				"referer": "",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+
+
+	{
+				"name": "Motorsport tv",
+				"image": "https://i.postimg.cc/sxrFVjLL/IMG-2897.png",
+				"imageScale": "fitStart",
+				"url": "https://eu.linear.zype.com/34713153-3597-42c0-bd0d-5023c3f60585/7823e98c-2e5f-49cf-8e73-425e237b86ff-hls4/live.m3u8",
+				"referer": "",
 				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
 				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
 			},
 
 
 	{
-				"name": "monomax01_720 -1",
-				"image": "https://img2.pic.in.th/pic/mono29977274214da259a2.png",
+				"name": "premier-sports--e-1",
+				"image": "https://i.postimg.cc/wj9WgKwB/IMG-3034.png",
 				"imageScale": "fitStart",
-				"url": "https://s2x.apple-streams.com:9314/v5/JAUCAUO0hc-ZWsMDxUfcmQ/1753499387/e23e13315f256206b15485fea9f4226f/XfSVwZKgn75ndS4wDtwUfA/1753510067/live/lx-origin/th-monomax01_720/playlist.m3u8",
+				"url": "https://stream1.freetv.fun/premier-sports--e-1.ctv",
+				"referer": "",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+	{
+				"name": "FIFA Plus ",
+				"image": "https://i.postimg.cc/g0BccBJ5/IMG-2292.png",
+				"imageScale": "fitStart",
+				"url": "https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8",
+				"referer": "",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+
+	{
+				"name": "DAZN_2",
+				"image": "https://i.postimg.cc/Kz6tzpjS/IMG-2155.png",
+				"imageScale": "fitStart",
+				"url": "http://212.102.60.231/DAZN_2/index.m3u8",
+				"referer": "",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+
+
+	{
+				"name": "DAZN_tw",
+				"image": "https://i.postimg.cc/yNNmrSt5/IMG-2154.png",
+				"imageScale": "fitStart",
+				"url": "https://stream1.freetv.fun/eleven-sports1--wj-1.ctv",
+				"referer": "",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+
+	{
+				"name": "DAZN_1",
+				"image": "https://i.postimg.cc/yNNmrSt5/IMG-2154.png",
+				"imageScale": "fitStart",
+				"url": "http://212.102.60.231/DAZN_1/index.m3u8",
+				"referer": "",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+	{
+				"name": "SPOTV2",
+				"image": "https://i.postimg.cc/8cHT19md/IMG-2906.png",
+				"imageScale": "fitStart",
+				"url": "https://stream1.freetv.fun/spotv-2--s-1.m3u8",
+				"referer": "",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+	{
+				"name": "SPOTV",
+				"image": "https://i.postimg.cc/BvgLVYdF/IMG-2904.png",
+				"imageScale": "fitStart",
+				"url": "https://tinyurl.com/87377f6b",
+				"referer": "",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+	{
+				"name": "skysports-f1",
+				"image": "https://i.postimg.cc/fLkZVX6p/IMG-2931.png",
+				"imageScale": "fitStart",
+				"url": "https://stream1.freetv.fun/skysports-f1--wj-1.ctv",
+				"referer": "",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+	{
+				"name": "sky-sports-football",
+				"image": "https://i.postimg.cc/tTyfwXMC/IMG-2892.png",
+				"imageScale": "fitStart",
+				"url": "https://stream1.freetv.fun/sky-sports-football-2.ctv",
+				"referer": "",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+
+	{
+				"name": "sky-sports-arena",
+				"image": "https://i.postimg.cc/3NcZKM2z/IMG-2937.png",
+				"imageScale": "fitStart",
+				"url": "https://stream1.freetv.fun/sky-sports-arena-4.ctv",
+				"referer": "",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+
+
+
+	{
+				"name": "skysports-epl",
+				"image": "https://i.postimg.cc/g2fBVhX1/IMG-2933.png",
+				"imageScale": "fitStart",
+				"url": "https://stream1.freetv.fun/skysports-epl--wj-1.ctv",
+				"referer": "",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+
+
+
+	{
+				"name": "espn2",
+				"image": "https://i.postimg.cc/gcTBS4yX/IMG-2607.png",
+				"imageScale": "fitStart",
+				"url": "http://143.244.60.30/ESPN_2/index.m3u8",
+				"referer": "",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+
+
+	{
+				"name": "espn",
+				"image": "https://i.postimg.cc/ZR75p0QB/IMG-2907.png",
+				"imageScale": "fitStart",
+				"url": "https://stream1.freetv.fun/espn-6.ctv",
+				"referer": "",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+
+	{
+				"name": "bein-xtra_SPORTS",
+				"image": "https://i.postimg.cc/xdjDpL1X/IMG-2488.png",
+				"imageScale": "fitStart",
+				"url": "https://bein-xtra-xumo.amagi.tv/playlist.m3u8",
+				"referer": "",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+
+	{
+				"name": "BEIN_SPORTS",
+				"image": "https://i.postimg.cc/zfDNbnp7/IMG-2011.png",
+				"imageScale": "fitStart",
+				"url": "https://fl5.moveonjoy.com/BEIN_SPORTS/index.m3u8",
+				"referer": "",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+
+
+	{
+				"name": "T Sport 7",
+				"image": "https://i.postimg.cc/CxNv6nGZ/IMG-1838.png",
+				"imageScale": "fitStart",
+				"url": "https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8",
+				"referer": "",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+
+	{
+				"name": "fwsport_fw",
+				"image": "https://i.postimg.cc/FRD3tkZz/IMG-1949.png",
+				"imageScale": "fitStart",
+				"url": "https://freelive2.inwstream.com:1936/freelive-edge/fwsport_fw-iptv.stream/playlist.m3u8",
 				"referer": "https://livesod365.com/live/",
 				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
 				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
