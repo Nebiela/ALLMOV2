@@ -9,7 +9,15 @@
 
 
 
-
+	{
+				"name": "monomax1",
+				"image": "https://dookeela2.live/uploads/1753517049.png",
+				"imageScale": "fitStart",
+				"url": "https://dkl-o53d.cdn.akamaiz.com/goalthcom_x5/monomax1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDI1IDc6MDc6NDQgQU0maGFzaF92YWx1ZT02RnprdUVFeUQrVFRwdXl4eVVpSWpnPT0mdmFsaWRtaW51dGVzPTIw",
+				"referer": "https://goal-th.com/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
 
 	{
 				"name": "Ais play2",
