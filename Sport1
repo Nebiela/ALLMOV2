@@ -9,11 +9,11 @@
 
 
 	{
-				"name": "sky sports EPL",
-				"image": "https://pbs.twimg.com/profile_images/1605131756310614017/05qwHae-_400x400.jpg",
+				"name": "MonoMax1",
+				"image": "https://dookeela2.live/uploads/1753517049.png",
 				"imageScale": "fitStart",
-				"url": "http://tv.premiumplus.tv/play/live.php?mac=10:27:BE:2E:19:4F&stream=1424311&extension=m3u8",
-				"referer": "http://tv.premiumplus.tv/",
+				"url": "https://dookeela2.live/live-tv/monomax1",
+				"referer": "https://dookeela2.live/",
 				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
 				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
 			},
