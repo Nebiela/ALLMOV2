@@ -18,6 +18,7 @@
 				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
 			},
 
+
 	{
 				"name": "MonoMax1",
 				"image": "https://dookeela2.live/uploads/1753517049.png",
@@ -27,6 +28,37 @@
 				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
 				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
 			},
+
+
+	{
+				"name": "MonoMax1 สำรอง",
+				"image": "https://dookeela2.live/uploads/1753517049.png",
+				"imageScale": "fitStart",
+				"url": "https://freelive2.inwstream.com:1936/freelive-edge/fwsport_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDI1IDM6NDY6MDEgQU0maGFzaF92YWx1ZT1ZK2c4UVJ6ajIvRDhaaThOZ1lkYkdRPT0mdmFsaWRtaW51dGVzPTI=",
+				"referer": "https://freelive2.inwstream.com:1936/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+	{
+				"name": "MonoMax1 สำรอง2",
+				"image": "https://dookeela2.live/uploads/1753517049.png",
+				"imageScale": "fitStart",
+				"url": "https://168dooball.net/live-stream/?mode=ball&ch=monomax2",
+				"referer": "https://168dooball.net/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+	{
+				"name": "MonoMax1 สำรอง3",
+				"image": "https://dookeela2.live/uploads/1753517049.png",
+				"imageScale": "fitStart",
+				"url": "https://cdn1.googlecdn.live/4k/dklsport1/chunks.m3u8",
+				"referer": "https://footballsod.live/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
 
 	{
 				"name": "Ais play2",
