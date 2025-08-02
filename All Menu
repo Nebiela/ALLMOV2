@@ -67,9 +67,17 @@
   }	,
 
 {		
-   "name": "SportTV2",		
+   "name": "SportTV3",		
    "image": "https://www.ais.th/content/dam/ais/consumer/content/entertainment/banner-premier-leage-pc.jpg",
    "url": "https://docs.google.com/uc?export=download&id=1tcfYFOk6o8HVKauQcEJJP0DWyuSrpAJk",
+   "stations": [		
+   ]	
+  }	,
+
+{		
+   "name": "Begin Sport",		
+   "image": "https://www.letsbemates.com.au/mate/wp-content/uploads/2025/02/beIN-sports-blog-cover-image.png",
+   "url": "https://docs.google.com/uc?export=download&id=1HDaiKoidmyEig0yizILnaPbBKo1oPvzK",
    "stations": [		
    ]	
   }	,
