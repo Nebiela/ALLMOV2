@@ -4,8 +4,120 @@
  "image": "https://nbcpalmsprings.com/wp-content/uploads/sites/8/2021/12/BEST-MOVIES-OF-2021.jpeg",
  "info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
  "stations": [
- 
- 
+
+
+			{
+				"name": " HBO",
+				"image": "https://dookeela.live/uploads/1703686191.png",
+				"imageScale": "fitStart",
+				"url": "https://dookeela.live/live-tv/hbo",
+				"referer": "https://dookeela.live/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+        {
+"name": "HBO THAI",
+"image": "https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/logohbo.png",
+"imageScale": "fitStart",
+"url": "https://omeplay.com/embed/hbo",
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36",
+        "info":"(อัพเดท/2/1/24)",
+        "embed":"true",
+        "online":"true"
+        },
+
+			{
+				"name": "truethaifilm",
+				"image": "https://dookeela2.live/uploads/1706539896.png",
+				"imageScale": "fitStart",
+				"url": "https://dookeela2.live/live-tv/truethaifilm",
+				"referer": "https://dookeela.live/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+
+			{
+				"name": "trueseries",
+				"image": "https://dookeela2.live/uploads/1719205991.png",
+				"imageScale": "fitStart",
+				"url": "https://dookeela2.live/live-tv/trueseries",
+				"referer": "https://dookeela.live/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+			{
+				"name": "truemoviehits",
+				"image": "https://dookeela2.live/uploads/1719803882.png",
+				"imageScale": "fitStart",
+				"url": "https://dookeela2.live/live-tv/truemoviehits",
+				"referer": "https://dookeela.live/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+			{
+				"name": "warnertv",
+				"image": "https://dookeela2.live/uploads/1703832225.png",
+				"imageScale": "fitStart",
+				"url": "https://dookeela2.live/live-tv/warnertv",
+				"referer": "https://dookeela.live/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+			{
+				"name": "true4u",
+				"image": "https://dookeela2.live/uploads/1725896844.png",
+				"imageScale": "fitStart",
+				"url": "https://dookeela2.live/live-tv/true4u",
+				"referer": "https://dookeela.live/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+			{
+				"name": "ccm",
+				"image": "https://dookeela2.live/uploads/1719803240.png",
+				"imageScale": "fitStart",
+				"url": "https://dookeela2.live/live-tv/ccm",
+				"referer": "https://dookeela.live/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+			{
+				"name": "mangorn",
+				"image": "https://dookeela2.live/uploads/1705503765.png",
+				"imageScale": "fitStart",
+				"url": "https://dookeela2.live/live-tv/mangorn",
+				"referer": "https://dookeela.live/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+			{
+				"name": "mono29plus",
+				"image": "https://dookeela2.live/uploads/1703787733.png",
+				"imageScale": "fitStart",
+				"url": "https://dookeela2.live/live-tv/mono29plus",
+				"referer": "https://dookeela.live/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+			{
+				"name": "hits-movies",
+				"image": "https://dookeela2.live/uploads/1714100677.png",
+				"imageScale": "fitStart",
+				"url": "https://dookeela2.live/live-tv/hits-movies",
+				"referer": "https://dookeela.live/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
 			{
 				"name": " HBO",
 				"image": "https://dookeela.live/uploads/1703686191.png",
