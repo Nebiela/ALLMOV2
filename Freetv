@@ -16,16 +16,17 @@
 				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
 			},
 
-        {
-"name": "ch5hd",
-"image": "https://dookeela2.live/uploads/1664574997.png",
-"imageScale": "fitStart",
-"url": "https://dookeela2.live/live-tv/ch5hd",
-"userAgent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36",
-        "info":"()",
-        "embed":"true",
-        "online":"true"
-        },
+
+			{
+				"name": "ch5hd",
+				"image": "https://dookeela2.live/uploads/1664574997.png",
+				"imageScale": "fitStart",
+				"url": "https://dookeela2.live/live-tv/ch5hd",
+				"referer": "https://dookeela.live/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
 
 			{
 				"name": "ch7hd",
@@ -72,15 +73,6 @@
 
 
 
-			{
-				"name": "3bbsports1",
-				"image": "https://dookeela2.live/uploads/1673134276.png",
-				"imageScale": "fitStart",
-				"url": "https://dookeela2.live/live-tv/3bbsports1",
-				"referer": "https://dookeela.live/",
-				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
-				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
-			},
 
 
 			{
