@@ -35,6 +35,14 @@
   }	,
 
 {		
+   "name": "ฟรีทีวี&TV บันเทิง",		
+   "image": "https://www.psnsat.com/wp-content/uploads/2020/07/digital-ch-new.jpg",
+   "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/Freetv",
+   "stations": [		
+   ]	
+  }	,
+
+{		
    "name": "MOVIE&TV บันเทิง",		
    "image": "https://i0.wp.com/www.korseries.com/wp-content/uploads/2022/05/mtv-squid-game-jung-ho-yeon-cover.jpg",
    "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/TV",
