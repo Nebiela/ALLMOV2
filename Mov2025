@@ -6,6 +6,23 @@
 "stations" : [
 
 
+
+{  
+name:"ภราดธเลือด (2025)",
+image:"https://moviesdoofree.com/wp-content/uploads/2025/08/3-2-scaled.jpg",
+"url":"https://m3u8haha.com/movie/M15409.mp4/playlist.m3u8",
+"referer": "https://moviesdoofree.com/",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"ชีวิตอันธพาล (2025)",
+image:"https://moviesdoofree.com/wp-content/uploads/2025/08/3-1-scaled.jpg",
+"url":"https://m3u8haha.com/movie/M15405.mp4/playlist.m3u8",
+"referer": "https://moviesdoofree.com/",
+"playInNatPlayer": "true"
+},
+
 {  
 name:"War of the Worlds (2025)",
 image:"https://moviesdoofree.com/wp-content/uploads/2025/08/3-1-scaled.jpg",
