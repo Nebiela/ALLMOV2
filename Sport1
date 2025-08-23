@@ -6,6 +6,29 @@
  "stations": [
 
 
+
+	{
+				"name": "Ais PlAY playsports51",
+				"image": "https://s.isanook.com/hi/0/ud/312/1560949/untitled-1.jpg?ip/crop/w670h402/q80/jpg",
+				"imageScale": "fitStart",
+				"url": "https://dookeela2.live/live-tv/playsports51",
+				"referer": "https://dookeela2.live/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+
+	{
+				"name": "Ais PlAY football10",
+				"image": "https://s.isanook.com/hi/0/ud/312/1560949/untitled-1.jpg?ip/crop/w670h402/q80/jpg",
+				"imageScale": "fitStart",
+				"url": "https://dookeela2.live/live-tv/playsportsfootball10",
+				"referer": "https://dookeela2.live/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+
 	{
 				"name": "Ais PlAY",
 				"image": "https://s.isanook.com/hi/0/ud/312/1560949/untitled-1.jpg?ip/crop/w670h402/q80/jpg",
@@ -569,80 +592,7 @@
 
 
 
-			{
-				"name": " EPL-1",
-				"image": "https://dooball2you.com/wp-content/uploads/2021/09/True-Premier-Football-HD1-1-300x86.png",
-				"imageScale": "fitStart",
-				"url": "https://cdn2.aws-live-streaming.com/lsmscore/epl3/playlist.m3u8",
-				"referer": "https://dookeela.live/",
-				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
-				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
-			},
- 
 
-{
-"name"			:	"TRUE PREMIER HD1สำรอง ",
-"image"			:	"https://dooball2you.com/wp-content/uploads/2021/09/True-Premier-Football-HD1-1-300x86.png",
-"url"			:	"https://www.xn--72czaud0ezbn4b8de.com/live/player/epl1",
-"referer"		:	"https://www.xn--72czaud0ezbn4b8de.com/live/",
-"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
-"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
- 
-"desktop"		:	"true",
-"playInNatPlayer"	:	"true"
-},
-
-			{
-				"name": " TRUE PREMIER HD1",
-				"image": "https://dooball2you.com/wp-content/uploads/2021/09/True-Premier-Football-HD1-1-300x86.png",
-				"imageScale": "fitStart",
-				"url": "https://fw4free.inwstream.com/fw4free/ch1.stream/chunklist.m3u8",
-				"referer": "https://fw4free.com/",
-				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
-				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
-			},
-
-			{
-				"name": " TRUE PREMIER HD1",
-				"image": "https://dooball2you.com/wp-content/uploads/2021/09/True-Premier-Football-HD1-1-300x86.png",
-				"imageScale": "fitStart",
-				"url": "https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-1/playlist.m3u8",
-				"referer": "https://live-demo.iamtheme.com",
-				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
-				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
-			},
-
-			{
-				"name": " EPL-2",
-				"image": "https://dooball2you.com/wp-content/uploads/2021/09/True-Premier-Football-HD2-300x92.png",
-				"imageScale": "fitStart",
-				"url": "https://cdn2.aws-live-streaming.com/lsmscore/epl2/playlist.m3u8",
-				"referer": "https://dookeela.live/",
-				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
-				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
-			},
- 
- 			{
-				"name": " TRUE PREMIER HD2",
-				"image": "https://dooball2you.com/wp-content/uploads/2021/09/True-Premier-Football-HD2-300x92.png",
-				"imageScale": "fitStart",
-				"url": "https://fw4free.inwstream.com/fw4free/ch2.stream/chunklist.m3u8",
-				"referer": "https://fw4free.com/",
-				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
-				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
-			},
-
-{
-"name"			:	"TRUE PREMIER HD2สำรอง ",
-"image"			:	"https://dooball2you.com/wp-content/uploads/2021/09/True-Premier-Football-HD2-300x92.png",
-"url"			:	"https://www.xn--72czaud0ezbn4b8de.com/live/player/epl2",
-"referer"		:	"https://www.xn--72czaud0ezbn4b8de.com/live/",
-"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
-"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
- 
-"desktop"		:	"true",
-"playInNatPlayer"	:	"true"
-},
 
 			{
 				"name": " EPL-3",
@@ -655,10 +605,10 @@
 			},
 
 {
-"name"			:	"TRUE PREMIER HD3สำรอง ",
+"name"			:	"TRUE PREMIER HD3 ",
 "image"			:	"https://dooball2you.com/wp-content/uploads/2020/09/True-Premier-Football-HD3.png",
-"url"			:	"https://www.xn--72czaud0ezbn4b8de.com/live/player/epl3",
-"referer"		:	"https://www.xn--72czaud0ezbn4b8de.com/live/",
+"url"			:	"https://dookeela2.live/live-tv/tpf3",
+"referer"		:	"https://dookeela2.live/",
 "info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
 "userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
  
@@ -681,8 +631,8 @@
 				"name": " EPL-4",
 				"image": "https://dooball2you.com/wp-content/uploads/2020/09/tpf4.png",
 				"imageScale": "fitStart",
-				"url": "https://www.youdooball.com/?r=tv&id=154",
-				"referer": "https://www.youdooball.com/",
+				"url": "https://dookeela2.live/live-tv/tpf4",
+				"referer": "https://dookeela2.live/",
 				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
 				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
 			},
