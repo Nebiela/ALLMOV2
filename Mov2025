@@ -6,6 +6,22 @@
 "stations" : [
 
 
+{  
+name:" เดอะ คอนเจอริ่ง(2025)",
+image:"https://f.ptcdn.info/649/008/000/1376994965-Photo19825-o.jpg",
+"url":"https://main.24playerhd.com/newplaylist/c24736fd4314f59b43717335/c24736fd4314f59b43717335.m3u8",
+"referer": "https://moviesdoofree.com/",
+"playInNatPlayer": "true"
+},
+
+{  
+name:" หลวงพี่แจ๊สโคตรซิ่ง(2025)",
+image:"https://f.ptcdn.info/868/087/000/ma6eps0hi4AcRvs5f2q-o.jpg",
+"url":"https://main.24playerhd.com/newplaylist/c34830e45532a88473657bfc/c34830e45532a88473657bfc.m3u8",
+"referer": "https://moviesdoofree.com/",
+"playInNatPlayer": "true"
+},
+
 
 {  
 name:" กําเนิดเทพเจ้า(2025)",
