@@ -8,6 +8,68 @@
 		"stations": [
 
 
+{"name": "beIN Sports1-A🇹🇭",
+"image": "https://dookeela2.live/uploads/1664500365.png",
+"url": "https://cdn1.googlecdnforstreaming.live/live/bein1/chunks.m3u8",
+"referer": "https://warpdooball.net/",
+"playInNatPlayer": "true"},
+
+{"name": "beIN Sports1-B🇹🇭",
+"image": "https://dookeela2.live/uploads/1664500365.png",
+"url":"https://goal-th.com/ช่องรายการทีวี/?id=44",
+"playInNatPlayer":"true"},
+
+{"name": "beIN Sports1-C🇹🇭",
+"image": "https://dookeela2.live/uploads/1664500365.png",
+"url":"https://goal-th.com/ช่องรายการทีวี/?id=526",
+"playInNatPlayer":"true"},
+
+{"name": "beIN Sports2-A🇹🇭",
+"image": "https://dookeela2.live/uploads/1690843424.png",
+"url": "https://cdn1.googlecdnforstreaming.live/live/bein2/chunks.m3u8",
+"referer": "https://warpdooball.net/",
+"playInNatPlayer": "true"},
+
+{"name": "beIN Sports2-B🇹🇭",
+"image": "https://dookeela2.live/uploads/1690843424.png",
+"url":"https://goal-th.com/ช่องรายการทีวี/?id=188",
+"playInNatPlayer":"true"},
+
+{"name": "beIN Sports3-A🇹🇭",
+"image": "https://dookeela2.live/uploads/1663980670.png",
+"url": "https://cdn1.googlecdnforstreaming.live/live/bein3/chunks.m3u8",
+"referer": "https://warpdooball.net/",
+"playInNatPlayer": "true"},
+
+{"name": "beIN Sports3-B🇹🇭",
+"image": "https://dookeela2.live/uploads/1663980670.png",
+"url":"https://goal-th.com/ช่องรายการทีวี/?id=6",
+"playInNatPlayer":"true"},
+
+{"name": "beIN Sports4-A🇹🇭",
+"image": "https://dookeela2.live/uploads/1692816640.png",
+"url": "https://cdn1.googlecdnforstreaming.live/live/bein4/chunks.m3u8",
+"referer": "https://warpdooball.net/",
+"playInNatPlayer": "true"},
+
+{"name": "beIN Sports4-B🇹🇭",
+"image": "https://dookeela2.live/uploads/1692816640.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=201",
+"playInNatPlayer":"true"},
+
+{"name": "beIN Sports5-A🇹🇭",
+"image": "https://dookeela2.live/uploads/1693290376.png",
+"url": "https://cdn1.googlecdnforstreaming.live/live/bein5/chunks.m3u8",
+"referer": "https://warpdooball.net/",
+"playInNatPlayer": "true"},
+
+{"name": "beIN Sports5-B🇹🇭",
+"image": "https://dookeela2.live/uploads/1693290376.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=202",
+"playInNatPlayer":"true"},
+
+
+
 {"name":"monomax2",
 "image":"https://dookeela2.live/uploads/1753517049.png",
 "url": "http://bestcommt2.github.io/m3u8/monomax2.m3u8",
@@ -280,6 +342,76 @@
 "url": "https://dookeela.live/live-tv/foxsports2nl",
 "referer": "https://dookeela.live/",
 "playInNatPlayer": "true"},
+
+
+
+{"name":"Sports1-A🇹🇭",
+"image":"https://cdn.imgchest.com/files/7pjcq2ere27.png",
+"url": "https://dookeela2.live/live-tv/tsp1",
+"playInNatPlayer": "true"},
+
+{"name": "Sports1-B🇹🇭",
+"image":"https://cdn.imgchest.com/files/7pjcq2ere27.png",
+"url":"https://cdn1.googlecdnforstreaming.live/live/tsp1/chunks.m3u8",
+"referer": "https://warpdooball.net/",
+"playInNatPlayer":"true"},
+
+{"name": "Sports2-A🇹🇭",
+"image":"https://cdn.imgchest.com/files/7ogcb69d9my.png",
+"url": "https://dookeela2.live/live-tv/tsp2",
+"playInNatPlayer": "true"},
+
+{"name":"Sports2-B🇹🇭",
+"image":"https://cdn.imgchest.com/files/7ogcb69d9my.png",
+"url":"https://cdn1.googlecdnforstreaming.live/live/tps2/chunks.m3u8",
+"referer": "https://warpdooball.net/",
+"playInNatPlayer":"true"},
+
+{"name": "Sports3-A🇹🇭",
+"image":"https://cdn.imgchest.com/files/7kzcakr2rz7.png",
+"url": "https://dookeela2.live/live-tv/tsp3",
+"playInNatPlayer": "true"},
+
+{"name": "Sports3-B🇹🇭",
+"image":"https://cdn.imgchest.com/files/7kzcakr2rz7.png",
+"url":"https://cdn1.googlecdnforstreaming.live/live/tps3/chunks.m3u8",
+"referer": "https://warpdooball.net/",
+"playInNatPlayer":"true"},
+
+{"name": "Sports4-A🇹🇭",
+"image":"https://cdn.imgchest.com/files/y2pckewlwm7.png",
+"url":"https://cdn1.googlecdnforstreaming.live/live/tps4/chunks.m3u8",
+"referer": "https://warpdooball.net/",
+"playInNatPlayer":"true"},
+
+{"name": "Sports4-B🇹🇭",
+"image":"https://cdn.imgchest.com/files/y2pckewlwm7.png",
+"url": "https://dookeela2.live/live-tv/tsp4",
+"playInNatPlayer": "true"},
+
+{"name": "Sports5-A🇹🇭",
+"image":"https://cdn.imgchest.com/files/7lxcp5mlm87.png",
+"url": "https://dookeela2.live/live-tv/tsp5",
+"playInNatPlayer": "true"},
+
+{"name":"Sports5-B🇹🇭",
+"image":"https://cdn.imgchest.com/files/7lxcp5mlm87.png",
+"url":"https://cdn1.googlecdnforstreaming.live/live/tps5/chunks.m3u8",
+"referer": "https://warpdooball.net/",
+"playInNatPlayer":"true"},
+
+{"name": "Sports7-A🇹🇭",
+"image":"https://cdn.imgchest.com/files/4jdcved8dd4.png",
+"url": "https://cdn1.googlecdnforstreaming.live/live/tsp7/chunks.m3u8",
+"referer": "https://warpdooball.net/",
+"playInNatPlayer": "true"},
+
+{"name":"Sports7-B🇹🇭",
+"image":"https://cdn.imgchest.com/files/4jdcved8dd4.png",
+"url":"https://cdn1.googlecdnforstreaming.live/live/tps7/chunks.m3u8",
+"referer": "https://warpdooball.net/",
+"playInNatPlayer":"true"},
+
 
 
 ]
