@@ -339,8 +339,61 @@
 
 
 
+			{
+				"name": "Cartoon Network",
+				"image": "https://dookeela.live/uploads/1708344243.png",
+				"imageScale": "fitStart",
+				"url": "https://dookeela.live/live-tv/cartoon-network",
+				"referer": "https://dookeela.live/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
 
 
+
+
+			{
+				"name": "Boomerang",
+				"image": "https://dookeela.live/uploads/1705504202.png",
+				"imageScale": "fitStart",
+				"url": "https://dookeela.live/live-tv/boomerang",
+				"referer": "https://dookeela.live/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+
+			{
+				"name": "cartoonito",
+				"image": "https://dookeela.live/uploads/1704039063.png",
+				"imageScale": "fitStart",
+				"url": "https://dookeela.live/live-tv/cartoonito",
+				"referer": "https://dookeela.live/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+
+	{
+				"name": "Animax | Singapore",
+				"image": "https://dookeela.live/uploads/1704038567.png",
+				"imageScale": "fitStart",
+				"url": "https://dookeela.live/live-tv/animax",
+				"referer": "https://dookeela.live/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+
+	{
+				"name": "Astro Ceria",
+				"image": "https://dookeela.live/uploads/1721687988.png",
+				"imageScale": "fitStart",
+				"url": "https://dookeela.live/live-tv/astroceria",
+				"referer": "https://dookeela.live/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
 
 
 
