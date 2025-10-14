@@ -397,6 +397,44 @@
 
 
 
+			{
+				"name": "Cartoon Network 2",
+				"image": "https://dookeela.live/uploads/1708344243.png",
+				"imageScale": "fitStart",
+				"url": "https://github.com/bestcommt2/m3u8/raw/refs/heads/master/cn.m3u8",
+				"referer": "",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+
+
+			{
+				"name": "Cartoon Network 3",
+				"image": "https://dookeela.live/uploads/1708344243.png",
+				"imageScale": "fitStart",
+				"url": "http://45.154.24.21:80/play/bsR8VAkCzQktaM2gpi3CEAjhBrwlRxvCJp8mWvnLeuE/m3u8",
+				"referer": "",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+
+
+			{
+				"name": "Cartoon Network 4",
+				"image": "https://dookeela.live/uploads/1708344243.png",
+				"imageScale": "fitStart",
+				"url": "https://cdn09jtedge.indihometv.com/joss/194/cartoonnetwork/index.m3u8",
+				"referer": "",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+
+
+
+
 
 
 ]
