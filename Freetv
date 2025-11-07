@@ -261,6 +261,17 @@
 			},
 
 
+			{
+				"name": "hbo สำรอง",
+				"image": "https://dookeela2.live/uploads/1703686191.png",
+				"imageScale": "fitStart",
+				"url": "http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186515&extension=ts",
+				"referer": "https://livesod365.com/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+
 
 			{
 				"name": "ccm",
@@ -283,6 +294,15 @@
 				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
 			},
 
+			{
+				"name": "cinemax สำรอง",
+				"image": "https://dookeela2.live/uploads/1703786799.png",
+				"imageScale": "fitStart",
+				"url": "http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186470&extension=ts",
+				"referer": "https://wacth.tv",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
 
 
 			{
@@ -328,6 +348,17 @@
 				"imageScale": "fitStart",
 				"url": "https://dookeela2.live/live-tv/truefilm1",
 				"referer": "https://dookeela.live/",
+				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
+			},
+
+
+			{
+				"name": "True Film Asia",
+				"image": "https://dookeela2.live/uploads/1720380229.png",
+				"imageScale": "fitStart",
+				"url": "http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186466&extension=ts",
+				"referer": "https://livesod365.com/",
 				"info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
 				"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140", "online": "true"
 			},
