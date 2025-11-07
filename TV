@@ -6,6 +6,401 @@
  "stations": [
 
 
+{
+ "name": "HBOHD" ,
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png" ,
+"url":"http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186515&extension=ts",
+ "referer": "https://livesod365.com/","playInNatPlayer": "true" 
+}, 
+{
+ "name": "HBOHits" ,
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png" ,
+"url":"http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186429&extension=ts",
+ "referer": "https://livesod365.com/","playInNatPlayer": "true" 
+}, 
+{
+ "name": "HBOSignature" ,
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png" ,
+"url":"http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186513&extension=ts",
+ "referer": "https://livesod365.com/","playInNatPlayer": "true" 
+}, 
+{
+ "name": "Rock-Entertainment" ,
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Rock-Entertainment.png" ,
+"url":"http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186402&extension=ts",
+ "referer": "https://livesod365.com/","playInNatPlayer": "true" 
+}, 
+{
+ "name": "Action_Hollywood_Movies" ,
+"image": "https://provider-static.plex.tv/epg/cms/production/c94e3220-9a45-42e9-8bdb-01fc43e0f27c/white_textAction_Hollywood_Movies_logo_dark_-_Angela_Chan.png" ,
+"url":"http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186608&extension=ts",
+ "referer": "https://livesod365.com/","playInNatPlayer": "true" 
+}, 
+{
+ "name": "Warnertv" ,
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" ,
+"url":"http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186637&extension=ts",
+ "referer": "https://livesod365.com/","playInNatPlayer": "true" 
+}, 
+
+{
+ "name": "movie 1" ,
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLF9Ryybq2svASoKIC4L5_KkIxs_gVDtvCWGtBDkwL0XtdmFnKf4hx4O8&s=10" ,
+"url":"http://49.0.64.96:8007/Cartoonumi",
+ "referer": "https://livesod365.com/","playInNatPlayer": "true" 
+}, 
+
+{
+ "name": "movie 2" ,
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLF9Ryybq2svASoKIC4L5_KkIxs_gVDtvCWGtBDkwL0XtdmFnKf4hx4O8&s=10" ,
+"url":"http://49.0.64.96:8007/IZAA",
+ "referer": "https://livesod365.com/","playInNatPlayer": "true" 
+}, 
+
+{
+ "name": "movie 3" ,
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLF9Ryybq2svASoKIC4L5_KkIxs_gVDtvCWGtBDkwL0XtdmFnKf4hx4O8&s=10" ,
+"url":"http://49.0.64.96:8007/PING",
+ "referer": "https://livesod365.com/","playInNatPlayer": "true" 
+}, 
+
+{
+"name":"Movies4",  
+"image":"https://f.ptcdn.info/539/005/000/1369556467-movienight-o.jpg",  
+"url":"http://49.0.64.96:8007/IZAA",
+"referer": "https://49.0.64.96:8007",
+"info":"Server 49.0.64.96:8007",
+"playInNatPlayer":"true"},
+
+{
+"name":"Movies5",  
+"image":"https://f.ptcdn.info/539/005/000/1369556467-movienight-o.jpg",  
+"url":"http://49.0.64.96:8007/SERIES",
+"referer": "https://49.0.64.96:8007",
+"info":"Server 49.0.64.96:8007",
+"playInNatPlayer":"true"},
+
+{
+"name":"Movies6",  
+"image":"https://f.ptcdn.info/539/005/000/1369556467-movienight-o.jpg",  
+"url":"http://49.0.64.96:8007/PING",
+"referer": "https://49.0.64.96:8007",
+"info":"Server 49.0.64.96:8007",
+"playInNatPlayer":"true"},
+
+{
+"name":"Movies7",  
+"image":"https://f.ptcdn.info/539/005/000/1369556467-movienight-o.jpg",  
+"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/movies1.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"},
+
+{
+"name":"Movies8",  
+"image":"https://f.ptcdn.info/539/005/000/1369556467-movienight-o.jpg",  
+"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/movies2.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"},
+
+
+
+{
+"name":"True_Series",
+"image":"https://cms.dmpcdn.com/livetv/2023/04/28/456c5d00-e599-11ed-b550-9935ba8025b9_webp_original.webp",
+"url":"http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186586&extension=ts",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+
+
+{
+"name":"True Movie Hits",
+"image":"https://cms.dmpcdn.com/livetv/2024/01/16/cccc0160-b44c-11ee-9f05-591527f02603_webp_original.webp",
+"url":"http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186473&extension=ts",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+
+
+{
+"name":"True Asian More",
+"image":"https://cms.dmpcdn.com/livetv/2024/01/16/c8f249a0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp",
+"url":"http://45.139.122.199:2095/play/live.php?mac=10:27:BE:24:82:A5&stream=563002&extension=ts",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+
+{
+"name":"True Film Asia",
+"image":"https://img5.pic.in.th/file/secure-sv1/434696d0-e599-11ed-b26c-6b89d082d464_webp_original.png",
+"url":"http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186466&extension=ts",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+
+
+
+{"name": "Cinemax",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png",
+"url":"http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186470&extension=ts",
+"referer":"https://wacth.tv",
+ "info": "",
+ "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"},
+
+
+
+
+
+{
+"name":"FuckIDSeries",
+"image":"https://i.ibb.co/wFSYqgpG/logo-fuckseries.png",
+"url":"http://49.0.64.96:8007/SERIES",
+"info":"Server thaipbs",
+"playInNatPlayer":"true"},
+
+{
+"name":"FuckIDTOON",
+"image":"https://i.ibb.co/qYGcDkdc/logo-fuck-toon.png",
+"url":"http://49.0.64.96:8007/Cartoonumi",
+"info":"Server thaipbs",
+"playInNatPlayer":"true"},
+
+{
+"name":"FuckIDMovie",
+"image":"https://i.ibb.co/nqWvLRYF/logo-fuckmovie.png",
+"url":"http://49.0.64.96:8007/PING",
+"info":"Server thaipbs",
+"playInNatPlayer":"true"},
+
+
+{
+"name":"VIPA",
+"image":"https://i.imgur.com/URDVdVv.png",
+"url":"https://thaipbs-ophctt.cdn.byteark.com/0db95d655989436dbd571dcb8f70d98f/ap-southeast-1/6075037809001/profile_2/chunklist.m3u8", "referer":"https://thaipbs-live.cdn.byteark.com",
+"info":"Server thaipbs",
+"playInNatPlayer":"true"},
+{
+ "name": "ASIA SERIES" ,
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT19ub-DTS73CFIjvSjIwRTIKYdhqwAWlk1XoEClNpRLe-moPNNl1zgVLKi&s=10" ,
+"url":"http://49.0.64.96:8007/SERIES",
+ "referer": "https://livesod365.com/","playInNatPlayer": "true" 
+}, 
+{
+ "name": "universal" ,
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThuMYAveaoyGctdvwldsn_dMtBsoiYvgced8E1vaEWqpDxxo5bLBa5FgY&s=10" ,
+"url":"http://49.0.64.96:8007/H-Channel",
+ "referer": "https://livesod365.com/","playInNatPlayer": "true" 
+},
+
+{
+ "name": "Movie" ,
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaGB2pA7hcsQ6BaWYgQKeist-p0-lqGid26g&usqp=CAU" ,
+"url":"https://a28dc5e3f24c4a8da3a67c68be729c2c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-59-HIYAH-PLEX/mt/plex/59/hls/master/playlist.m3u8",
+ "referer": "https://livesod365.com/",
+"playInNatPlayer": "true" },
+
+
+{
+"name":"true4U",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png",
+"url":"https://iptv36.vercel.app/api/true.m3u8?channel=true4u",
+"referer":"https://iptv36.vercel.app/",
+"info":"Server iptv36",
+"playInNatPlayer":"true"},
+
+
+{
+"name":"Mono29",  
+"image":"https://mono29.com/app/themes/mono29-2017/assets/images/tumb_mono29.png",  
+"url":"https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/29/29.mpd",
+"info":"Server 3bbtv",
+"online":"true",
+"drm":"clearkey","drmkey":"96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516"},
+
+
+{
+"name":"HBO",
+"image":"https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-us.png?raw=true",
+"url":"http://panel.sulu1.cc:2052/travis1/travis1/88742",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+
+{
+"name":"HBO2",
+"image":"https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-2-us.png?raw=true",
+"url":"http://panel.sulu1.cc:2052/travis1/travis1/88743",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+
+{
+"name":"HBO Comedy",
+"image":"https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-comedy-us.png?raw=true",
+"url":"http://panel.sulu1.cc:2052/travis1/travis1/88744",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+
+{
+"name":"HBO Family",
+"image":"https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-family-us.png?raw=true",
+"url":"http://panel.sulu1.cc:2052/travis1/travis1/88745",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+
+{
+"name":"HBO Signature",
+"image":"https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-signature-us.png?raw=true",
+"url":"http://panel.sulu1.cc:2052/travis1/travis1/88746",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+
+{
+"name":"Lifetime Movie Network",
+"image":"https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/lifetime-movie-network-us.png?raw=true",
+"url":"http://panel.sulu1.cc:2052/travis1/travis1/88747",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+
+{
+"name":"MGM+",
+"image":"https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-us.png?raw=true",
+"url":"http://panel.sulu1.cc:2052/travis1/travis1/88748",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+{
+"name":"MGM+ Drive-in",
+"image":"https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-drive-in-us.png?raw=true",
+"url":"http://panel.sulu1.cc:2052/travis1/travis1/88749",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+{
+"name":"MGM+ Hits",
+"image":"https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-hits-us.png?raw=true",
+"url":"http://panel.sulu1.cc:2052/travis1/travis1/88750",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+{
+"name":"MGM+ Marquee",
+"image":"https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-marquee-us.png?raw=true",
+"url":"http://panel.sulu1.cc:2052/travis1/travis1/88751",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+{
+"name":"MoreMAX",
+"image":"https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-moremax-us.png?raw=true",
+"url":"http://panel.sulu1.cc:2052/travis1/travis1/88752",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+{
+"name":"ScreenPix",
+"image":"https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/screenpix-us.png?raw=true",
+"url":"http://panel.sulu1.cc:2052/travis1/travis1/88755",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+{
+"name":"ScreenPix Voices",
+"image":"https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/screenpix-voices-us.png?raw=true",
+"url":"http://panel.sulu1.cc:2052/travis1/travis1/88756",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+{
+"name":"ScreenPix Westerns",
+"image":"https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/screenpix-westerns-us.png?raw=true",
+"url":"http://panel.sulu1.cc:2052/travis1/travis1/88757",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+
+
+
+{
+"name":"TRUE X-ZYTE",
+"image":"https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp",
+"url":"https://github.com/BONDiptv/m3u8/raw/refs/heads/main/truexzyte.m3u8",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+
+
+
+
+{
+"name":"tvN",
+"image":"https://dookeela.live/uploads/1703833429.png",
+"url":"https://dookeela.live/live-tv/tvn-indonesia",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+
+
+
+{
+"name":"Cool Channel",
+"image":"https://cms.dmpcdn.com/livetv/2023/07/18/7c07f020-2515-11ee-ac34-39c66cab230f_webp_original.webp",
+"url":"https://live-iptv.cool-channel.com/cool/live-720P.m3u8",
+"referer":"https://live-iptv.cool-channel.com/",
+"info":"Server live-iptv",
+"playInNatPlayer":"true"},
+
+
+
+
+{
+"name":"Thainews",
+"image":"https://thaitvstream.com/streaming/thainews/thainews.png", 
+"url":"https://live.thaitvstream.com/play/thainews/index.m3u8",
+"referer":"https://live1.thaitvstream.com/",
+"info":"Server thaitvstream",
+"playInNatPlayer":"true"},
+
+{  
+"name":"Siamnewstv",
+"image":"https://thaitvstream.com/streaming/siamnewstv/siamnewstv.png",
+"url":"https://live1.thaitvstream.com/play/siamnewstv/index.m3u8",
+"referer":"https://live1.thaitvstream.com/",
+"info":"Server thaitvstream",
+"playInNatPlayer":"true"},
+
+
+{
+"name":"Chiangrai",
+"image":"https://thaitvstream.com/streaming/chiangrai/chiangrai.png",
+"url":"https://live.thaitvstream.com/play/chiangrai/index.m3u8",
+"referer":"https://live1.thaitvstream.com/",
+"info":"Server thaitvstream",
+"playInNatPlayer":"true"},
+
+{
+"name":"Mounchon TV",
+"image":"https://www.i-pic.info/i/6CRS654262.png",
+"url":"https://live2.thaitvstream.com/play/mounchontv/index.m3u8", 
+"referer": "https://live1.thaitvstream.com/",
+"info":"Server thaitvstream",
+"playInNatPlayer": "true"},
+
+
+{
+"name":"Channel8thailand",  
+"image":"https://lh3.googleusercontent.com/proxy/F8j5vaSEZFxgS0uTQl14JpNq0it64JmH9JmVq9yy8TA2hqPWIkngxc1rod8or-timxdb6g8SEzk3hyF8xbvMfUVYhncIqL3m5V_QRUAi04M-xfkiKjJUgHLcefodoRTIDrx350_WRq2pKqX8hwHcJmgkntiyNU5GZWv-cHvObw",  
+"url":"https://cdn-th-vip.login.in.th/ch8/ch8/chunklist_w238145399.m3u8",
+"info":"Server cdn",
+"playInNatPlayer":"true"},
+
+
 			{
 				"name": " HBO",
 				"image": "https://dookeela.live/uploads/1703686191.png",
