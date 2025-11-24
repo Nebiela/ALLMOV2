@@ -5,6 +5,24 @@
 "url"               :     "",
 "stations" : [
 
+
+{  
+name:"ทางรถไฟสายฝัน (2025)",
+image:"https://lk-hd1.com/wp-content/uploads/2025/11/Train-Dreams-2025-%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%A3%E0%B8%96%E0%B9%84%E0%B8%9F%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%9D%E0%B8%B1%E0%B8%99.jpg",
+"url":"https://main.24playerhd.com/m3u8/5d4598f38fb668e728e5bd08/5d4598f38fb668e728e5bd08168.m3u8",
+"referer": "https://www.24-hdmovie.com/",
+"playInNatPlayer": "true"
+},
+
+
+{  
+name:"อลวนสาวกลีบหาย (2025)",
+image:"https://lk-hd1.com/wp-content/uploads/2025/11/Flower-Girl-2025-%E0%B8%AD%E0%B8%A5%E0%B8%A7%E0%B8%99%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%81%E0%B8%A5%E0%B8%B5%E0%B8%9A%E0%B8%AB%E0%B8%B2%E0%B8%A2.jpg",
+"url":"https://main.24playerhd.com/m3u8/bd9b4020097b88cff0c22f96/bd9b4020097b88cff0c22f96168.m3u8",
+"referer": "https://www.24-hdmovie.com/",
+"playInNatPlayer": "true"
+},
+
 {  
 name:" (2025) เดอะ รันนิ่ง แมน zoom",
 image:"https://image.tmdb.org/t/p/original/bnGKTYXVkQp0TKWRfAvTTY1y2XC.jpg",
