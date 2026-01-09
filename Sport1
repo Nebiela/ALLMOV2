@@ -15,11 +15,11 @@
 "playInNatPlayer":"true"},
 
 {
-"name":"MONOMAX1สำรอง1",
-"image":"https://www.img07.xyz/assets/img/ch_logo/PL_Mono1.jpg",
-"url":"https://cdn1.googlecdnforstreaming.live/live/monomax1/chunks.m3u8",
-"referer":"https://warpdooball.net/", 
-"info":"Server warpdooball.net",                              
+"name":"MONOMAX2",
+"image":"https://www.img05.xyz/assets/img/ch_logo/PL_Mono2.jpg",
+"url":"https://www.livedoomovies.com:4431/Monomax_PL_2HD/playlist.m3u8",
+"referer":"https://www.movie2k.io/", 
+"info":"Server movie2k",                              
 "playInNatPlayer":"true"},
 
 
@@ -76,10 +76,10 @@
                 
 {
 "name":"MONOMAX2สำรอง1",
-"image":"https://www.img08.xyz/assets/img/ch_logo/PL_Mono2.jpg",    
-"url":"https://cdn1.googlecdnforstreaming.live/live/monomax-2/chunks.m3u8",
-"referer":"https://warpdooball.net/", 
-"info":"Server warpdooball.net",                              
+"image":"https://www.img05.xyz/assets/img/ch_logo/PL_Mono2.jpg",    
+"url":"https://www.livedoomovies.com:4431/Monomax_PL_2HD/playlist.m3u8",
+"referer":"https://www.movie2k.io/", 
+"info":"Server movie2k",                              
 "playInNatPlayer":"true"},
 
 {
