@@ -8,7 +8,7 @@
 
 {
 "name":"TNT SPORT BALL",
-"image":"", 
+"image":"https://raw.githubusercontent.com/Nebiela/iptvlive/refs/heads/main/TNT%20sport.png", 
 "url":"http://mooseven.ddns.net:9090/memfs/701c1f9b-581e-4c1a-9a96-70197aa1b6a7.m3u8",
 "referer":"",
 "info":"Server TNT",
