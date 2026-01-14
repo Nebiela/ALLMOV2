@@ -7,6 +7,14 @@
 
 
 {
+"name":"playsports",
+"image":"https://dookeela4.live/uploads/1767714588.png", 
+"url":"https://dookeela4.live/live-tv/playsports71",
+"referer":"https://dookeela4.live/live-tv/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+
+{
 "name":"TNT SPORT BALL",
 "image":"https://raw.githubusercontent.com/Nebiela/iptvlive/refs/heads/main/TNT%20sport.png", 
 "url":"http://mooseven.ddns.net:9090/memfs/701c1f9b-581e-4c1a-9a96-70197aa1b6a7.m3u8",
