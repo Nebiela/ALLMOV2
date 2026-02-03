@@ -17,6 +17,14 @@
 {
 "name":"HBOสำรอง1",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png",
+"url":"https://dookeela4.live/live-tv/hbo",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+
+{
+"name":"HBOสำรอง2",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png",
 "url":"https://raw.githubusercontent.com/cattviptv2605/movies/refs/heads/main/hbo.m3u8",
 "referer":"https://github.com/",
 "info":"Server github",
