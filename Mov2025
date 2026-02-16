@@ -7,6 +7,23 @@
 
 
 {  
+name:"(2026) คนข้างหลัง",
+image:"https://ua-film.online/wp-content/uploads/2026/01/24a8f8f4113f971a2934822eac4b14be.jpeg",
+"url":"https://main.24playerhd.com/newplaylist/0eafb6cb73b9f88373105c27/0eafb6cb73b9f88373105c27.m3u8",
+"referer": "https://www.24-hdmovie.com/",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"(2026) สรรพลี้หวน",
+image:"https://cdn.majorcineplex.com/uploads/movie/4715/bg_4715.png",
+"url":"https://main.24playerhd.com/newplaylist/3323eacd87a5e22ce44c4ff2/3323eacd87a5e22ce44c4ff2.m3u8",
+"referer": "https://www.24-hdmovie.com/",
+"playInNatPlayer": "true"
+},
+
+
+{  
 name:"(2026) คลั่งนรก หลบตาย",
 image:"https://files.thaiware.site/movie/2025-12/images-poster/251213120416897.jpg",
 "url":"https://main.24playerhd.com/newplaylist/1d1ca47ef68dcb4ae721e859/1d1ca47ef68dcb4ae721e859.m3u8",
