@@ -6,6 +6,24 @@
 "stations" : [
 
 
+
+
+{  
+name:"(2026)The Huntsman ",
+image:"https://lk-hd.net/wp-content/uploads/2026/02/The-Huntsman-2026.jpg",
+"url":"https://original.enjoy24cdn.com/hlsr2/78f75e987703f407e26b68cfcc89f0ad/master.m3u8",
+"referer": "https://lk-hd.net/",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"(2026)Fight Against Evil 3",
+image:"https://lk-hd.net/wp-content/uploads/2026/02/Fight-Against-Evil-3-2026.jpg",
+"url":"https://original.enjoy24cdn.com/hlsr2/d177df9235f9604ab18d7aee7dadb9ed/master.m3u8",
+"referer": "https://lk-hd.net/",
+"playInNatPlayer": "true"
+},
+
 {  
 name:"(2026) แผนระห่ำ ใหญ่ฟัดเดือด",
 image:"https://kub24hd.com/wp-content/uploads/2025/09/The-Shadows-Edge-2025.webp",
