@@ -6,7 +6,33 @@
 "stations" : [
 
 
+{  
+name:"(2026) เส้นทางปล้นโคตรระห่ำ",
+image:"https://lk-hd.net/wp-content/uploads/2026/02/Crime-101-2026-%E0%B9%80%E0%B8%AA%E0%B9%89%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%9B%E0%B8%A5%E0%B9%89%E0%B8%99%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B9%88%E0%B8%B3.jpg",
+"url":"https://original.enjoy24cdn.com/hlsr2/2b8bb44a3137c0ee6c0fc9afa4f32e7e/master.m3u8",
+"referer": "https://lk-hd.net/",
+"playInNatPlayer": "true"
+},
 
+
+
+
+{  
+name:"(2026) ประกาศจับเจียงหู ",
+image:"https://lk-hd.net/wp-content/uploads/2026/02/WANTED-2025-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%88%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%AB%E0%B8%B9.jpg",
+"url":"https://original.enjoy24cdn.com/hlsr2/a220f1404a71817eaa8b5910acf88f77/master.m3u8",
+"referer": "https://lk-hd.net/",
+"playInNatPlayer": "true"
+},
+
+
+{  
+name:"(2026) วุ่นแค้นแดนหิมะ ",
+image:"https://lk-hd.net/wp-content/uploads/2026/02/A-Frozen-Rage-2026-%E0%B8%A7%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%AB%E0%B8%B4%E0%B8%A1%E0%B8%B0.jpg",
+"url":"https://original.enjoy24cdn.com/hlsr2/781fabe77c1c29fa52fad9cad545b6a0/master.m3u8",
+"referer": "https://lk-hd.net/",
+"playInNatPlayer": "true"
+},
 
 {  
 name:"(2026)The Huntsman ",
