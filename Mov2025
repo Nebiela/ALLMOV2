@@ -6,7 +6,122 @@
 "stations" : [
 
 
-
+        {
+            "name": "A Fathers Miracle (2026)",
+            "image": "https://www.123hdtv.com/wp-content/uploads/2026/02/A-Fathers-Miracle-2026-300x450.png",
+            "url": "https://www.123hdtv.com/a-fathers-miracle"
+        },
+        {
+            "name": "The Swedish Connection (2026) ใต้เงาสวีเดน",
+            "image": "https://www.123hdtv.com/wp-content/uploads/2026/02/The-Swedish-Connection-2026-ใต้เงาสวีเดน-300x450.png",
+            "url": "https://www.123hdtv.com/the-swedish-connection"
+        },
+        {
+            "name": "Firebreak (2026) ดับไฟอารมณ์",
+            "image": "https://www.123hdtv.com/wp-content/uploads/2026/02/Firebreak-2026-ดับไฟอารมณ์-300x450.png",
+            "url": "https://www.123hdtv.com/firebreak"
+        },
+        {
+            "name": "Pavane (2026) เมื่อใจบ่มรัก",
+            "image": "https://www.123hdtv.com/wp-content/uploads/2026/02/Pavane-2026-เมื่อใจบ่มรัก-300x450.png",
+            "url": "https://www.123hdtv.com/pavane"
+        },
+        {
+            "name": "The Huntsman (2026)",
+            "image": "https://www.123hdtv.com/wp-content/uploads/2026/02/The-Huntsman-2026-300x450.png",
+            "url": "https://www.123hdtv.com/the-huntsman"
+        },
+        {
+            "name": "The Dreadful (2026)",
+            "image": "https://www.123hdtv.com/wp-content/uploads/2026/02/The-Dreadful-2026-300x450.png",
+            "url": "https://www.123hdtv.com/the-dreadful"
+        },
+        {
+            "name": "One Mile Chapter One (2026)",
+            "image": "https://www.123hdtv.com/wp-content/uploads/2026/02/One-Mile-Chapter-One-2026-300x450.png",
+            "url": "https://www.123hdtv.com/one-mile-chapter-one"
+        },
+        {
+            "name": "One Mile Chapter Two (2026)",
+            "image": "https://www.123hdtv.com/wp-content/uploads/2026/02/One-Mile-Chapter-Two-2026-300x450.png",
+            "url": "https://www.123hdtv.com/one-mile-chapter-two"
+        },
+        {
+            "name": "Fury In The Shadows (2026) คดีปล้นโหดระห่ำ",
+            "image": "https://www.123hdtv.com/wp-content/uploads/2026/02/Fury-In-The-Shadows-2026-คดีปล้นโหดระห่ำ-300x450.png",
+            "url": "https://www.123hdtv.com/fury-in-the-shadows"
+        },
+        {
+            "name": "Spider Fairy (2026) เซียนแมงมุม",
+            "image": "https://www.123hdtv.com/wp-content/uploads/2026/02/Spider-Fairy-2026-เซียนแมงมุม-300x450.png",
+            "url": "https://www.123hdtv.com/spider-fairy"
+        },
+        {
+            "name": "Whistle (2026) หวีดเรียกผี",
+            "image": "https://www.123hdtv.com/wp-content/uploads/2026/02/Whistle-2026-หวีดเรียกผี-300x450.png",
+            "url": "https://www.123hdtv.com/whistle"
+        },
+        {
+            "name": "Back to the Past (2026) เจาะเวลาหาจิ๋นซี เดอะมูฟวี่",
+            "image": "https://www.123hdtv.com/wp-content/uploads/2026/02/Back-to-the-Past-2026-เจาะเวลาหาจิ๋นซี-เดอะมูฟวี่-300x450.png",
+            "url": "https://www.123hdtv.com/back-to-the-past"
+        },
+        {
+            "name": "Crime 101 (2026) เส้นทางปล้นโคตรระห่ำ",
+            "image": "https://www.123hdtv.com/wp-content/uploads/2026/02/Crime-101-2025-เส้นทางปล้นโคตรระห่ำ-300x450.png",
+            "url": "https://www.123hdtv.com/crime-101"
+        },
+        {
+            "name": "Sex Trip (2026)",
+            "image": "https://www.123hdtv.com/wp-content/uploads/2026/02/Sex-Trip-2026-300x450.png",
+            "url": "https://www.123hdtv.com/sex-trip"
+        },
+        {
+            "name": "Shelter (2026) คลั่งนรก หลบตาย",
+            "image": "https://www.123hdtv.com/wp-content/uploads/2026/02/Shelter-2026-คลั่งนรก-หลบตาย-300x450.png",
+            "url": "https://www.123hdtv.com/shelter"
+        },
+        {
+            "name": "Return to Silent Hill (2026) เมืองห่าผี นครคืนชีพ",
+            "image": "https://www.123hdtv.com/wp-content/uploads/2026/01/Return-to-Silent-Hill-2026-เมืองห่าผี-นครคืนชีพ-300x450.png",
+            "url": "https://www.123hdtv.com/return-to-silent-hill"
+        },
+        {
+            "name": "Angel Flight The Movie (2026)",
+            "image": "https://www.123hdtv.com/wp-content/uploads/2026/02/Angel-Flight-The-Movie-2026-300x450.png",
+            "url": "https://www.123hdtv.com/angel-flight-the-movie"
+        },
+        {
+            "name": "The Bluff (2026) ชำระแค้นราชินีโจรสลัด",
+            "image": "https://www.123hdtv.com/wp-content/uploads/2026/02/The-Bluff-2026-ชำระแค้นราชินีโจรสลัด-300x450.png",
+            "url": "https://www.123hdtv.com/the-bluff"
+        },
+        {
+            "name": "Accused (2026) ใต้เงาคำกล่าวหา",
+            "image": "https://www.123hdtv.com/wp-content/uploads/2026/02/Accused-2026-ใต้เงาคำกล่าวหา-300x450.png",
+            "url": "https://www.123hdtv.com/accused"
+        },
+        {
+            "name": "Ikkis (2026)",
+            "image": "https://www.123hdtv.com/wp-content/uploads/2026/02/Ikkis-2026-300x450.png",
+            "url": "https://www.123hdtv.com/ikkis"
+        },
+        {
+            "name": "Catch The Killer (2026) ปฏิบัติการณ์ล่าฆาตกร",
+            "image": "https://www.123hdtv.com/wp-content/uploads/2026/02/Catch-The-Killer-2026-ปฏิบัติการณ์ล่าฆาตกร-300x450.png",
+            "url": "https://www.123hdtv.com/catch-the-killer"
+        },
+        {
+            "name": "Ginseng King (2026) ตำนานนักล่าภูผาอาถรรพ์",
+            "image": "https://www.123hdtv.com/wp-content/uploads/2026/02/Ginseng-King-2026-ตำนานนักล่าภูผาอาถรรพ์-300x450.png",
+            "url": "https://www.123hdtv.com/ginseng-king"
+        },
+        {
+            "name": "28 Years Later The Bone Temple (2026) 28 ปีให้หลัง เชื้อเขมือบคน วิหารซากกะโหลก",
+            "image": "https://www.123hdtv.com/wp-content/uploads/2026/02/28-Years-Later-The-Bone-Temple-2026-28-ปีให้หลัง-เชื้อเขมือบคน-วิหารซากกะโหลก-300x450.png",
+            "url": "https://www.123hdtv.com/28-years-later-the-bone-temple"
+        },
+ 
 
 {  
 name:"(2026)หวีดสุดขีด 7",
