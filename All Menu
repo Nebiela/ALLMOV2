@@ -15,7 +15,15 @@
 {		
    "name": "Movie Actionหนังใหม่",		
    "image": "https://img.freepik.com/premium-photo/action-movie-text-effect-3d-look-with-modern-colors_697324-22639.jpg",
-   "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/Mov2025",
+   "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9A%E0%B8%B9%E0%B9%8Awiseplay.w3u",
+   "stations": [		
+   ]	
+  }	,
+
+{		
+   "name": "Anime-อนิเมะ",		
+   "image": "https://img.wongnai.com/p/400x0/2025/01/24/7cc9ab8e62c3442bad31ae2e25f91a67.jpg",
+   "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/Gatoon123HDwiseplay.w3u",
    "stations": [		
    ]	
   }	,
