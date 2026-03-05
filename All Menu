@@ -13,6 +13,14 @@
    ]	
   }	,
 {		
+   "name": "Movie Actionหนังใหม่",		
+   "image": "https://img.freepik.com/premium-photo/action-movie-text-effect-3d-look-with-modern-colors_697324-22639.jpg",
+   "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/Mov2025",
+   "stations": [		
+   ]	
+  }	,
+
+{		
    "name": "Movie Thai (หนังไทย)",		
    "image": "https://s.isanook.com/mv/0/ud/19/99257/99257-thumbnail.jpg?ip/crop/w670h402/q80/jpg",
    "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/Movth",
