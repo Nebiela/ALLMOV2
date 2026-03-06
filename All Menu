@@ -123,9 +123,17 @@
   }	,
 
 {		
-   "name": "ฉ ผู้(+)ใหญ่",		
+   "name": "ฉ1 ผู้(+)ใหญ่",		
    "image": "https://us-fbcloud.net/hottopic/data/762/762514.tg15oywt9hp.n2.jpg",
    "url": "https://bit.ly/4baxeGs",
+   "stations": [		
+   ]	
+  }	,
+
+{		
+   "name": "ฉ2 ผู้(+)ใหญ่",		
+   "image": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Level_6_Thailand_rating_system_2013.jpg",
+   "url": "https://www.dropbox.com/scl/fi/phdcutvqonxdtj0iw1ayw/MainX.w3u?rlkey=xn6sxv5zsr2mjetu9mw8melpl&st=pn9ojedh&dl=1",
    "stations": [		
    ]	
   }	,
