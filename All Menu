@@ -51,6 +51,14 @@
   }	,
 
 {		
+   "name": "รวมซีรี่Series",		
+   "image": "https://mushroomtravelpage.b-cdn.net/wp-content/uploads/2025/05/feat-korean-series-first-half-year-2018-mydramalist.com_-1024x536.png",
+   "url": "https://www.dropbox.com/scl/fi/3aixfwzxspyq94r8bj0up/Series.w3u?rlkey=h7qba9idjw86zgiz66otaiixq&st=4odkjw5r&dl=1",
+   "stations": [		
+   ]	
+  }	,
+
+{		
    "name": "ฟรีทีวี&TV บันเทิง",		
    "image": "https://www.psnsat.com/wp-content/uploads/2020/07/digital-ch-new.jpg",
    "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/Freetv",
@@ -121,6 +129,8 @@
    "stations": [		
    ]	
   }	,
+
+
 
 {		
    "name": "ฉ1 ผู้(+)ใหญ่",		
