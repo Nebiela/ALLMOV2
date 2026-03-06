@@ -8,416 +8,282 @@
 		"stations": [
 
 
-{"name": "beIN Sports1-A🇹🇭",
-"image": "https://dookeela2.live/uploads/1664500365.png",
-"url": "https://cdn1.googlecdnforstreaming.live/live/bein1/chunks.m3u8",
-"referer": "https://warpdooball.net/",
-"playInNatPlayer": "true"},
 
-{"name": "beIN Sports1-B🇹🇭",
-"image": "https://dookeela2.live/uploads/1664500365.png",
-"url":"https://goal-th.com/ช่องรายการทีวี/?id=44",
-"playInNatPlayer":"true"},
-
-{"name": "beIN Sports1-C🇹🇭",
-"image": "https://dookeela2.live/uploads/1664500365.png",
-"url":"https://goal-th.com/ช่องรายการทีวี/?id=526",
-"playInNatPlayer":"true"},
-
-{"name": "beIN Sports2-A🇹🇭",
-"image": "https://dookeela2.live/uploads/1690843424.png",
-"url": "https://cdn1.googlecdnforstreaming.live/live/bein2/chunks.m3u8",
-"referer": "https://warpdooball.net/",
-"playInNatPlayer": "true"},
-
-{"name": "beIN Sports2-B🇹🇭",
-"image": "https://dookeela2.live/uploads/1690843424.png",
-"url":"https://goal-th.com/ช่องรายการทีวี/?id=188",
-"playInNatPlayer":"true"},
-
-{"name": "beIN Sports3-A🇹🇭",
-"image": "https://dookeela2.live/uploads/1663980670.png",
-"url": "https://cdn1.googlecdnforstreaming.live/live/bein3/chunks.m3u8",
-"referer": "https://warpdooball.net/",
-"playInNatPlayer": "true"},
-
-{"name": "beIN Sports3-B🇹🇭",
-"image": "https://dookeela2.live/uploads/1663980670.png",
-"url":"https://goal-th.com/ช่องรายการทีวี/?id=6",
-"playInNatPlayer":"true"},
-
-{"name": "beIN Sports4-A🇹🇭",
-"image": "https://dookeela2.live/uploads/1692816640.png",
-"url": "https://cdn1.googlecdnforstreaming.live/live/bein4/chunks.m3u8",
-"referer": "https://warpdooball.net/",
-"playInNatPlayer": "true"},
-
-{"name": "beIN Sports4-B🇹🇭",
-"image": "https://dookeela2.live/uploads/1692816640.png",
-"url": "https://goal-th.com/ช่องรายการทีวี/?id=201",
-"playInNatPlayer":"true"},
-
-{"name": "beIN Sports5-A🇹🇭",
-"image": "https://dookeela2.live/uploads/1693290376.png",
-"url": "https://cdn1.googlecdnforstreaming.live/live/bein5/chunks.m3u8",
-"referer": "https://warpdooball.net/",
-"playInNatPlayer": "true"},
-
-{"name": "beIN Sports5-B🇹🇭",
-"image": "https://dookeela2.live/uploads/1693290376.png",
-"url": "https://goal-th.com/ช่องรายการทีวี/?id=202",
-"playInNatPlayer":"true"},
+{
+"name":"tpf3",
+"image":"https://dookeela4.live/uploads/1664499681.png",
+"url":"https://dookeela4.live/live-tv/tpf3",
+"referer": "https://dookeela.live/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
 
 
 {
-"name":"MONOMAX1",
-"image":"https://www.img07.xyz/assets/img/ch_logo/PL_Mono1.jpg", 
+"name":"tpf4",
+"image":"https://dookeela4.live/uploads/1664499692.png",
+"url":"https://dookeela4.live/live-tv/tpf4",
+"referer": "https://dookeela.live/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+{
+"name":"tpf5",
+"image":"https://dookeela4.live/uploads/1664499700.png",
+"url":"https://dookeela4.live/live-tv/tpf5",
+"referer": "https://dookeela.live/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+{
+"name":"bein1",
+"image":"https://dookeela4.live/uploads/1664500365.png",
+"url":"https://dookeela4.live/live-tv/bein1",
+"referer": "https://dookeela.live/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+
+{
+"name":"bein2",
+"image":"https://dookeela4.live/uploads/1690843424.png",
+"url":"https://dookeela4.live/live-tv/bein2",
+"referer": "https://dookeela.live/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+
+{
+"name":"bein3",
+"image":"https://dookeela4.live/uploads/1663980670.png",
+"url":"https://dookeela4.live/live-tv/bein3",
+"referer": "https://dookeela.live/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+{
+"name":"tsp1",
+"image":"https://dookeela4.live/uploads/1664802455.png",
+"url":"https://dookeela4.live/live-tv/tsp1",
+"referer": "https://dookeela.live/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+{
+"name":"tsp2",
+"image":"https://dookeela4.live/uploads/1664499966.png",
+"url":"https://dookeela4.live/live-tv/tsp2",
+"referer": "https://dookeela.live/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+{
+"name":"tsp3",
+"image":"https://dookeela4.live/uploads/1664802480.png",
+"url":"https://dookeela4.live/live-tv/tsp3",
+"referer": "https://dookeela.live/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+
+{
+"name":"monomax1",
+"image":"https://dookeela4.live/uploads/1753517049.png",
 "url":"https://dookeela4.live/live-tv/monomax1",
-"referer":"https://dookeela.live/",
-"info":"Server dookeela",
-"playInNatPlayer":"true"},
-
-{"name":"monomax2",
-"image":"https://dookeela2.live/uploads/1753517049.png",
-"url": "http://bestcommt2.github.io/m3u8/monomax2.m3u8",
-"referer": "",
-"playInNatPlayer": "true"},
-
-{"name":"monomax2",
-"image":"https://dookeela2.live/uploads/1753517049.png",
-"url": "http://bestcommt2.github.io/m3u8/monomax1.m3u8",
-"referer": "",
-"playInNatPlayer": "true"},
-
-
-{"name":"sporttv1",
-"image":"https://dookeela.live/uploads/1663979709.png",
-"url": "https://dookeela.live/live-tv/sporttv1",
-"referer": "https://dookeela.live/",
-"playInNatPlayer": "true"},
-
-{"name":"sporttvplus",
-"image":"https://dookeela.live/uploads/1736239662.png",
-"url": "https://dookeela.live/live-tv/sporttvplus",
-"referer": "https://dookeela.live/",
-"playInNatPlayer": "true"},
-
-{"name":"3bbsports1",
-"image":"https://dookeela.live/uploads/1720429672.png",
-"url": "https://dookeela.live/live-tv/3bbsports1",
-"referer": "https://dookeela.live/",
-"playInNatPlayer": "true"},
-
-{"name":"trueidsports1",
-"image":"https://dookeela.live/uploads/1743311087.png",
-"url": "https://dookeela.live/live-tv/trueidsports1",
-"referer": "https://dookeela.live/",
-"playInNatPlayer": "true"},
-
-{"name":"ais1",
-"image":"https://api-soccer.thai-play.com/images/tv/RziUDnIsuVooOkZ7IdtFPb4ro94yY4iais1.png",
-"url": "https://switch.thaim3u.com/xstream/Sky%20Sport%20Premiere%20League/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDI1IDI6MjA6MzIgUE0maGFzaF92YWx1ZT1HSTRobWo1b3RPY2orOW9EeitWS1hBPT0mdmFsaWRtaW51dGVzPTYw",
-"referer": "https://dooballfree.com/tv-online/",
-"playInNatPlayer": "true"},
-
-{"name":"sportdigital",
-"image":"https://dookeela.live/uploads/1664202734.png",
-"url": "https://dookeela.live/live-tv/sportdigital",
-"referer": "https://dookeela.live/",
-"playInNatPlayer": "true"},
-
-{"name":"Astro football ",
-"image":"https://dookeela.live/uploads/1729384406.png",
-"url": "https://dookeela.live/live-tv/astrofootball",
-"referer": "https://dookeela.live/",
-"playInNatPlayer": "true"},
-
-{"name":"Astro Premier League ",
-"image":"https://dookeela.live/uploads/1729384542.png",
-"url": "https://dookeela.live/live-tv/astropremierleague",
-"referer": "https://dookeela.live/",
-"playInNatPlayer": "true"},
-
-{"name":"Astro Premier League2 ",
-"image":"https://dookeela.live/uploads/1729384542.png",
-"url": "https://dookeela.live/live-tv/astropremierleague2",
-"referer": "https://dookeela.live/",
-"playInNatPlayer": "true"},
-
-{"name":"True Ball Thai 9 ",
-"image":"https://dookeela.live/uploads/1723660123.png",
-"url": "https://dookeela.live/live-tv/trueballthai9",
-"referer": "https://dookeela.live/",
-"playInNatPlayer": "true"},
-
-
-{"name":"Mono29-A",
-"image":"https://img2.pic.in.th/pic/mono29977274214da259a2.png",
-"url":"https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8",
-"playInNatPlayer":"true"},
-
-{"name":"Mono29-B",
-"image":"https://img2.pic.in.th/pic/mono29977274214da259a2.png",
-"url":"https://goal-th.com/ช่องรายการทีวี/?id=279&tv=MONO29(โมโน29)",
-"playInNatPlayer":"true"},
-
-{"name":"DAZN 1-A🇩🇪",
-"image":"https://img2.imgbiz.com/imgbiz/daza1doo.png",
-"url": "https://dookeela.live/live-tv/dazn1",
-"playInNatPlayer":"true"},
-
-{"name":"DAZN 1-B🇩🇪",
-"image":"https://img2.imgbiz.com/imgbiz/daza1doo.png",
-"url": "https://cdnsv1.bunnycdncloud.com/andaman888th/dazn1de/playlist.m3u8",
-"referer": "https://www.andaman888th.net/",
-"playInNatPlayer": "true"},
-
-{"name":"ASEAN Mandiri Cup 2025",
-"image":"https://dookeela.live/uploads/1752532908.png",
-"url": "https://dookeela.live/live-tv/asean-u23-mandiri-cup-1",
-"referer": "https://dookeela.live/",
-"playInNatPlayer": "true"},
-
-{"name":"golfchannel",
-"image":"https://dookeela.live/uploads/1664801941.png",
-"url": "https://dookeela.live/live-tv/golfchannel",
-"referer": "https://dookeela.live/",
-"playInNatPlayer": "true"},
-
-{"name":"MONO29Plus",
-"image":"https://dookeela.live/uploads/1703787733.png",
-"url": "https://goal-th.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5/?id=280&tv=MONO29Plus",
-"referer": "https://goal-th.com/",
-"playInNatPlayer": "true"},
-
-{"name":"mono29plus",
-"image":"https://dookeela.live/uploads/1703787733.png",
-"url": "https://cdn1.googlecdn.live/4k/mono29plus/playlist.m3u8",
-"referer": "https://dookeela.live/",
-"playInNatPlayer": "true"},
-
-{"name":"asean-2025",
-"image":"https://dookeela.live/uploads/1752532908.png",
-"url": "https://cdn1.googlecdn.live/4k/asean-u23-mandiri-cup-1/playlist.m3u8",
-"referer": "https://dookeela.live/",
-"playInNatPlayer": "true"},
-
-{"name":"golfchannel",
-"image":"https://dookeela.live/uploads/1664801941.png",
-"url": "https://cdn1.googlecdn.live/4k/golfchannel/playlist.m3u8",
-"referer": "https://dookeela.live/",
-"playInNatPlayer": "true"},
-
-{"name":"truesports 3",
-"image":"https://dookeela.live/uploads/1664802480.png",
-"url": "https://dookeela.live/live-tv/tsp3",
-"referer": "https://dookeela.live/",
-"playInNatPlayer": "true"},
-
-{"name":"truesports 2",
-"image":"https://dookeela.live/uploads/1664499966.png",
-"url": "https://dookeela.live/live-tv/tsp2",
-"referer": "https://dookeela.live/",
-"playInNatPlayer": "true"},
-
-
-{"name":"truesports 3",
-"image":"https://dookeela.live/uploads/1664802480.png",
-"url": "https://dookeela.live/live-tv/tsp3",
-"referer": "https://dookeela.live/",
-"playInNatPlayer": "true"},
-
-{"name":"beinsport2 fr",
-"image":"https://dookeela.live/uploads/1685036091.png",
-"url": "https://dookeela.live/live-tv/beinsport2fr",
-"referer": "https://dookeela.live/",
-"playInNatPlayer": "true"},
-
-{"name":"beinsport2 fr",
-"image":"https://dookeela.live/uploads/1664323955.png",
-"url": "https://dookeela.live/live-tv/beinsport1fr",
-"referer": "https://dookeela.live/",
-"playInNatPlayer": "true"},
-
-{"name":"beinsports1tu",
-"image":"https://dookeela.live/uploads/1664502528.png",
-"url": "https://dookeela.live/live-tv/beinsports1tu",
-"referer": "https://dookeela.live/",
-"playInNatPlayer": "true"},
-
-{"name":"beinsports2tu",
-"image":"https://dookeela.live/uploads/1664502539.png",
-"url": "https://dookeela.live/live-tv/beinsports2tu",
-"referer": "https://dookeela.live/",
-"playInNatPlayer": "true"},
-
-{"name":"Astro football",
-"image":"https://dookeela.live/uploads/1729384406.png",
-"url": "https://dookeela.live/live-tv/astrofootball",
-"referer": "https://dookeela.live/",
-"playInNatPlayer": "true"},
-
-
-{"name":"Astro Premier League",
-"image":"https://dookeela.live/uploads/1729384542.png",
-"url": "https://dookeela.live/live-tv/astropremierleague",
-"referer": "https://dookeela.live/",
-"playInNatPlayer": "true"},
-
-{"name":"Astro Premier League2",
-"image":"https://dookeela.live/uploads/1729384542.png",
-"url": "https://dookeela.live/live-tv/astropremierleague2",
-"referer": "https://dookeela.live/",
-"playInNatPlayer": "true"},
-
-
-{"name":"DAZN 1 | Spain",
-"image":"https://dookeela.live/uploads/1715571844.png",
-"url": "https://dookeela.live/live-tv/dazn1es",
-"referer": "https://dookeela.live/",
-"playInNatPlayer": "true"},
-
-
-{"name":"DAZN 2 | Spain",
-"image":"https://dookeela.live/uploads/1715571857.png",
-"url": "https://dookeela.live/live-tv/dazn2es",
-"referer": "https://dookeela.live/",
-"playInNatPlayer": "true"},
-
-
-{"name":"spotv",
-"image":"https://dookeela.live/uploads/1664529562.png",
-"url": "https://dookeela.live/live-tv/spotv",
-"referer": "https://dookeela.live/",
-"playInNatPlayer": "true"},
-
-{"name":"spotv2",
-"image":"https://dookeela.live/uploads/1664529575.png",
-"url": "https://dookeela.live/live-tv/spotv2",
-"referer": "https://dookeela.live/",
-"playInNatPlayer": "true"},
-
-{"name":"mlb",
-"image":"https://dookeela.live/uploads/1695548172.png",
-"url": "https://dookeela.live/live-tv/mlb",
-"referer": "https://dookeela.live/",
-"playInNatPlayer": "true"},
-
-
-{"name":"nba",
-"image":"https://dookeela.live/uploads/1664532126.png",
-"url": "https://dookeela.live/live-tv/nba",
-"referer": "https://dookeela.live/",
-"playInNatPlayer": "true"},
-
-{"name":"astrocrickethd",
-"image":"https://dookeela.live/uploads/1720166377.png",
-"url": "https://dookeela.live/live-tv/astrocrickethd",
-"referer": "https://dookeela.live/",
-"playInNatPlayer": "true"},
-
-{"name":"mutv",
-"image":"https://dookeela.live/uploads/1665106261.png",
-"url": "https://dookeela.live/live-tv/mutv",
-"referer": "https://dookeela.live/",
-"playInNatPlayer": "true"},
-
-
-{"name":"lfctv",
-"image":"https://dookeela.live/uploads/1669940282.png",
-"url": "https://dookeela.live/live-tv/lfctv",
-"referer": "https://dookeela.live/",
-"playInNatPlayer": "true"},
-
-
-{"name":"TV4 Fotboll (Sweden)",
-"image":"https://dookeela.live/uploads/1695936059.png",
-"url": "https://dookeela.live/live-tv/tv4fotboll",
-"referer": "https://dookeela.live/",
-"playInNatPlayer": "true"},
-
-
-{"name":"ESPN 1 Netherlands",
-"image":"https://dookeela.live/uploads/1664501652.png",
-"url": "https://dookeela.live/live-tv/foxsports1nl",
-"referer": "https://dookeela.live/",
-"playInNatPlayer": "true"},
-
-
-{"name":"ESPN 2 Netherlands",
-"image":"https://dookeela.live/uploads/1664501662.png",
-"url": "https://dookeela.live/live-tv/foxsports2nl",
-"referer": "https://dookeela.live/",
-"playInNatPlayer": "true"},
-
-
-
-{"name":"Sports1-A🇹🇭",
-"image":"https://cdn.imgchest.com/files/7pjcq2ere27.png",
-"url": "https://dookeela2.live/live-tv/tsp1",
-"playInNatPlayer": "true"},
-
-{"name": "Sports1-B🇹🇭",
-"image":"https://cdn.imgchest.com/files/7pjcq2ere27.png",
-"url":"https://cdn1.googlecdnforstreaming.live/live/tsp1/chunks.m3u8",
-"referer": "https://warpdooball.net/",
-"playInNatPlayer":"true"},
-
-{"name": "Sports2-A🇹🇭",
-"image":"https://cdn.imgchest.com/files/7ogcb69d9my.png",
-"url": "https://dookeela2.live/live-tv/tsp2",
-"playInNatPlayer": "true"},
-
-{"name":"Sports2-B🇹🇭",
-"image":"https://cdn.imgchest.com/files/7ogcb69d9my.png",
-"url":"https://cdn1.googlecdnforstreaming.live/live/tps2/chunks.m3u8",
-"referer": "https://warpdooball.net/",
-"playInNatPlayer":"true"},
-
-{"name": "Sports3-A🇹🇭",
-"image":"https://cdn.imgchest.com/files/7kzcakr2rz7.png",
-"url": "https://dookeela2.live/live-tv/tsp3",
-"playInNatPlayer": "true"},
-
-{"name": "Sports3-B🇹🇭",
-"image":"https://cdn.imgchest.com/files/7kzcakr2rz7.png",
-"url":"https://cdn1.googlecdnforstreaming.live/live/tps3/chunks.m3u8",
-"referer": "https://warpdooball.net/",
-"playInNatPlayer":"true"},
-
-{"name": "Sports4-A🇹🇭",
-"image":"https://cdn.imgchest.com/files/y2pckewlwm7.png",
-"url":"https://cdn1.googlecdnforstreaming.live/live/tps4/chunks.m3u8",
-"referer": "https://warpdooball.net/",
-"playInNatPlayer":"true"},
-
-{"name": "Sports4-B🇹🇭",
-"image":"https://cdn.imgchest.com/files/y2pckewlwm7.png",
-"url": "https://dookeela2.live/live-tv/tsp4",
-"playInNatPlayer": "true"},
-
-{"name": "Sports5-A🇹🇭",
-"image":"https://cdn.imgchest.com/files/7lxcp5mlm87.png",
-"url": "https://dookeela2.live/live-tv/tsp5",
-"playInNatPlayer": "true"},
-
-{"name":"Sports5-B🇹🇭",
-"image":"https://cdn.imgchest.com/files/7lxcp5mlm87.png",
-"url":"https://cdn1.googlecdnforstreaming.live/live/tps5/chunks.m3u8",
-"referer": "https://warpdooball.net/",
-"playInNatPlayer":"true"},
-
-{"name": "Sports7-A🇹🇭",
-"image":"https://cdn.imgchest.com/files/4jdcved8dd4.png",
-"url": "https://cdn1.googlecdnforstreaming.live/live/tsp7/chunks.m3u8",
-"referer": "https://warpdooball.net/",
-"playInNatPlayer": "true"},
-
-{"name":"Sports7-B🇹🇭",
-"image":"https://cdn.imgchest.com/files/4jdcved8dd4.png",
-"url":"https://cdn1.googlecdnforstreaming.live/live/tps7/chunks.m3u8",
-"referer": "https://warpdooball.net/",
-"playInNatPlayer":"true"},
+"referer": "https://dookeela.live/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+{
+"name":"monomax-2",
+"image":"https://dookeela4.live/uploads/1755093093.png",
+"url":"https://dookeela4.live/live-tv/monomax-2",
+"referer": "https://dookeela.live/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+{
+"name":"wwe",
+"image":"https://dookeela4.live/uploads/1696317392.png",
+"url":"https://dookeela4.live/live-tv/wwe",
+"referer": "https://dookeela.live/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+{
+"name":"nba",
+"image":"https://dookeela4.live/uploads/1664532126.png",
+"url":"https://dookeela4.live/live-tv/nba",
+"referer": "https://dookeela.live/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+{
+"name":"sportdigital",
+"image":"https://dookeela4.live/uploads/1664202734.png",
+"url":"https://dookeela4.live/live-tv/sportdigital",
+"referer": "https://dookeela.live/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+{
+"name":"mutv",
+"image":"https://dookeela4.live/uploads/1665106261.png",
+"url":"https://dookeela4.live/live-tv/mutv",
+"referer": "https://dookeela.live/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+{
+"name":"lfctv",
+"image":"https://dookeela4.live/uploads/1669940282.png",
+"url":"https://dookeela4.live/live-tv/lfctv",
+"referer": "https://dookeela.live/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+{
+"name":"daznf1",
+"image":"https://dookeela4.live/uploads/1696279327.png",
+"url":"https://dookeela4.live/live-tv/daznf1",
+"referer": "https://dookeela.live/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+
+{
+"name":"fifaplus",
+"image":"https://dookeela4.live/uploads/1739094315.png",
+"url":"https://dookeela4.live/live-tv/fifaplus",
+"referer": "https://dookeela.live/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+{
+"name":"truetennis",
+"image":"https://dookeela4.live/uploads/1717257614.png",
+"url":"https://dookeela4.live/live-tv/truetennis",
+"referer": "https://dookeela.live/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+
+
+{
+"name":"mlb",
+"image":"https://dookeela4.live/uploads/1695548172.png",
+"url":"https://dookeela4.live/live-tv/mlb",
+"referer": "https://dookeela.live/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+
+{
+"name":"golfchannel",
+"image":"https://dookeela4.live/uploads/1664801941.png",
+"url":"https://dookeela4.live/live-tv/golfchannel",
+"referer": "https://dookeela.live/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+{
+"name":"playsports63",
+"image":"https://dookeela4.live/uploads/1772699287.png",
+"url":"https://dookeela4.live/live-tv/playsports63",
+"referer": "https://dookeela.live/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+{
+"name":"redbull-tv",
+"image":"https://dookeela4.live/uploads/1711566263.png",
+"url":"https://dookeela4.live/live-tv/redbull-tv",
+"referer": "https://dookeela.live/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+{
+"name":"skysportsf1",
+"image":"https://dookeela4.live/uploads/1712888821.png",
+"url":"https://dookeela4.live/live-tv/skysportsf1",
+"referer": "https://dookeela.live/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+
+{
+"name":"skysportsplus",
+"image":"https://dookeela4.live/uploads/1725980915.png",
+"url":"https://dookeela4.live/live-tv/skysportsplus",
+"referer": "https://dookeela.live/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+{
+"name":"3bbsports1",
+"image":"https://dookeela4.live/uploads/1720429672.png",
+"url":"https://dookeela4.live/live-tv/3bbsports1",
+"referer": "https://dookeela.live/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+{
+"name":"true4k",
+"image":"https://dookeela4.live/uploads/1736811193.png",
+"url":"https://dookeela4.live/live-tv/true4k",
+"referer": "https://dookeela.live/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+{
+"name":"trueballthai9",
+"image":"https://dookeela4.live/uploads/1723660123.png",
+"url":"https://dookeela4.live/live-tv/trueballthai9",
+"referer": "https://dookeela.live/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
 
 
 
