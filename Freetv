@@ -765,5 +765,29 @@
 "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
 
 
+
+
+{
+"name":"test hbo ts",
+"image":"",
+"url":"https://live1.stream.liveplayback.net/dookeela/hbo/l_4894270_85442907_1197.ts",
+"referer": "https://dookeela.live/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+{
+"name":"test hbo ts2",
+"image":"",
+"url":"https://live1.stream.liveplayback.net/dookeela/hbo/l_4894270_85449907_1198.ts",
+"referer": "https://dookeela.live/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+
+
 ]
 }
