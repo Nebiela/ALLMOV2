@@ -6,14 +6,44 @@
  "stations": [
 
 
+
+{
+"name":"HBO",
+"image":"https://dookeela4.live/uploads/1703686191.png",
+"url":"https://dookeela4.live/live-tv/hbo",
+"referer": "https://dookeela.live/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26 by neti)",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
 {
 "name":"rock-entertainment",
 "image":"https://dookeela4.live/uploads/1718690283.png",
 "url":"https://dookeela4.live/live-tv/rock-entertainment",
 "referer": "https://dookeela.live/&userAgent=exo_player",
-"info":"(อัพเดท/5/2/26)",
+"info":"(อัพเดท/5/2/26) by neti",
 "embed": "",
-"userAgent": "Mozilla/5.0 ((Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+{
+"name":"rock-action",
+"image":"https://dookeela4.live/uploads/1718690264.png",
+"url":"https://dookeela4.live/live-tv/rock-action",
+"referer": "https://dookeela.live/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+{
+"name":"cinemax",
+"image":"https://dookeela4.live/uploads/1703786799.png",
+"url":"https://dookeela4.live/live-tv/cinemax",
+"referer": "https://dookeela.live/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
 
 			{
 				"name": " ch3hd",
