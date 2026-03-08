@@ -1,20 +1,20 @@
 {		
- "name": "MOVIEหนัง&ดูTVบอล",		
+ "name": "NEWTV หนัง&กีฬา",		
  "author": "กดรีเฟรช ประสาน มุมขวาบน By Neti ดูฟรีกันไป",				
  "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/All%20Menu",	
- "image": "https://img.freepik.com/premium-vector/national-sports-day-vector-illustration-with-sportsperson-from-different-sport-flat-cartoon_2175-16026.jpg?w=996",		
+ "image": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/Picture12.png",		
  "groups": [		
 
 {		
    "name": "Movie หนังใหม่ (2026)",		
-   "image": "https://www.vanas.ca/images/blog/vfx-visual-effects-vanas.jpg",
+   "image": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/Picture1.png",
    "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/Mov2025",
    "stations": [		
    ]	
   }	,
 {		
    "name": "Movie Actionหนังใหม่",		
-   "image": "https://img.freepik.com/premium-photo/action-movie-text-effect-3d-look-with-modern-colors_697324-22639.jpg",
+   "image": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/Picture2.png",
    "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9A%E0%B8%B9%E0%B9%8Awiseplay.w3u",
    "stations": [		
    ]	
@@ -22,7 +22,7 @@
 
 {		
    "name": "Anime-อนิเมะ",		
-   "image": "https://img.wongnai.com/p/400x0/2025/01/24/7cc9ab8e62c3442bad31ae2e25f91a67.jpg",
+   "image": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/Picture3.png",
    "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/Gatoon123HDwiseplay.w3u",
    "stations": [		
    ]	
@@ -30,21 +30,21 @@
 
 {		
    "name": "Movie Thai (หนังไทย)",		
-   "image": "https://s.isanook.com/mv/0/ud/19/99257/99257-thumbnail.jpg?ip/crop/w670h402/q80/jpg",
+   "image": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/Picture4.png",
    "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/Movth",
    "stations": [		
    ]	
   }	,
 {		
    "name": "Movie Chaina (หนังจีน)",		
-   "image": "https://f.ptcdn.info/928/078/000/rktdqa8aqk2qJktRfd0-o.jpg",
+   "image": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/Picture5.png",
    "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/MovCh",
    "stations": [		
    ]	
   }	,
 {		
    "name": "Netfilx หนังเน็ตฟิก",		
-   "image": "https://ipadappz.com/wp-content/uploads/2023/05/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87-netflix-2023.jpg",
+   "image": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/Picture6.png",
    "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/Netf",
    "stations": [		
    ]	
@@ -52,7 +52,7 @@
 
 {		
    "name": "รวมซีรี่Series",		
-   "image": "https://mushroomtravelpage.b-cdn.net/wp-content/uploads/2025/05/feat-korean-series-first-half-year-2018-mydramalist.com_-1024x536.png",
+   "image": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/Picture7.png",
    "url": "https://www.dropbox.com/scl/fi/3aixfwzxspyq94r8bj0up/Series.w3u?rlkey=h7qba9idjw86zgiz66otaiixq&st=4odkjw5r&dl=1",
    "stations": [		
    ]	
@@ -60,7 +60,7 @@
 
 {		
    "name": "ฟรีทีวี&TV บันเทิง",		
-   "image": "https://www.psnsat.com/wp-content/uploads/2020/07/digital-ch-new.jpg",
+   "image": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/Picture8.png",
    "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/Freetv",
    "stations": [		
    ]	
@@ -68,7 +68,7 @@
 
 {		
    "name": "MOVIE&TV บันเทิง",		
-   "image": "https://i0.wp.com/www.korseries.com/wp-content/uploads/2022/05/mtv-squid-game-jung-ho-yeon-cover.jpg",
+   "image": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/Picture9.png",
    "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/TV",
    "stations": [		
    ]	
@@ -76,8 +76,16 @@
 
 {		
    "name": "กีฬา SportTV1",		
-   "image": "https://www.bettertechtips.com/wp-content/uploads/2021/07/image1__-696x385.jpg",
+   "image": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/Picture10.png",
    "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/Sport1",
+   "stations": [		
+   ]	
+  }	,
+
+{		
+   "name": "กีฬา SportTV2",		
+   "image": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/Picture11.png",
+   "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B23",
    "stations": [		
    ]	
   }	,
@@ -90,37 +98,6 @@
    ]	
   }	,
 
-{		
-   "name": "กีฬา SportTV2",		
-   "image": "https://xn--82cyjajfb6dl4dxdsa1bj7n.com/wp-content/uploads/2023/09/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2%E0%B8%82%E0%B8%B2%E0%B8%A2%E0%B8%AD%E0%B8%B8%E0%B8%9B%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2.jpg",
-   "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B23",
-   "stations": [		
-   ]	
-  }	,
-
-{		
-   "name": "MOnoMAXพรีเมียร์",		
-   "image": "https://cdn.prod.website-files.com/67575827fb00851faf9b8bf8/67be5921027809c5156f004a_2.png",
-   "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/FIFA",
-   "stations": [		
-   ]	
-  }	,
-
-{		
-   "name": "SportTV3",		
-   "image": "https://www.ais.th/content/dam/ais/consumer/content/entertainment/banner-premier-leage-pc.jpg",
-   "url": "https://docs.google.com/uc?export=download&id=1tcfYFOk6o8HVKauQcEJJP0DWyuSrpAJk",
-   "stations": [		
-   ]	
-  }	,
-
-{		
-   "name": "Begin Sport",		
-   "image": "https://www.letsbemates.com.au/mate/wp-content/uploads/2025/02/beIN-sports-blog-cover-image.png",
-   "url": "https://docs.google.com/uc?export=download&id=1HDaiKoidmyEig0yizILnaPbBKo1oPvzK",
-   "stations": [		
-   ]	
-  }	,
 
 {		
    "name": "ดูหนัง&กีฬา",		
