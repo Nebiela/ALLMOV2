@@ -51,6 +51,16 @@
 "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
 
 
+    {
+      "name": "HBO HD สำรอง",
+      "image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/103.png",
+      "url": "https://raw.githubusercontent.com/Thep1313/M3U/refs/heads/main/CHhbo.m3u8",
+      "group": "ช่องทรูวิชั่น",
+      "drm": "clearkey",
+      "drmkey": "9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179",
+      "playInNatPlayer": true
+    },
+
 {
 "name":"hbo-family",
 "image":"https://dookeela4.live/uploads/1703786776.png",
