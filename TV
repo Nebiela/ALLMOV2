@@ -89,6 +89,33 @@
 "embed": "",
 "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
 
+    {
+      "name": "PlayID UNIVERSAL",
+      "image": "https://uppic.cloud/ib/36G21fJFys3RZzo_1738572890.png",
+      "url": "http://49.0.64.96:8007/H-Channel",
+      "group": "📺 PREMIUM PLAY TV",
+      "drm": "clearkey",
+      "drmkey": "af23d7935f1b5f029cccbf7f45543813:142bc597c797bd6d0dc757ca73cfd16b",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "PLAYID MOV2",
+      "image": "https://i.ibb.co/jZ7P3hJ/vvt.png",
+      "url": "http://49.0.64.96:8007/PING",
+      "userAgent": "https://playid.short.gy/",
+      "group": "📺 PREMIUM PLAY TV",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "PlayID Family",
+      "image": "https://i.ibb.co/t3xtr8Q/20241120-191736.png",
+      "url": "http://49.0.64.96:8007/Cartoonumi",
+      "userAgent": "https://playid.short.gy/",
+      "group": "📺 PREMIUM PLAY TV",
+      "playInNatPlayer": true
+    },
+
+
 
 {
 "name":"rock-entertainment",
