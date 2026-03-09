@@ -7,14 +7,14 @@
 
 {		
    "name": "Movie หนังใหม่ (2026)",		
-   "image": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/Picture1.png",
+   "image": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/New%20Resize/Picture1.jpg",
    "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/Mov2025",
    "stations": [		
    ]	
   }	,
 {		
    "name": "Movie Actionหนังใหม่",		
-   "image": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/Picture2.png",
+   "image": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/New%20Resize/Picture2.jpg",
    "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9A%E0%B8%B9%E0%B9%8Awiseplay.w3u",
    "stations": [		
    ]	
@@ -22,7 +22,7 @@
 
 {		
    "name": "Anime-อนิเมะ",		
-   "image": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/Picture3.png",
+   "image": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/New%20Resize/Picture3.jpg",
    "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/Gatoon123HDwiseplay.w3u",
    "stations": [		
    ]	
@@ -30,21 +30,21 @@
 
 {		
    "name": "Movie Thai (หนังไทย)",		
-   "image": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/Picture4.png",
+   "image": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/New%20Resize/Picture4.jpg",
    "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/Movth",
    "stations": [		
    ]	
   }	,
 {		
    "name": "Movie Chaina (หนังจีน)",		
-   "image": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/Picture5.png",
+   "image": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/New%20Resize/Picture5.png",
    "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/MovCh",
    "stations": [		
    ]	
   }	,
 {		
    "name": "Netfilx หนังเน็ตฟิก",		
-   "image": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/Picture6.png",
+   "image": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/New%20Resize/Picture6.jpg",
    "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/Netf",
    "stations": [		
    ]	
@@ -52,7 +52,7 @@
 
 {		
    "name": "รวมซีรี่Series",		
-   "image": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/Picture7.png",
+   "image": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/New%20Resize/Picture7.png",
    "url": "https://www.dropbox.com/scl/fi/3aixfwzxspyq94r8bj0up/Series.w3u?rlkey=h7qba9idjw86zgiz66otaiixq&st=4odkjw5r&dl=1",
    "stations": [		
    ]	
@@ -60,7 +60,7 @@
 
 {		
    "name": "ฟรีทีวี&TV บันเทิง",		
-   "image": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/Picture8.png",
+   "image": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/New%20Resize/Picture9.jpg",
    "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/Freetv",
    "stations": [		
    ]	
@@ -68,7 +68,7 @@
 
 {		
    "name": "MOVIE&TV บันเทิง",		
-   "image": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/Picture9.png",
+   "image": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/New%20Resize/Picture9.jpg",
    "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/TV",
    "stations": [		
    ]	
@@ -76,7 +76,7 @@
 
 {		
    "name": "กีฬา SportTV1",		
-   "image": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/Picture10.png",
+   "image": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/New%20Resize/Picture10.jpg",
    "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/Sport1",
    "stations": [		
    ]	
@@ -84,7 +84,7 @@
 
 {		
    "name": "กีฬา SportTV2",		
-   "image": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/Picture11.png",
+   "image": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/New%20Resize/Picture11.png",
    "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B23",
    "stations": [		
    ]	
@@ -102,7 +102,7 @@
 {		
    "name": "ดูหนัง&กีฬา-เพื่อนบ้าน",		
    "image": "https://townsquare.media/site/486/files/2024/05/attachment-_-86.jpg",
-   "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/Picture12.png",
+   "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/New%20Resize/Picture12.jpg",
    "stations": [		
    ]	
   }	,
