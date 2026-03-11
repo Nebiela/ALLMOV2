@@ -1,0 +1,86 @@
+{
+ "name": "ข่าว&ต่างประเทศ",
+ "author": "ดูไม่ได้แอพVPN1111ติดตั้ง",
+ "image": "https://www.infoquest.co.th/dxt-content/uploads/2025/04/20250413_IQMY_NEWS-1024x576.png",
+ "info":"!!!ฟรี!!! ดูฟรีกันไป",
+ "stations": [
+
+
+
+{
+"name":"bbc-news",
+"image":"https://dookeela4.live/uploads/1705785324.png",
+"url":"https://dookeela4.live/live-tv/bbc-news",
+"referer": "https://dookeela.live/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+{
+"name":"bloomberg",
+"image":"https://dookeela4.live/uploads/1705785346.png",
+"url":"https://dookeela4.live/live-tv/bloomberg-television",
+"referer": "https://dookeela.live/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+
+{
+"name":"cnbc",
+"image":"https://dookeela4.live/uploads/1719802797.png",
+"url":"https://dookeela4.live/live-tv/cnbc",
+"referer": "https://dookeela.live/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+
+{
+"name":"cctv4",
+"image":"https://dookeela4.live/uploads/1705785371.png",
+"url":"https://dookeela4.live/live-tv/cctv4",
+"referer": "https://dookeela.live/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+{
+"name":"cna",
+"image":"https://dookeela4.live/uploads/1730731242.png",
+"url":"https://dookeela4.live/live-tv/cna",
+"referer": "https://dookeela.live/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+{
+"name":"nhk",
+"image":"https://dookeela4.live/uploads/1731890206.png",
+"url":"https://dookeela4.live/live-tv/nhk",
+"referer": "https://dookeela.live/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+
+{
+"name":"topnews",
+"image":"https://dookeela4.live/uploads/1742428070.png",
+"url":"https://dookeela4.live/live-tv/topnews",
+"referer": "https://dookeela.live/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+
+
+
+]
+}
