@@ -5,13 +5,22 @@
  "image": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/NTV.png",		
  "groups": [		
 
-{		
-   "name": "ดูไม่ได้ ติดตั้ง VPN1111",		
-   "image": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/VPN.png",
-   "url": "https://1-1-1-1.th.uptodown.com/android/",
-   "stations": [		
-   ]	
-  }	,
+
+
+{ 
+"name":"ดูไม่ได้ ติดตั้งแอพVPN1111",
+"image":"https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/VPN.png",
+"stations":[
+
+{
+"name":"ติดตั้งแอพVPN1111",
+"image":"https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/VPN.png",
+"url":"https://1-1-1-1.th.uptodown.com/android/",
+"referer": "https://1-1-1-1.th.uptodown.com/",
+"embed": "true"},
+]},
+
+
 
 {		
    "name": "Movie หนังใหม่ (2026)",		
@@ -127,7 +136,7 @@
 {		
    "name": "ดูหนัง&กีฬา-เพื่อนบ้าน",		
    "image": "https://townsquare.media/site/486/files/2024/05/attachment-_-86.jpg",
-   "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/New%20Resize/Picture12.jpg",
+   "url": "https://docs.google.com/uc?export=download&id=1RrLqpR6tGnpvcQ06qY-3B3dqQibk6N53",
    "stations": [		
    ]	
   }	,
