@@ -61,6 +61,23 @@
       "playInNatPlayer": true
     },
 
+{     
+"name":"HBO สำรอง1",
+"image":"https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/103.png",              
+"url":"https://github.com/cattv976/movies/raw/refs/heads/main/hbo.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"},
+
+{     
+"name":"HBO สำรอง2",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png",              
+"url":"https://github.com/cattv976/movies/raw/refs/heads/main/hbo1.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"},
+
+
 {
 "name":"hbo-family",
 "image":"https://dookeela4.live/uploads/1703786776.png",
@@ -90,7 +107,7 @@
 "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
 
     {
-      "name": "PlayID UNIVERSAL",
+      "name": " UNIVERSAL",
       "image": "https://uppic.cloud/ib/36G21fJFys3RZzo_1738572890.png",
       "url": "http://49.0.64.96:8007/H-Channel",
       "group": "📺 PREMIUM PLAY TV",
@@ -99,7 +116,7 @@
       "playInNatPlayer": true
     },
     {
-      "name": "PLAYID MOV2",
+      "name": " MOV2",
       "image": "https://i.ibb.co/jZ7P3hJ/vvt.png",
       "url": "http://49.0.64.96:8007/PING",
       "userAgent": "https://playid.short.gy/",
@@ -107,7 +124,7 @@
       "playInNatPlayer": true
     },
     {
-      "name": "PlayID Family",
+      "name": " Family",
       "image": "https://i.ibb.co/t3xtr8Q/20241120-191736.png",
       "url": "http://49.0.64.96:8007/Cartoonumi",
       "userAgent": "https://playid.short.gy/",
