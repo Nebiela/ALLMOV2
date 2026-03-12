@@ -165,6 +165,15 @@
    "stations": [		
    ]	
   }	,
+
+{		
+   "name": "test",		
+   "image": "",
+   "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B23",
+   "stations": [		
+   ]	
+  }	,
+
   	
 { 
 "name":"เว็บดูบอลฟรี!",
