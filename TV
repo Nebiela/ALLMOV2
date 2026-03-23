@@ -6,16 +6,21 @@
  "stations": [
 
 
+{
+"name":"hbo TEST INDIA",
+"image":"https://dookeela4.live/uploads/1703686191.png",
+"url":"https://www.indihometv.com/livetv/hbo",
+"referer":"https://www.indihometv.com/",
+"info":"Server ",
+"playInNatPlayer":"true"},
 
 {
-"name":"hbo TEST",
-"image":"https://dookeela4.live/uploads/1703787713.png",
-"url":"https://www.indihometv.com/livetv/hbo",
-"referer": "https://www.indihometv.com/&userAgent=exo_player",
-"info":"(อัพเดท/5/2/26) by neti",
-"embed": "",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
-
+"name":"hbo TEST malaysia",
+"image":"https://dookeela4.live/uploads/1703686191.png",
+"url":"https://www.tvmalaysia.live/channel/hbo",
+"referer":"https://www.tvmalaysia.live/",
+"info":"Server ",
+"playInNatPlayer":"true"},
 
 
 {
