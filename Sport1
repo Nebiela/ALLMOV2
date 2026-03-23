@@ -6,6 +6,36 @@
  "stations": [
 
 
+{
+"name":"AISplay-sport1",
+"image":"https://www.imgx04.xyz/assets/img/ch_logo/AISplay-sport1.jpg",
+"url":"https://www.livedoomovies.com:4431/AIS_PLAY_1HD/playlist.m3u8",
+"referer": "https://www2.movie2k.io/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+{
+"name":"AISplay-sport1",
+"image":"https://www.imgx04.xyz/assets/img/ch_logo/AISplay-sport1.jpg",
+"url":"https://www.livedoomovies.com:4431/AIS_PLAY_1HD/playlist.m3u8",
+"referer": "https://www2.movie2k.io/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+{
+"name":"AISplay-sport2",
+"image":"https://www.imgx01.xyz/assets/img/ch_logo/AISplay-sport2.jpg",
+"url":"https://www.livedoomovies.com:4431/AIS_PLAY_2HD/playlist.m3u8",
+"referer": "https://www2.movie2k.io/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
 
 {
 "name":"monomax1",
