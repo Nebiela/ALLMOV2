@@ -5,7 +5,12 @@
 "url"               :     "",
 "stations" : [
 
-
+{
+"name":"Eat Pray Bark (2026)",
+"image":"https://lk-hdx.com/wp-content/uploads/2026/04/Eat-Pray-Bark-2026-200x300.jpg",
+"url":"https://original.enjoy24cdn.com/hlsr2/7b003cacf9b1df1452f87ee97db9ae23/master.m3u8",
+"referer":"https://www.123hdtv.com/"
+},
 {
 "name":"เกมพร้อมตาย ภาค 2(2026)",
 "image":"https://www.123-hds.com/wp-content/uploads/2026/03/Ready-or-Not-2-Here-I-Come-2026-%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%95%E0%B8%B2%E0%B8%A2-%E0%B8%A0%E0%B8%B2%E0%B8%84-2-300x450.png",
