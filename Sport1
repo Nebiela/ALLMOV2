@@ -57,10 +57,10 @@
 "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
 
 {
-"name":"monomax1 สำรอง",
+"name":"monomax1 test1",
 "image":"https://dookeela4.live/uploads/1753517049.png",
-"url":"https://dried-declared.eatmorebanana.org:9305/v5/subrquHDWRgR0aTBYg50gg/1779254137/585a6cad4a827325a4d97b5307092607/yYcNKo586xmVNp8CDThLNQ/1779264817/live/lx-origin/th-monomax01_480/playlist.m3u8",
-"referer": "https://dooball66aj.com/&userAgent=exo_player",
+"url":"http://thangap.ddns.net:3000/keela4.m3u8?q=monomax1",
+"referer": "http://thangap.ddns.net:3000/&userAgent=exo_player",
 "info":"(อัพเดท/5/2/26) by neti",
 "embed": "",
 "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
@@ -74,6 +74,16 @@
 "info":"(อัพเดท/5/2/26) by neti",
 "embed": "",
 "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+{
+"name":"monomax-2 test2",
+"image":"https://dookeela4.live/uploads/1755093093.png",
+"url":"http://thangap.ddns.net:8080/proxy/vip/monomax2/chunks.m3u8",
+"referer": "http://thangap.ddns.net:8080/proxy/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
 
 {
 "name":"tpf3",
