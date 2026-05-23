@@ -83,6 +83,14 @@
 "info":"Server github",
 "playInNatPlayer":"true"},
 
+{     
+"name":"HBO 720p สำรอง3",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png",              
+"url":"https://love.idhqxc0nl4.workers.dev/lx-origin/streamx-hbo_720/playlist.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"},
+
 
 {
 "name":"hbo-family",
