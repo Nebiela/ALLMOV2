@@ -126,15 +126,6 @@
 
 
 {		
-   "name": "BEIN SPORT HD",		
-   "image": "https://linuxsat-support.com/images/imported/2017/01/3.png",
-   "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/BEIN%20SPORT%20HD",
-   "stations": [		
-   ]	
-  }	,
-
-
-{		
    "name": "ดูหนัง&กีฬา-เพื่อนบ้าน",		
    "image": "https://townsquare.media/site/486/files/2024/05/attachment-_-86.jpg",
    "url": "https://docs.google.com/uc?export=download&id=1RrLqpR6tGnpvcQ06qY-3B3dqQibk6N53",
@@ -142,6 +133,13 @@
    ]	
   }	,
 
+{		
+   "name": "ดูหนัง-บนWep",		
+   "image": "https://img2.pic.in.th/Web.Doo.Freeacdd6f9cb7e3ef9a.jpg",
+   "url": "https://drive.google.com/uc?id=14P-pLiAbQyraAqYyckV3uDOVCPZccEh5",
+   "stations": [		
+   ]	
+  }	,
 
 
 {		
