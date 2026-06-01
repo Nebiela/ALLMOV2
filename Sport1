@@ -152,6 +152,14 @@
 "embed": "",
 "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
 
+{
+"name":"bein1 สำรอง",
+"image":"https://dookeela4.live/uploads/1664500365.png",
+"url":"https://love.jco5sjujta.workers.dev/vx-origin/epl-bein1_720/chunks.m3u8",
+"referer": "https://love.jco5sjujta.workers.dev/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
 
 
 {
@@ -159,6 +167,15 @@
 "image":"https://dookeela4.live/uploads/1690843424.png",
 "url":"https://cdn1.googlecdnforstreaming.live/live/bein2/playlist.m3u8",
 "referer": "https://warpdooball.net/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+{
+"name":"bein2 สำรอง",
+"image":"https://dookeela4.live/uploads/1690843424.png",
+"url":"https://love.jco5sjujta.workers.dev/vx-origin/epl-bein2_720/chunks.m3u8",
+"referer": "https://love.jco5sjujta.workers.dev/&userAgent=exo_player",
 "info":"(อัพเดท/5/2/26) by neti",
 "embed": "",
 "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
@@ -173,6 +190,18 @@
 "info":"(อัพเดท/5/2/26) by neti",
 "embed": "",
 "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+{
+"name":"bein3",
+"image":"https://dookeela4.live/uploads/1663980670.png",
+"url":"https://love.jco5sjujta.workers.dev/vx-origin/epl-bein3_720/chunks.m3u8",
+"referer": "http://v3tv.live:80/play/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
 
 {
 "name":"tsp1",
