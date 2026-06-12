@@ -7,6 +7,15 @@
 
 
 {
+"name":"Caze_TV บอลโลก",
+"image":"https://f.ptcdn.info/428/087/000/m8g5ap59jmMLfEaSYzj-o.jpg",
+"url":"https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/284b0094ab4f339fe29f54d096eeb381f69395d2/CazeTV.m3u8",
+"referer": "https://raw.githubusercontent.com/Bluestraveller13/&userAgent=exo_player",
+"info":"(อัพเดท/6/12/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+{
 "name":"Caze_TV 540p บอลโลก",
 "image":"https://f.ptcdn.info/428/087/000/m8g5ap59jmMLfEaSYzj-o.jpg",
 "url":"https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/540p-vtt/index.m3u8",
