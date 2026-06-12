@@ -7,6 +7,36 @@
 
 
 {
+"name":"Caze_TV 540p บอลโลก",
+"image":"https://f.ptcdn.info/428/087/000/m8g5ap59jmMLfEaSYzj-o.jpg",
+"url":"https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/540p-vtt/index.m3u8",
+"referer": "https://github.com/rdc1793/canaisiptv/&userAgent=exo_player",
+"info":"(อัพเดท/6/12/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+{
+"name":"Caze_TV 720p บอลโลก",
+"image":"https://f.ptcdn.info/428/087/000/m8g5ap59jmMLfEaSYzj-o.jpg",
+"url":"https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/720p-vtt/index.m3u8",
+"referer": "https://github.com/rdc1793/canaisiptv/&userAgent=exo_player",
+"info":"(อัพเดท/6/12/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+{
+"name":"BR 720lp",
+"image":"https://ih1.redbubble.net/image.4954799359.5991/flat,750x,075,f-pad,750x1000,f8f8f8.u1.jpg",
+"url":"https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/720lp-vtt/index.m3u8",
+"referer": "https://github.com/rdc1793/canaisiptv/&userAgent=exo_player",
+"info":"(อัพเดท/6/12/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+
+
+{
 "name":"AISplay-sport1",
 "image":"https://www.imgx04.xyz/assets/img/ch_logo/AISplay-sport1.jpg",
 "url":"https://www.livedoomovies.com:4431/AIS_PLAY_1HD/playlist.m3u8",
