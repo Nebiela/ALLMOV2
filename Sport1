@@ -5,6 +5,15 @@
  "info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
  "stations": [
 
+{
+"name":"สด..มั้ง บอลโลก มีภาพตอนแข่ง",
+"image":"https://f.ptcdn.info/428/087/000/m8g5ap59jmMLfEaSYzj-o.jpg",
+"url":"https://live.livedoomovies.com:4433/api/hls/live/82290/playlist.m3u8",
+"referer": "https://www.doonewmovie365.com/&userAgent=exo_player",
+"info":"(อัพเดท/6/12/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
 
 {
 "name":"Caze_TV บอลโลก",
