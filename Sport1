@@ -34,6 +34,17 @@
 "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
 
 {
+"name":"Ctsport บอลโลก",
+"image":"https://cdn.aptoide.com/imgs/6/a/9/6a9d6294be85d251de1c330f2800763e_fgraphic.png",
+"url":"http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8",
+"referer": "http://88.212.15.19/live/&userAgent=exo_player",
+"info":"(อัพเดท/6/12/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+
+{
 "name":"BR 720lp",
 "image":"https://ih1.redbubble.net/image.4954799359.5991/flat,750x,075,f-pad,750x1000,f8f8f8.u1.jpg",
 "url":"https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/720lp-vtt/index.m3u8",
