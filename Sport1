@@ -71,6 +71,33 @@
 "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
 
 
+{
+"name":"Monomax_Sport 7 HD เสียงTHAI",
+"image":"https://www.doonewmovie365.com/assets/img/ch_logo/Monomax_Sport07.png",
+"url":"https://live.livedoomovies.com:4433/api/hls/live/1489/playlist.m3u8",
+"referer": "https://www.doonewmovie365.com/&userAgent=exo_player",
+"info":"(อัพเดท/6/12/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+{
+"name":"Monomax_Sport 1 HD เสียงTHAI",
+"image":"https://www.doonewmovie365.com/assets/img/ch_logo/Monomax_Sport01.png",
+"url":"https://live.livedoomovies.com:4433/live/Monomax_Live_1HD/playlist.m3u8",
+"referer": "https://www.doonewmovie365.com/&userAgent=exo_player",
+"info":"(อัพเดท/6/12/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+{
+"name":"Monomax_Sport 2 HD เสียงTHAI",
+"image":"https://www.doonewmovie365.com/assets/img/ch_logo/Monomax_Sport02.png",
+"url":"https://live.livedoomovies.com:4433/live/Monomax_Live_2HD/playlist.m3u8",
+"referer": "https://www.doonewmovie365.com/&userAgent=exo_player",
+"info":"(อัพเดท/6/12/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
 
 
 {
