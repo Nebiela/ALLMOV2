@@ -7,23 +7,9 @@
 
 
 
-{ 
-"name":"ดูไม่ได้ ติดตั้งแอพVPN1111",
-"image":"https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/VPN.png",
-"stations":[
-
-{
-"name":"ติดตั้งแอพVPN1111",
-"image":"https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/VPN.png",
-"url":"https://1-1-1-1.th.uptodown.com/android/",
-"referer": "https://1-1-1-1.th.uptodown.com/",
-"embed": "true"},
-]},
-
-
 {		
    "name": "กีฬา SportTV1",		
-   "image": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/New%20Resize/Picture10.jpg",
+   "image": "https://cdn-sdotid.adg.id/images/746ed9ee-863e-408a-9b4a-0a445d9fb7cc_1280x720.webp.jpeg",
    "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/Sport1",
    "stations": [		
    ]	
@@ -32,15 +18,24 @@
 
 
 {		
+   "name": "กีฬา SportTV2",		
+   "image": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/New%20Resize/Picture10.jpg",
+   "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/Sport2",
+   "stations": [		
+   ]	
+  }	,
+
+
+{		
    "name": "Movie หนังใหม่ (2026)",		
-   "image": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/New%20Resize/Picture1.jpg",
+   "image": "https://i.ytimg.com/vi/UXcF3HXrcpc/hq720.jpg",
    "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/Mov2025",
    "stations": [		
    ]	
   }	,
 {		
    "name": "Movie Actionหนังใหม่",		
-   "image": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/New%20Resize/Picture2.jpg",
+   "image": "https://img.salehere.co.th/p/1200x0/2022/11/17/csl1nz9ioknq.jpg",
    "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9A%E0%B8%B9%E0%B9%8Awiseplay.w3u",
    "stations": [		
    ]	
@@ -48,7 +43,7 @@
 
 {		
    "name": "Anime-อนิเมะ",		
-   "image": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/New%20Resize/Picture3.jpg",
+   "image": "https://img.salehere.co.th/p/1200x0/2022/02/04/0crumbhl042f.jpg",
    "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/Gatoon123HDwiseplay.w3u",
    "stations": [		
    ]	
@@ -56,7 +51,7 @@
 
 {		
    "name": "การ์ตูน&เด็ก",		
-   "image": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/Picture14.png",
+   "image": "https://img.wongnai.com/p/1920x0/2021/12/08/7e35768d24284319b02cd56aa1f80cec.jpg",
    "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/Gatoo.w3u",
    "stations": [		
    ]	
@@ -65,21 +60,21 @@
 
 {		
    "name": "Movie Thai (หนังไทย)",		
-   "image": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/New%20Resize/Picture4.jpg",
+   "image": "https://images.lifestyleasia.com/wp-content/uploads/sites/8/2023/08/09133217/Hero-image-1600x900.jpg",
    "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/Movth",
    "stations": [		
    ]	
   }	,
 {		
    "name": "Movie Chaina (หนังจีน)",		
-   "image": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/New%20Resize/Picture5.png",
+   "image": "https://f.ptcdn.info/928/078/000/rktdqa8aqk2qJktRfd0-o.jpg",
    "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/MovCh",
    "stations": [		
    ]	
   }	,
 {		
    "name": "Netfilx หนังเน็ตฟิก",		
-   "image": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/New%20Resize/Picture6.jpg",
+   "image": "https://www.beartai.com/wp-content/uploads/2023/08/netflix-.jpg",
    "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/Netf",
    "stations": [		
    ]	
@@ -87,7 +82,7 @@
 
 {		
    "name": "รวมซีรี่Series",		
-   "image": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/New%20Resize/Picture7.png",
+   "image": "https://images.droidsans.com/wp-content/uploads/2021/07/recommended-movies-and-series-1085x568.jpg",
    "url": "https://www.dropbox.com/scl/fi/3aixfwzxspyq94r8bj0up/Series.w3u?rlkey=h7qba9idjw86zgiz66otaiixq&st=4odkjw5r&dl=1",
    "stations": [		
    ]	
@@ -95,7 +90,7 @@
 
 {		
    "name": "ฟรีทีวี&TV บันเทิง",		
-   "image": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/New%20Resize/Picture9.jpg",
+   "image": "https://www.matv-services.com/wp-content/uploads/2016/06/14082191931408219216l.jpg",
    "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/Freetv",
    "stations": [		
    ]	
@@ -103,7 +98,7 @@
 
 {		
    "name": "MOVIE&TV บันเทิง",		
-   "image": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/New%20Resize/Picture9.jpg",
+   "image": "https://www.taste.io/_next/image?url=%2Fimages%2Fhero.jpg",
    "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/TV",
    "stations": [		
    ]	
@@ -111,7 +106,7 @@
 
 {		
    "name": "ข่าว&ต่างประเทศ",		
-   "image": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/New%20Resize/Picture15.jpg",
+   "image": "https://www.shutterstock.com/image-vector/report-all-events-urgent-news-260nw-1290320530.jpg",
    "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/news.w3u",
    "stations": [		
    ]	
