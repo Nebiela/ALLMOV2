@@ -399,7 +399,55 @@
 
 
 
+{
+"name":"bein1",
+"image":"https://ball67.com/assets/channels-logo/bein1.png",
+"url":"https://ball67.com/channels/bein1/",
+"referer": "https://ball67.com/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
 
+
+{
+"name":"bein2",
+"image":"https://ball67.com/assets/channels-logo/bein2.png",
+"url":"https://ball67.com/channels/bein2/",
+"referer": "https://ball67.com/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+
+{
+"name":"bein2",
+"image":"https://ball67.com/assets/channels-logo/bein2.png",
+"url":"https://ball67.com/channels/bein2/",
+"referer": "https://ball67.com/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+
+{
+"name":"truesports1",
+"image":"https://ball67.com/assets/channels-logo/truesport1.png",
+"url":"https://ball67.com/channels/truesports1/",
+"referer": "https://ball67.com/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+{
+"name":"truesports2",
+"image":"https://ball67.com/assets/channels-logo/truesport2.png",
+"url":"https://ball67.com/channels/truesports2/",
+"referer": "https://ball67.com/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
 
 
 
