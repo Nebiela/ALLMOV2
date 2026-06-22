@@ -1,0 +1,144 @@
+{
+ "name": "กีฬา SportTV",
+ "author": "ดูฟรี! ไม่ขายนะครับ Copyright by Neti",
+ "image": "https://www.bettertechtips.com/wp-content/uploads/2021/07/image1__-696x385.jpg",
+ "info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+ "stations": [
+
+
+
+{
+"name":"bein1",
+"image":"https://ball67.com/assets/channels-logo/bein1.png",
+"url":"https://ball67.com/channels/bein1/",
+"referer": "https://ball67.com/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+{
+"name":"bein2",
+"image":"https://ball67.com/assets/channels-logo/bein2.png",
+"url":"https://ball67.com/channels/bein2/",
+"referer": "https://ball67.com/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+
+{
+"name":"bein3",
+"image":"https://ball67.com/assets/channels-logo/bein3.png",
+"url":"https://ball67.com/channels/bein3/",
+"referer": "https://ball67.com/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+
+{
+"name":"truesports1",
+"image":"https://ball67.com/assets/channels-logo/truesport1.png",
+"url":"https://ball67.com/channels/truesports1/",
+"referer": "https://ball67.com/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+{
+"name":"truesports2",
+"image":"https://ball67.com/assets/channels-logo/truesport2.png",
+"url":"https://ball67.com/channels/truesports2/",
+"referer": "https://ball67.com/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+{
+"name":"truesports3",
+"image":"https://ball67.com/assets/channels-logo/truesport3.png",
+"url":"https://ball67.com/channels/truesports3/",
+"referer": "https://ball67.com/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+{
+"name":"truesports7",
+"image":"https://ball67.com/assets/channels-logo/truesport7.png",
+"url":"https://ball67.com/channels/truesports7/",
+"referer": "https://ball67.com/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+{
+"name":"golfchannel",
+"image":"https://ball67.com/assets/channels-logo/golfchannel.png",
+"url":"https://ball67.com/channels/golfchannelthailand/",
+"referer": "https://ball67.com/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+{
+"name":"mono29",
+"image":"https://ball67.com/assets/channels-logo/monomax-sport-tv.png",
+"url":"https://ball67.com/channels/mono29/",
+"referer": "https://ball67.com/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+{
+"name":"spotv1",
+"image":"https://ball67.com/assets/channels-logo/spotv1.png",
+"url":"https://ball67.com/channels/spotv1/",
+"referer": "https://ball67.com/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+
+{
+"name":"spotv2",
+"image":"https://ball67.com/assets/channels-logo/spotv2.png",
+"url":"https://ball67.com/channels/spotv2/",
+"referer": "https://ball67.com/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
+}
+<html>
+<head>
+  <meta charset="UTF-8">
+  <link rel="shortcut icon" href="/icon.jpg" type="image/x-icon">
+  	<title>รู้น่ะคิดอะไรอยู่</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="description" content="รู้น่ะคิดอะไรอยู่"> 
+<meta http-equiv=refresh content=1;URL=https://www.google.co.th/>
+<body bgcolor="000000">
+<center>
+  <h2><img src="https://www.technologychaoban.com/wp-content/uploads/2017/08/3-1-768x576.jpg"></h2>
+</center>
+</body>
+</html>
