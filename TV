@@ -6,12 +6,47 @@
  "stations": [
 
 {
-"name":"iqiyi",
-"image":"https://gcore.jsdelivr.net/gh/taksssss/tv/icon/爱奇艺.png",
-"url":"http://o11.163189.xyz/stream/live/iqiyi/",
-"referer":"http://o11.163189.xyz/stream/live/",
+"name":"USA_HBO_COMEDY",
+"image":"https://epg.112114.xyz/logo/HBO.png",
+"url":"http://23.237.104.106:8080/USA_HBO_COMEDY/tracks-v1a1/mono.m3u8",
+"referer":"http://23.237.104.106:8080/",
 "info":"Server m7smarter",
 "playInNatPlayer":"true"},
+
+
+{
+"name":"USA_HBO2",
+"image":"https://epg.112114.xyz/logo/HBO.png",
+"url":"http://23.237.104.106:8080/USA_HBO2/tracks-v1a1/mono.m3u8",
+"referer":"http://23.237.104.106:8080/",
+"info":"Server m7smarter",
+"playInNatPlayer":"true"},
+
+{
+"name":"HBO",
+"image":"https://epg.112114.xyz/logo/HBO.png",
+"url":"https://github.com/cattv976/movies/raw/refs/heads/main/hbo1.m3u8",
+"referer":"https://github.com/cattv976/",
+"info":"Server m7smarter",
+"playInNatPlayer":"true"},
+
+
+{
+"name":"HBO1",
+"image":"https://epg.112114.xyz/logo/HBO.png",
+"url":"https://github.com/cattv976/movies/raw/refs/heads/main/hbo1.m3u8",
+"referer":"https://github.com/cattv976/",
+"info":"Server m7smarter",
+"playInNatPlayer":"true"},
+
+{
+"name":"CCM",
+"image":"https://static.wikia.nocookie.net/logopedia/images/b/b8/CCM_new_Logo.png",
+"url":"http://s3.e-cdn.me:80/live/Bengamenbukinafaso2026/msvrpi45e1/1776205.m3u8",
+"referer":"https://github.com/cattv976/",
+"info":"Server m7smarter",
+"playInNatPlayer":"true"},
+
 
 
 
