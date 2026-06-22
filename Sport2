@@ -115,9 +115,23 @@
 "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
 
 
+{
+"name":"monomax1 ",
+"image":"https://dookeela4.live/uploads/1753517049.png",
+"url":"http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776175&extension=m3u8",
+"referer": "http://v3tv.live:80/play/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
 
-
-
+{
+"name":"monomax-2 ",
+"image":"https://dookeela4.live/uploads/1755093093.png",
+"url":"http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776176&extension=m3u8",
+"referer": "http://v3tv.live:80/play/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
 
 
 
