@@ -159,7 +159,26 @@
 "name":"Motorvision TV รถแข่ง",
 "image":"https://i.postimg.cc/pL7dtZvb/IMG-2177.png",
 "url":"https://stream.ads.ottera.tv/playlist.m3u8?network_id=443",
-"referer": "http://49.0.64.96:8007/&userAgent=exo_player",
+"referer": "https://stream.ads.ottera.tv/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+{
+"name":"SPOTV HD 1 รถแข่ง",
+"image":"https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
+"url":"https://blive99.github.io/m3u8/sporttv/truespotv.m3u8",
+"referer": "https://blive99.github.io/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+{
+"name":"SPOTV HD 2 รถแข่ง",
+"image":"https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
+"url":"https://blive99.github.io/m3u8/sporttv/truespotv2.m3u8",
+"referer": "https://blive99.github.io/&userAgent=exo_player",
 "info":"(อัพเดท/5/2/26) by neti",
 "embed": "",
 "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
