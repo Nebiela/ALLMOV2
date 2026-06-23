@@ -134,6 +134,25 @@
 "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
 
 
+{
+"name":"one championship มวย",
+"image":"https://bestcommt2.github.io/logo/sport/one%20championship.jpg",
+"url":"http://49.0.64.96:8007/HIFIGHT",
+"referer": "http://49.0.64.96:8007/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+{
+"name":"HIFIGHT มวย",
+"image":"https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/HIFIGHT.png",
+"url":"http://49.0.64.96:8007/HIFIGHT",
+"referer": "http://49.0.64.96:8007/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
 
 
 
