@@ -155,6 +155,15 @@
 
 
 
+{
+"name":"Motorvision TV รถแข่ง",
+"image":"https://i.postimg.cc/pL7dtZvb/IMG-2177.png",
+"url":"https://stream.ads.ottera.tv/playlist.m3u8?network_id=443",
+"referer": "http://49.0.64.96:8007/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
 
 
 
