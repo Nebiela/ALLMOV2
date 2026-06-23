@@ -5,6 +5,13 @@
 "url"               :     "",
 "stations" : [
 
+
+{
+"name":"คนเดือดระห่ำ",
+"image":"https://www.24-hds.com/wp-content/uploads/2026/06/The-Furious-2026-%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B9%88%E0%B8%B3-187x269.png",
+"url":"https://main.24playerhd.com/newplaylist/80d7b69c6f97cd7f20cbd60e/80d7b69c6f97cd7f20cbd60e.m3u8",
+"referer":"https://www.24-hds.com/"
+},
 {
 "name":"แจ๊คผู้สยบยักษ์",
 "image":"https://www.24-hds.com/wp-content/uploads/2023/06/Jack-The-Giant-Slayer-2013-%E0%B9%81%E0%B8%88%E0%B9%8A%E0%B8%84%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%AA%E0%B8%A2%E0%B8%9A%E0%B8%A2%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C-187x269.jpg",
