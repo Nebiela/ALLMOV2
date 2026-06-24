@@ -9,30 +9,19 @@
 
 {
 "name":"bbc-news",
-"image":"https://dookeela4.live/uploads/1705785324.png",
-"url":"https://dookeela4.live/live-tv/bbc-news",
-"referer": "https://dookeela.live/&userAgent=exo_player",
+"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/BBC_World_News_2022.svg/960px-BBC_World_News_2022.svg.png?_=20220425110846",
+"url":"http://202.169.224.202:8800/udp/239.9.1.24:1234",
+"referer": "http://202.169.224.202:8800/&userAgent=exo_player",
 "info":"(อัพเดท/5/2/26) by neti",
 "embed": "",
 "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
 
 
 {
-"name":"bloomberg",
-"image":"https://dookeela4.live/uploads/1705785346.png",
-"url":"https://dookeela4.live/live-tv/bloomberg-television",
-"referer": "https://dookeela.live/&userAgent=exo_player",
-"info":"(อัพเดท/5/2/26) by neti",
-"embed": "",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
-
-
-
-{
-"name":"cnbc",
-"image":"https://dookeela4.live/uploads/1719802797.png",
-"url":"https://dookeela4.live/live-tv/cnbc",
-"referer": "https://dookeela.live/&userAgent=exo_player",
+"name":"cnn",
+"image":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png",
+"url":"https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
+"referer": "https://turnerlive.warnermediacdn.com/&userAgent=exo_player",
 "info":"(อัพเดท/5/2/26) by neti",
 "embed": "",
 "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
@@ -40,9 +29,20 @@
 
 
 {
-"name":"cctv4",
-"image":"https://dookeela4.live/uploads/1705785371.png",
-"url":"https://dookeela4.live/live-tv/cctv4",
+"name":"FOX Weather",
+"image":"https://media.foxadvertising.com/wp-content/uploads/2024/05/04090656/Weather-logo-leftaligned-e1756991354181.png",
+"url":"https://247wlive.foxweather.com/stream/index.m3u8",
+"referer": "https://247wlive.foxweather.com&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+
+{
+"name":"BBC WORLD NEWS",
+"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/BBC_World_News_2022.svg/960px-BBC_World_News_2022.svg.png?_=20220425110846",
+"url":"http://202.169.224.202:8800/udp/239.9.1.24:1234",
 "referer": "https://dookeela.live/&userAgent=exo_player",
 "info":"(อัพเดท/5/2/26) by neti",
 "embed": "",
@@ -51,17 +51,17 @@
 
 {
 "name":"cna",
-"image":"https://dookeela4.live/uploads/1730731242.png",
-"url":"https://dookeela4.live/live-tv/cna",
+"image":"https://logowik.com/content/uploads/images/cna-channel-news-asia9392.jpg",
+"url":"https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8",
 "referer": "https://dookeela.live/&userAgent=exo_player",
 "info":"(อัพเดท/5/2/26) by neti",
 "embed": "",
 "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
 
 {
-"name":"nhk",
-"image":"https://dookeela4.live/uploads/1731890206.png",
-"url":"https://dookeela4.live/live-tv/nhk",
+"name":" Bloomberg News",
+"image":"https://assets.bwbx.io/s3/lightsaber/_next/static/media/social-default.d7363fa9.png",
+"url":"https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8",
 "referer": "https://dookeela.live/&userAgent=exo_player",
 "info":"(อัพเดท/5/2/26) by neti",
 "embed": "",
@@ -70,9 +70,9 @@
 
 
 {
-"name":"topnews",
-"image":"https://dookeela4.live/uploads/1742428070.png",
-"url":"https://dookeela4.live/live-tv/topnews",
+"name":" CBS News",
+"image":"https://store-images.s-microsoft.com/image/apps.62894.9007199266307714.19056064-61f6-46db-a885-8606a40a9130.178f68bb-1678-4fb3-aea3-f0f8d7ac4599",
+"url":"https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
 "referer": "https://dookeela.live/&userAgent=exo_player",
 "info":"(อัพเดท/5/2/26) by neti",
 "embed": "",
