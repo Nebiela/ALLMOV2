@@ -52,12 +52,57 @@
 
 {
 "name":"mono29",
-"image":"https://dookeela4.live/uploads/1703787713.png",
+"image":"https://mthai.com/app/uploads/2021/01/mono29_logo.png",
 "url":"https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd",
 "referer": "https://udn-streamer1.cdn.3bbtv.com:8443/&userAgent=exo_player",
 "info":"(อัพเดท/5/2/26) by neti",
 "embed": "",
 "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+
+{
+"name":"หนังThai",
+"image":"https://img.magnific.com/free-vector/home-movie-background-with-popcorn_1419-1852.jpg",
+"url":"http://43.229.132.25:80/play/bQ-fFu7dMOtIPDjoXbK1w5H53SITSMYtRd-Oqf6wLL0/m3u8",
+"referer": "http://43.229.132.25:80/play/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+
+{
+"name":"หนังต่างประเทศ",
+"image":"https://img.magnific.com/free-vector/home-movie-background-with-popcorn_1419-1852.jpg",
+"url":"http://43.229.132.25:80/play/bQ-fFu7dMOtIPDjoXbK1w_5cOTPtf2-yuYVaNlq13GI/m3u8",
+"referer": "http://43.229.132.25:80/play/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+{
+"name":"หนังเอเชีย",
+"image":"https://img.magnific.com/free-vector/home-movie-background-with-popcorn_1419-1852.jpg",
+"url":"http://43.229.132.25:80/play/bQ-fFu7dMOtIPDjoXbK1wwRB5fluemONXXZNwQoTE3k/m3u8",
+"referer": "http://43.229.132.25:80/play/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+
+
+{
+"name":"iplaymedia",
+"image":"https://img.magnific.com/free-vector/home-movie-background-with-popcorn_1419-1852.jpg",
+"url":"http://43.229.132.25:80/play/bQ-fFu7dMOtIPDjoXbK1w0oWEYO_FOJVpIFrwrh9dqo/m3u8",
+"referer": "http://43.229.132.25:80/play/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
 
 
 
