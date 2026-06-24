@@ -8,10 +8,10 @@
 
 
 {
-"name":"animax",
-"image":"https://dookeela4.live/uploads/1704038567.png",
-"url":"https://dookeela4.live/live-tv/animax",
-"referer": "https://dookeela.live/&userAgent=exo_player",
+"name":"CARTOONITO",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Cartoonito.png",
+"url":"https://flash1.bogulus1.cfd/bomer/usergenrx2c86jey.m3u8",
+"referer": "https://canale-tv.net/&userAgent=exo_player",
 "info":"(อัพเดท/5/2/26) by neti",
 "embed": "",
 "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
@@ -29,10 +29,10 @@
 
 
 {
-"name":"disney-channel",
-"image":"https://dookeela4.live/uploads/1716361978.png",
-"url":"https://dookeela4.live/live-tv/disney-channel",
-"referer": "https://dookeela.live/&userAgent=exo_player",
+"name":"Animax",
+"image":"https://liveera.live/images/channels/Animax__Singapore.png",
+"url":"http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15",
+"referer": "http://cdns.jp-primehome.com:8000/zhongying/&userAgent=exo_player",
 "info":"(อัพเดท/5/2/26) by neti",
 "embed": "",
 "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
@@ -40,29 +40,29 @@
 
 
 {
-"name":"nickjr",
-"image":"https://dookeela4.live/uploads/1708344362.png",
-"url":"https://dookeela4.live/live-tv/nickjr",
-"referer": "https://dookeela.live/&userAgent=exo_player",
+"name":"Disney Channel ",
+"image":"https://liveera.live/images/channels/Disney_Channel.png",
+"url":"http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8",
+"referer": "http://23.237.104.106:8080/&userAgent=exo_player",
 "info":"(อัพเดท/5/2/26) by neti",
 "embed": "",
 "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
 
 
 {
-"name":"truesparkplay",
-"image":"https://dookeela4.live/uploads/1720723541.png",
-"url":"https://dookeela4.live/live-tv/truesparkplay",
-"referer": "https://dookeela.live/&userAgent=exo_player",
+"name":"boomerang",
+"image":"https://raw.githubusercontent.com/babygen-sys/yut/main/Boomerang_2025.png",
+"url":"http://api.plus-server.sbs/play.php?key=1234&ch=boomerang_mvtv",
+"referer": "http://api.plus-server.sbs/&userAgent=exo_player",
 "info":"(อัพเดท/5/2/26) by neti",
 "embed": "",
 "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
 
 {
-"name":"cartoonito",
-"image":"https://dookeela4.live/uploads/1704039063.png",
-"url":"https://dookeela4.live/live-tv/cartoonito",
-"referer": "https://dookeela.live/&userAgent=exo_player",
+"name":"nicjr",
+"image":"https://static.wikia.nocookie.net/logopedia/images/7/78/Nick_Jr._Splat_2023.png/revision/latest/scale-to-width-down/150?cb=20241015184948",
+"url":"https://galandriel1.thobias11.cfd/nicjr/usergendxl2c8nd.m3u8",
+"referer": "https://galandriel1.thobias11.cfd/nicjr/&userAgent=exo_player",
 "info":"(อัพเดท/5/2/26) by neti",
 "embed": "",
 "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
@@ -70,13 +70,36 @@
 
 
 {
-"name":"dreamworks",
+"name":"TOM & JERRY",
 "image":"https://dookeela4.live/uploads/1723200736.png",
-"url":"https://dookeela4.live/live-tv/dreamworks",
-"referer": "https://dookeela.live/&userAgent=exo_player",
+"url":"https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8",
+"referer": "https://live20.bozztv.com/&userAgent=exo_player",
 "info":"(อัพเดท/5/2/26) by neti",
 "embed": "",
 "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+
+
+{
+"name":"Baby Shark TV",
+"image":"https://mir-s3-cdn-cf.behance.net/projects/404/08ee76134022497.Y3JvcCwxNTE0LDExODQsNTA2LDk3.png",
+"url":"https://newidco-babysharktv-1-us.lg.wurl.tv/playlist.m3u8",
+"referer": "https://live20.bozztv.com/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+{
+"name":"/zoomoo",
+"image":"https://i.imgur.com/Oqq4uDn.png",
+"url":"https://zoomoo-samsungau.amagi.tv/playlist.m3u8",
+"referer": "https://live20.bozztv.com/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
 
 
 
