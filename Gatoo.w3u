@@ -17,26 +17,6 @@
 "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
 
 
-{
-"name":"cartoon-network",
-"image":"https://dookeela4.live/uploads/1708344243.png",
-"url":"https://dookeela4.live/live-tv/cartoon-network",
-"referer": "https://dookeela.live/&userAgent=exo_player",
-"info":"(อัพเดท/5/2/26) by neti",
-"embed": "",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
-
-
-
-{
-"name":"Animax",
-"image":"https://liveera.live/images/channels/Animax__Singapore.png",
-"url":"http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15",
-"referer": "http://cdns.jp-primehome.com:8000/zhongying/&userAgent=exo_player",
-"info":"(อัพเดท/5/2/26) by neti",
-"embed": "",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
-
 
 
 {
@@ -71,7 +51,7 @@
 
 {
 "name":"TOM & JERRY",
-"image":"https://dookeela4.live/uploads/1723200736.png",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWR07D6XaTeEruHtTs9C_rr_dIq84FA3gf_y1kTU34VFxEIiRofCtO1ZCg&s=10",
 "url":"https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8",
 "referer": "https://live20.bozztv.com/&userAgent=exo_player",
 "info":"(อัพเดท/5/2/26) by neti",
