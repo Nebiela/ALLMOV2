@@ -31,6 +31,17 @@
 "embed": "",
 "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
 
+{
+"name":"monomax1 ",
+"image":"https://www.doonewmovie365.com/assets/img/ch_logo/Monomax_Sport01.png",
+"url":"http://github.com/cattv976/sportthai/raw/refs/heads/main/MONOMAX1.m3u8",
+"referer": "http://github.com/cattv976/sportthai/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+
 
 {
 "name":"Caze_TV บอลโลก",
@@ -222,6 +233,8 @@
 "info":"(อัพเดท/5/2/26) by neti",
 "embed": "",
 "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
 
 {
 "name":"monomax-2 ",
