@@ -8,20 +8,19 @@
 
 
 {
-"name":"samrujlok",
-"image":"https://dookeela4.live/uploads/1705536821.png",
-"url":"https://dookeela4.live/live-tv/samrujlok",
-"referer": "https://dookeela.live/&userAgent=exo_player",
-"info":"(อัพเดท/5/2/26) by neti",
-"embed": "",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
-
-
-{
 "name":"discovery",
-"image":"https://dookeela4.live/uploads/1706112738.png",
-"url":"https://dookeela4.live/live-tv/discovery",
-"referer": "https://dookeela.live/&userAgent=exo_player",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png",
+"url":"https://live1.inwstream.com/transcoder_F1/discovery_inwiptv.stream/chunks.m3u8",
+"referer": "https://live3.inwstream.com/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+{
+"name":"discovery asia",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png",
+"url":"https://live3.inwstream.com/transcoder_F1/discoveryasia_inwiptv.stream/chunks.m3u8",
+"referer": "https://live3.inwstream.com/&userAgent=exo_player",
 "info":"(อัพเดท/5/2/26) by neti",
 "embed": "",
 "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
@@ -29,10 +28,10 @@
 
 
 {
-"name":"national-geographic",
-"image":"https://dookeela4.live/uploads/1716366217.png",
-"url":"https://dookeela4.live/live-tv/national-geographic",
-"referer": "https://dookeela.live/&userAgent=exo_player",
+"name":"LOVE_NATURE",
+"image":"https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png",
+"url":"https://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8",
+"referer": "https://fl1.moveonjoy.com/&userAgent=exo_player",
 "info":"(อัพเดท/5/2/26) by neti",
 "embed": "",
 "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
@@ -41,28 +40,19 @@
 
 {
 "name":"animalshow",
-"image":"https://dookeela4.live/uploads/1705537126.png",
-"url":"https://dookeela4.live/live-tv/animalshow",
-"referer": "https://dookeela.live/&userAgent=exo_player",
+"image":"https://static.uflixtv.cc/images/tv/png/th-ais-animalshow.png",
+"url":"https://live3.inwstream.com/transcoder_F1/animalshow_inwiptv.stream/chunks.m3u8",
+"referer": "https://live3.inwstream.com/&userAgent=exo_player",
 "info":"(อัพเดท/5/2/26) by neti",
 "embed": "",
 "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
 
-
-{
-"name":"discovery-asia",
-"image":"https://dookeela4.live/uploads/1706112755.png",
-"url":"https://dookeela4.live/live-tv/discovery-asia",
-"referer": "https://dookeela.live/&userAgent=exo_player",
-"info":"(อัพเดท/5/2/26) by neti",
-"embed": "",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
 
 {
 "name":"history",
 "image":"https://dookeela4.live/uploads/1713231372.png",
-"url":"https://dookeela4.live/live-tv/history",
-"referer": "https://dookeela.live/&userAgent=exo_player",
+"url":"http://54.37.19.157/history/tracks-v1a1/mono.m3u8",
+"referer": "http://54.37.19.157/history/&userAgent=exo_player",
 "info":"(อัพเดท/5/2/26) by neti",
 "embed": "",
 "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
@@ -70,9 +60,21 @@
 
 
 {
-"name":"lovenature4k",
-"image":"https://dookeela4.live/uploads/1729286214.png",
-"url":"https://dookeela4.live/live-tv/lovenature4k",
+"name":"animalshow",
+"image":"https://static.uflixtv.cc/images/tv/png/th-ais-samrujlok.png",
+"url":"https://live3.inwstream.com/transcoder_F1/animalshow_inwiptv.stream/chunks.m3u8",
+"referer": "https://dookeela.live/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+
+
+{
+"name":"mysci",
+"image":"https://www.fileinw.com/postor/20240418211511MySci.jpg",
+"url":"https://live3.inwstream.com/transcoder_F1/mysci_inwiptv.stream/chunks.m3u8",
 "referer": "https://dookeela.live/&userAgent=exo_player",
 "info":"(อัพเดท/5/2/26) by neti",
 "embed": "",
