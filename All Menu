@@ -1,163 +1,139 @@
-{		
- "name": "NEWTV หนัง&กีฬา",		
- "author": "กดรีเฟรช ประสาน มุมขวาบน By Neti ดูฟรีกันไป",				
- "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/All%20Menu",	
- "image": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/logo.png",		
- "groups": [		
-
-
-
-{		
-   "name": "กีฬา SportTV1",		
-   "image": "https://cdn-sdotid.adg.id/images/746ed9ee-863e-408a-9b4a-0a445d9fb7cc_1280x720.webp.jpeg",
-   "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/Sport1",
-   "stations": [		
-   ]	
-  }	,
-
-
-
-{		
-   "name": "กีฬา SportTV2",		
-   "image": "https://img.magnific.com/free-vector/sport-text-banner-poster-design_1308-132744.jpg",
-   "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/Sport2",
-   "stations": [		
-   ]	
-  }	,
-
-
-{		
-   "name": "Movie หนังใหม่ (2026)",		
-   "image": "https://i.ytimg.com/vi/UXcF3HXrcpc/hq720.jpg",
-   "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/Mov2025",
-   "stations": [		
-   ]	
-  }	,
-{		
-   "name": "Movie Actionหนังใหม่",		
-   "image": "https://img.salehere.co.th/p/1200x0/2022/11/17/csl1nz9ioknq.jpg",
-   "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9A%E0%B8%B9%E0%B9%8Awiseplay.w3u",
-   "stations": [		
-   ]	
-  }	,
-
-{		
-   "name": "การ์ตูน&เด็ก",		
-   "image": "https://img.wongnai.com/p/1920x0/2021/12/08/7e35768d24284319b02cd56aa1f80cec.jpg",
-   "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/Gatoo.w3u",
-   "stations": [		
-   ]	
-  }	,
-
-
-{		
-   "name": "Movie Thai (หนังไทย)",		
-   "image": "https://images.lifestyleasia.com/wp-content/uploads/sites/8/2023/08/09133217/Hero-image-1600x900.jpg",
-   "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/Movth",
-   "stations": [		
-   ]	
-  }	,
-{		
-   "name": "Movie Chaina (หนังจีน)",		
-   "image": "https://f.ptcdn.info/928/078/000/rktdqa8aqk2qJktRfd0-o.jpg",
-   "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/MovCh",
-   "stations": [		
-   ]	
-  }	,
-{		
-   "name": "Netfilx หนังเน็ตฟิก",		
-   "image": "https://www.beartai.com/wp-content/uploads/2023/08/netflix-.jpg",
-   "url": "https://drive.google.com/uc?id=1I7svUxKND0VvPUkFshVehGNZMJxvuQG9",
-   "stations": [		
-   ]	
-  }	,
-{		
-   "name": "Netfilx 2",		
-   "image": "https://www.beartai.com/wp-content/uploads/2023/08/netflix-.jpg",
-   "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/Volleyball",
-   "stations": [		
-   ]	
-  }	,
-
-{		
-   "name": "รวมซีรี่Series",		
-   "image": "https://images.droidsans.com/wp-content/uploads/2021/07/recommended-movies-and-series-1085x568.jpg",
-   "url": "https://www.dropbox.com/scl/fi/3aixfwzxspyq94r8bj0up/Series.w3u?rlkey=h7qba9idjw86zgiz66otaiixq&st=4odkjw5r&dl=1",
-   "stations": [		
-   ]	
-  }	,
-
-{		
-   "name": "ฟรีทีวี&TV บันเทิง",		
-   "image": "https://www.matv-services.com/wp-content/uploads/2016/06/14082191931408219216l.jpg",
-   "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/Freetv",
-   "stations": [		
-   ]	
-  }	,
-
-{		
-   "name": "MOVIE&TV บันเทิง",		
-   "image": "https://img.magnific.com/free-vector/home-movie-background-with-popcorn_1419-1852.jpg",
-   "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/TV",
-   "stations": [		
-   ]	
-  }	,
-
-{		
-   "name": "ข่าว&ต่างประเทศ",		
-   "image": "https://www.shutterstock.com/image-vector/report-all-events-urgent-news-260nw-1290320530.jpg",
-   "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/news.w3u",
-   "stations": [		
-   ]	
-  }	,
-{		
-   "name": "สาระคดี สำรวจโลก",		
-   "image": "https://i.ytimg.com/vi/_TWQxGFH36o/hq720.jpg",
-   "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/samruj.w3u",
-   "stations": [		
-   ]	
-  }	,
-
-
-{		
-   "name": "ดูหนัง&กีฬา-เพื่อนบ้าน",		
-   "image": "https://townsquare.media/site/486/files/2024/05/attachment-_-86.jpg",
-   "url": "https://docs.google.com/uc?export=download&id=1RrLqpR6tGnpvcQ06qY-3B3dqQibk6N53",
-   "stations": [		
-   ]	
-  }	,
-
-
-{		
-   "name": "ฉ1 ผู้(+)ใหญ่",		
-   "image": "https://dl.dropbox.com/scl/fi/mocnjevaziig68iw51rxm/18.jpg?rlkey=7bdqajc4uaa8c965rrw73z60n&st=hf9irco4&dl=0",
-   "url": "https://bit.ly/doonungporn",
-   "stations": [		
-   ]	
-  }	,
-
-{		
-   "name": "ฉ2 ผู้(+)ใหญ่",		
-   "image": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Level_6_Thailand_rating_system_2013.jpg",
-   "url": "https://www.dropbox.com/scl/fi/phdcutvqonxdtj0iw1ayw/MainX.w3u?rlkey=xn6sxv5zsr2mjetu9mw8melpl&st=pn9ojedh&dl=1",
-   "stations": [		
-   ]	
-  }	,
-
-
-{		
-   "name": "ฉ3 ผู้(+)ใหญ่",		
-   "image": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Level_6_Thailand_rating_system_2013.jpg",
-   "url": "https://url.in.th/sVfkM",
-   "stations": [		
-   ]	
-  }	,
-  	
-{ 
+{
+"name": "NEWTV หนัง&กีฬา",
+"author": "กดรีเฟรช ประสาน มุมขวาบน By Neti ดูฟรีกันไป",
+"url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/All%20Menu",
+"image": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/logo.png",
+"groups": [
+{
+"name": "กีฬา SportTV1",
+"image": "https://cdn-sdotid.adg.id/images/746ed9ee-863e-408a-9b4a-0a445d9fb7cc_1280x720.webp.jpeg",
+"url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/Sport1",
+"stations": [
+]
+}	,
+{
+"name": "กีฬา SportTV2",
+"image": "https://img.magnific.com/free-vector/sport-text-banner-poster-design_1308-132744.jpg",
+"url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/Sport2",
+"stations": [
+]
+}	,
+{
+"name": "Movie หนังใหม่ (2026)",
+"image": "https://i.ytimg.com/vi/UXcF3HXrcpc/hq720.jpg",
+"url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/Mov2025",
+"stations": [
+]
+}	,
+{
+"name": "Movie Actionหนังใหม่",
+"image": "https://img.salehere.co.th/p/1200x0/2022/11/17/csl1nz9ioknq.jpg",
+"url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9A%E0%B8%B9%E0%B9%8Awiseplay.w3u",
+"stations": [
+]
+}	,
+{
+"name": "การ์ตูน&เด็ก",
+"image": "https://img.wongnai.com/p/1920x0/2021/12/08/7e35768d24284319b02cd56aa1f80cec.jpg",
+"url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/Gatoo.w3u",
+"stations": [
+]
+}	,
+{
+"name": "Movie Thai (หนังไทย)",
+"image": "https://images.lifestyleasia.com/wp-content/uploads/sites/8/2023/08/09133217/Hero-image-1600x900.jpg",
+"url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/Movth",
+"stations": [
+]
+}	,
+{
+"name": "Movie Chaina (หนังจีน)",
+"image": "https://f.ptcdn.info/928/078/000/rktdqa8aqk2qJktRfd0-o.jpg",
+"url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/MovCh",
+"stations": [
+]
+}	,
+{
+"name": "Netfilx หนังเน็ตฟิก",
+"image": "https://www.beartai.com/wp-content/uploads/2023/08/netflix-.jpg",
+"url": "https://drive.google.com/uc?id=1I7svUxKND0VvPUkFshVehGNZMJxvuQG9",
+"stations": [
+]
+}	,
+{
+"name": "Netfilx 2",
+"image": "https://www.beartai.com/wp-content/uploads/2023/08/netflix-.jpg",
+"url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/Volleyball",
+"stations": [
+]
+}	,
+{
+"name": "รวมซีรี่Series",
+"image": "https://images.droidsans.com/wp-content/uploads/2021/07/recommended-movies-and-series-1085x568.jpg",
+"url": "https://www.dropbox.com/scl/fi/3aixfwzxspyq94r8bj0up/Series.w3u?rlkey=h7qba9idjw86zgiz66otaiixq&st=4odkjw5r&dl=1",
+"stations": [
+]
+}	,
+{
+"name": "ฟรีทีวี&TV บันเทิง",
+"image": "https://www.matv-services.com/wp-content/uploads/2016/06/14082191931408219216l.jpg",
+"url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/Freetv",
+"stations": [
+]
+}	,
+{
+"name": "MOVIE&TV บันเทิง",
+"image": "https://img.magnific.com/free-vector/home-movie-background-with-popcorn_1419-1852.jpg",
+"url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/TV",
+"stations": [
+]
+}	,
+{
+"name": "ข่าว&ต่างประเทศ",
+"image": "https://www.shutterstock.com/image-vector/report-all-events-urgent-news-260nw-1290320530.jpg",
+"url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/news.w3u",
+"stations": [
+]
+}	,
+{
+"name": "สาระคดี สำรวจโลก",
+"image": "https://i.ytimg.com/vi/_TWQxGFH36o/hq720.jpg",
+"url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/samruj.w3u",
+"stations": [
+]
+}	,
+{
+"name": "ดูหนัง&กีฬา-เพื่อนบ้าน",
+"image": "https://townsquare.media/site/486/files/2024/05/attachment-_-86.jpg",
+"url": "https://docs.google.com/uc?export=download&id=1RrLqpR6tGnpvcQ06qY-3B3dqQibk6N53",
+"stations": [
+]
+}	,
+{
+"name": "ฉ1 ผู้(+)ใหญ่",
+"image": "https://dl.dropbox.com/scl/fi/mocnjevaziig68iw51rxm/18.jpg?rlkey=7bdqajc4uaa8c965rrw73z60n&st=hf9irco4&dl=0",
+"url": "https://bit.ly/doonungporn",
+"stations": [
+]
+}	,
+{
+"name": "ฉ2 ผู้(+)ใหญ่",
+"image": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Level_6_Thailand_rating_system_2013.jpg",
+"url": "https://www.dropbox.com/scl/fi/phdcutvqonxdtj0iw1ayw/MainX.w3u?rlkey=xn6sxv5zsr2mjetu9mw8melpl&st=pn9ojedh&dl=1",
+"stations": [
+]
+}	,
+{
+"name": "ฉ3 ผู้(+)ใหญ่",
+"image": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Level_6_Thailand_rating_system_2013.jpg",
+"url": "https://url.in.th/sVfkM",
+"stations": [
+]
+}	,
+{
 "name":"เว็บดูบอลฟรี!",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuLjlFxCWOmY3Pqv3YcO-UHpw7Jqlz5ZxQhQ&s",
 "stations":[
-
 {
 "name":"goaldaddythaiดูบอลสด",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuLjlFxCWOmY3Pqv3YcO-UHpw7Jqlz5ZxQhQ&s",
@@ -200,16 +176,13 @@
 "url":"https://www.dooball66.today/",
 "referer": "https://www.dooball66.today/",
 "embed": "true"},
-
 ]},
-
-  	{		
-   "name": "กดรีเฟรช ทุกครั้ง",		
-   "image": "https://vc2i.rweb-images.com/www.pandp.co.th/images/column_1556853454/Refresh22.jpg",
-   "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/All%20Menu",
-   "stations": [		
-   ]	
-  }	,
-
- ]		
-}		
+{
+"name": "กดรีเฟรช ทุกครั้ง",
+"image": "https://vc2i.rweb-images.com/www.pandp.co.th/images/column_1556853454/Refresh22.jpg",
+"url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/All%20Menu",
+"stations": [
+]
+},
+]
+}
