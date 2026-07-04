@@ -1,12 +1,9 @@
 {
- "name": "ฟรีทีวี&TV บันเทิง",
+ "name": "ฟรีทีวี&TV ",
  "author": "ดูฟรี! Copyright by Neti",
  "image": "https://nbcpalmsprings.com/wp-content/uploads/sites/8/2021/12/BEST-MOVIES-OF-2021.jpeg",
- "info":"!!!ฟรี!!! ดูฟรีกันไป",
+ "info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
  "stations": [
-
-
-
 
 
 
@@ -35,89 +32,6 @@
 "name":"7CH",
 "image":"https://ball67.com/assets/channels-logo/7hd.png",
 "url":"https://live-us1.thaimomo.com/live-as/ch7hd-3/chunklist_w1884105767.m3u8",
-"referer": "https://famelack.com/tv/&userAgent=exo_player",
-"info":"(อัพเดท/5/2/26) by neti",
-"embed": "",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
-
-
-
-{
-"name":"thairathtv",
-"image":"https://ball67.com/assets/channels-logo/thairath.png",
-"url":"https://live-us1.thaimomo.com/live-as/chthairathhd-3/chunklist_w1345821450.m3u8",
-"referer": "https://famelack.com/tv/&userAgent=exo_player",
-"info":"(อัพเดท/5/2/26) by neti",
-"embed": "",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
-
-
-{
-"name":"amarintv",
-"image":"https://ball67.com/assets/channels-logo/amarin.png",
-"url":"https://live-us1.thaimomo.com/live-as/chamarin-3/chunklist_w818577048.m3u8",
-"referer": "https://famelack.com/tv/&userAgent=exo_player",
-"info":"(อัพเดท/5/2/26) by neti",
-"embed": "",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
-
-
-
-{
-"name":"workpointtv",
-"image":"https://ball67.com/assets/channels-logo/workpoint.png",
-"url":"https://live-us1.thaimomo.com/live-as/chworkpointt-3/chunklist_w677278929.m3u8",
-"referer": "https://famelack.com/tv/&userAgent=exo_player",
-"info":"(อัพเดท/5/2/26) by neti",
-"embed": "",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
-
-
-{
-"name":"monomax-sport",
-"image":"https://ball67.com/assets/channels-logo/monomax-sport-tv.png",
-"url":"https://live-us1.thaimomo.com/live-as/chmono29-2/chunklist_w1337175441.m3u8",
-"referer": "https://famelack.com/tv/&userAgent=exo_player",
-"info":"(อัพเดท/5/2/26) by neti",
-"embed": "",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
-
-
-{
-"name":"ch8",
-"image":"https://ball67.com/assets/channels-logo/ch8.png",
-"url":"https://live-us1.thaimomo.com/live-as/cheight-3/chunklist_w808511203.m3u8",
-"referer": "https://famelack.com/tv/&userAgent=exo_player",
-"info":"(อัพเดท/5/2/26) by neti",
-"embed": "",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
-
-
-{
-"name":"one31",
-"image":"https://ball67.com/assets/channels-logo/one31.png",
-"url":"https://live-us1.thaimomo.com/live-as/chone-3/chunklist_w1288703719.m3u8",
-"referer": "https://famelack.com/tv/&userAgent=exo_player",
-"info":"(อัพเดท/5/2/26) by neti",
-"embed": "",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
-
-
-
-{
-"name":"cable37",
-"image":"https://i.postimg.cc/t4vQNs2p/IMG-1852.png",
-"url":"http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8",
-"referer": https://famelack.com/tv/&userAgent=exo_player",
-"info":"(อัพเดท/5/2/26) by neti",
-"embed": "",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
-
-
-{
-"name":"Rama Channel",
-"image":"https://i.postimg.cc/fLYkGVG6/IMG-2587.png",
-"url":"https://ramach.ddns.net/live/ramalive/index.m3u8",
 "referer": "https://famelack.com/tv/&userAgent=exo_player",
 "info":"(อัพเดท/5/2/26) by neti",
 "embed": "",
