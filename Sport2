@@ -6,6 +6,35 @@
  "stations": [
 
 
+{
+"name":"แข่งรถ F1",
+"image":"https://static.amarintv.com/media/PJVlR0ljpN9mLUt9n6UsSZL8HvHUcO1Q6K3SIJDZPqkmW3oOecDvFUXZKOCbZdyhZL.jpg",
+"url":"https://fernntv.dpdns.org/api/iptv-proxy?url=https%3A%2F%2Famg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv%2Fplaylist1080p.m3u8",
+"referer": "https://fernntv.dpdns.org/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+{
+"name":"บอลโลก ctsport",
+"image":"https://cdn.aptoide.com/imgs/6/a/9/6a9d6294be85d251de1c330f2800763e_fgraphic.png",
+"url":"https://fernntv.dpdns.org/api/iptv-proxy?url=http%3A%2F%2F88.212.15.19%2Flive%2Ftest_ctsport_25p%2Fplaylist.m3u8",
+"referer": "https://fernntv.dpdns.org/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+{
+"name":"กีฬาต่างประเทศ bein-xtra-bein",
+"image":"https://static.amarintv.com/media/PJVlR0ljpN9mLUt9n6UsSZL8HvHUcO1Q6K3SIJDZPqkmW3oOecDvFUXZKOCbZdyhZL.jpg",
+"url":"https://fernntv.dpdns.org/api/iptv-proxy?url=https%3A%2F%2Fbein-xtra-bein.amagi.tv%2FplaylistR1080p.m3u8",
+"referer": "https://fernntv.dpdns.org/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
 
 {
 "name":"bein1",
