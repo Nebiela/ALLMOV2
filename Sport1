@@ -8,7 +8,7 @@
 {
 "name":"สด..มั้ง บอลโลก มีภาพตอนแข่ง",
 "image":"https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/videoframe.png",
-"url":"https://live.livedoomovies.com:4433/api/hls/live/82290/playlist.m3u8",
+"url":"https://yyi7tewa2x.3ppnkog.com/xstream/monomax-1/playlist.m3u8",
 "referer": "https://www.doonewmovie365.com/&userAgent=exo_player",
 "info":"(อัพเดท/6/12/26) by neti",
 "embed": "",
@@ -57,6 +57,16 @@
 "image":"https://www.doonewmovie365.com/assets/img/ch_logo/Monomax_Sport01.png",
 "url":"https://yyi7tewa2x.3ppnkog.com/xstream/monomax-3/playlist.m3u8",
 "referer": "https://yyi7tewa2x.3ppnkog.com/xstream/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+{
+"name":"TSN บอลโลก",
+"image":"https://f.ptcdn.info/909/090/000/mnflwx0co3kNQynawl0-o.jpg",
+"url":"https://raw.githubusercontent.com/kusnadipepenk/ntn/refs/heads/master/tsn1.m3u8",
+"referer": "https://raw.githubusercontent.com/kusnadipepenk/xstream/&userAgent=exo_player",
 "info":"(อัพเดท/5/2/26) by neti",
 "embed": "",
 "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
