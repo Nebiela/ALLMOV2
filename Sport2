@@ -36,9 +36,9 @@
 
 
 {
-"name":"กีฬาต่างประเทศ bein-xtra-bein",
-"image":"https://mms.businesswire.com/media/20200309005292/en/778436/5/4282070_beIN_SPORTS_XTRA.jpg",
-"url":"https://fernntv.dpdns.org/api/iptv-proxy?url=https%3A%2F%2Fbein-xtra-bein.amagi.tv%2FplaylistR1080p.m3u8",
+"name":"ตีกอล์ฟ golf_channel",
+"image":"https://topgolfthailand.com/wp-content/uploads/2023/08/blog4.jpg",
+"url":"https://fernntv.dpdns.org/api/iptv-proxy?url=https%3A%2F%2Fdash4.antik.sk%2Flive%2Ftest_golf_channel%2Fplaylist.m3u8",
 "referer": "https://fernntv.dpdns.org/&userAgent=exo_player",
 "info":"(อัพเดท/5/2/26) by neti",
 "embed": "",
@@ -53,184 +53,25 @@
 "embed": "",
 "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
 
-
-
-
 {
-"name":"bein1",
-"image":"https://ball67.com/assets/channels-logo/bein1.png",
-"url":"https://ball67.com/channels/bein1/",
-"referer": "https://ball67.com/&userAgent=exo_player",
+"name":"เบสบอล MLB ",
+"image":"https://www.marumura.com/wp-content/uploads/2024/12/Japanese-Baseball-Players-to-MLB-2.jpeg",
+"url":"https://fernntv.dpdns.org/api/iptv-proxy?url=https%3A%2F%2Fpb-2y9ox4r1fy550.akamaized.net%2Fplaylist_1280x720.m3u8",
+"referer": "https://fernntv.dpdns.org/&userAgent=exo_player",
 "info":"(อัพเดท/5/2/26) by neti",
 "embed": "",
 "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
 
 
 {
-"name":"bein2",
-"image":"https://ball67.com/assets/channels-logo/bein2.png",
-"url":"https://ball67.com/channels/bein2/",
-"referer": "https://ball67.com/&userAgent=exo_player",
+"name":"เทสนิส tennis ",
+"image":"https://storage.googleapis.com/fastwork-asset/subcategory_images/th/cover/tutor/tennis-training.jpg",
+"url":"https://fernntv.dpdns.org/api/iptv-proxy?url=https%3A%2F%2Famg01444-tennischannelth-tennischannelnl-samsungnl-x3dq1.amagi.tv%2Fts-eu-w1-n2%2Fplaylist%2Famg01444-tennischannelth-tennischannelnl-samsungnl%2Fcb56391e6573639092cc2164d1f162aca65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c38a7781f50aa0f1485774e2580b84c45d46cb328484bb10b3e1b31dfef58f97403c3d30c8d2c4b359ce74901aca192ad776f80c34c9e9abf04018d38b1d25819d17a06c5aa78fbaa6d9b1d0096ac69bb08ae56d9cae0fa8e45c0dfc23283698af2a499400ffea16a9bcb48a4d4d81a512cf3b5246c37d082e996783594404a52f1fe81d80f9a419ed871d8327dd388ff3ee728e12fe2ef84c137e0ae35e5607f0a0484c4026dd0c4ad8fe93c30bc29d5a7fee24a738bfd2e782d9540d73822349cfc8441ca9355de812a8bb0660a2b80bf71dbcce2cdbfebcd7d952b9c93afd825141a2a4423964dae9f5ade2bf671bc8146720b0317fbe820aeecee573e664091931e854369def5bfc38e5e759a1a72188f44dc480e78c324661fb47aaa7a5dad3aebb8e313f0ff036860bdb717c208d72a5aea8a%2F173%2F1920x1080_5288800%2Findex.m3u8",
+"referer": "https://fernntv.dpdns.org/&userAgent=exo_player",
 "info":"(อัพเดท/5/2/26) by neti",
 "embed": "",
 "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
 
-
-
-{
-"name":"bein3",
-"image":"https://ball67.com/assets/channels-logo/bein3.png",
-"url":"https://ball67.com/channels/bein3/",
-"referer": "https://ball67.com/&userAgent=exo_player",
-"info":"(อัพเดท/5/2/26) by neti",
-"embed": "",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
-
-
-
-{
-"name":"truesports1",
-"image":"https://ball67.com/assets/channels-logo/truesport1.png",
-"url":"https://ball67.com/channels/truesports1/",
-"referer": "https://ball67.com/&userAgent=exo_player",
-"info":"(อัพเดท/5/2/26) by neti",
-"embed": "",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
-
-{
-"name":"truesports2",
-"image":"https://ball67.com/assets/channels-logo/truesport2.png",
-"url":"https://ball67.com/channels/truesports2/",
-"referer": "https://ball67.com/&userAgent=exo_player",
-"info":"(อัพเดท/5/2/26) by neti",
-"embed": "",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
-
-{
-"name":"truesports3",
-"image":"https://ball67.com/assets/channels-logo/truesport3.png",
-"url":"https://ball67.com/channels/truesports3/",
-"referer": "https://ball67.com/&userAgent=exo_player",
-"info":"(อัพเดท/5/2/26) by neti",
-"embed": "",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
-
-{
-"name":"truesports7",
-"image":"https://ball67.com/assets/channels-logo/truesport7.png",
-"url":"https://ball67.com/channels/truesports7/",
-"referer": "https://ball67.com/&userAgent=exo_player",
-"info":"(อัพเดท/5/2/26) by neti",
-"embed": "",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
-
-{
-"name":"golfchannel",
-"image":"https://ball67.com/assets/channels-logo/golfchannel.png",
-"url":"https://ball67.com/channels/golfchannelthailand/",
-"referer": "https://ball67.com/&userAgent=exo_player",
-"info":"(อัพเดท/5/2/26) by neti",
-"embed": "",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
-
-
-{
-"name":"mono29",
-"image":"https://ball67.com/assets/channels-logo/monomax-sport-tv.png",
-"url":"https://ball67.com/channels/mono29/",
-"referer": "https://ball67.com/&userAgent=exo_player",
-"info":"(อัพเดท/5/2/26) by neti",
-"embed": "",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
-
-{
-"name":"spotv1",
-"image":"https://ball67.com/assets/channels-logo/spotv1.png",
-"url":"https://ball67.com/channels/spotv1/",
-"referer": "https://ball67.com/&userAgent=exo_player",
-"info":"(อัพเดท/5/2/26) by neti",
-"embed": "",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
-
-
-
-{
-"name":"spotv2",
-"image":"https://ball67.com/assets/channels-logo/spotv2.png",
-"url":"https://ball67.com/channels/spotv2/",
-"referer": "https://ball67.com/&userAgent=exo_player",
-"info":"(อัพเดท/5/2/26) by neti",
-"embed": "",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
-
-
-{
-"name":"monomax1 ",
-"image":"https://dookeela4.live/uploads/1753517049.png",
-"url":"http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776175&extension=m3u8",
-"referer": "http://v3tv.live:80/play/&userAgent=exo_player",
-"info":"(อัพเดท/5/2/26) by neti",
-"embed": "",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
-
-{
-"name":"monomax-2 ",
-"image":"https://dookeela4.live/uploads/1755093093.png",
-"url":"http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776176&extension=m3u8",
-"referer": "http://v3tv.live:80/play/&userAgent=exo_player",
-"info":"(อัพเดท/5/2/26) by neti",
-"embed": "",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
-
-
-{
-"name":"one championship มวย",
-"image":"https://bestcommt2.github.io/logo/sport/one%20championship.jpg",
-"url":"http://49.0.64.96:8007/HIFIGHT",
-"referer": "http://49.0.64.96:8007/&userAgent=exo_player",
-"info":"(อัพเดท/5/2/26) by neti",
-"embed": "",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
-
-
-{
-"name":"HIFIGHT มวย",
-"image":"https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/HIFIGHT.png",
-"url":"http://49.0.64.96:8007/HIFIGHT",
-"referer": "http://49.0.64.96:8007/&userAgent=exo_player",
-"info":"(อัพเดท/5/2/26) by neti",
-"embed": "",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
-
-
-
-{
-"name":"Motorvision TV รถแข่ง",
-"image":"https://i.postimg.cc/pL7dtZvb/IMG-2177.png",
-"url":"https://stream.ads.ottera.tv/playlist.m3u8?network_id=443",
-"referer": "https://stream.ads.ottera.tv/&userAgent=exo_player",
-"info":"(อัพเดท/5/2/26) by neti",
-"embed": "",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
-
-{
-"name":"SPOTV HD 1 รถแข่ง",
-"image":"https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
-"url":"https://blive99.github.io/m3u8/sporttv/truespotv.m3u8",
-"referer": "https://blive99.github.io/&userAgent=exo_player",
-"info":"(อัพเดท/5/2/26) by neti",
-"embed": "",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
-
-
-{
-"name":"SPOTV HD 2 รถแข่ง",
-"image":"https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
-"url":"https://blive99.github.io/m3u8/sporttv/truespotv2.m3u8",
-"referer": "https://blive99.github.io/&userAgent=exo_player",
-"info":"(อัพเดท/5/2/26) by neti",
-"embed": "",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
 
 
 
