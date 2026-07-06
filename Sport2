@@ -72,6 +72,15 @@
 "embed": "",
 "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
 
+{
+"name":"เทสนิส tennis Super ",
+"image":"https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/960px-SuperTennis_-_Logo_2016.svg.png",
+"url":"https://fernntv.dpdns.org/api/iptv-proxy?url=https%3A%2F%2Flive-embed.supertennix.hiway.media%2Frestreamer%2Fsupertennix_client%2Fgpu-a-c0-16%2Frestreamer%2Foutgest%2Faa3673f1-e178-44a9-a947-ef41db73211a%2Faudio_manifest.m3u8",
+"referer": "https://fernntv.dpdns.org/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
 
 
 
