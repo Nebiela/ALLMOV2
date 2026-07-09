@@ -11,22 +11,16 @@
   "compatibility_flags": [
     "nodejs_compat"
   ],
-  "triggers": {
-    "crons": [
-      "0 */6 * * *"
-    ]
+  "build": {
+    "command": "npm install"
   },
-  "limits": {
-    "cpu_ms": 50000
-  },
-  "env": {
-    "production": {
-      "routes": [
-        {
-          "pattern": "allmov2.pages.dev/*",
-          "zone_name": "pages.dev"
-        }
-      ]
+  "rate_limiting": {
+    "simple": {
+      "period_sec": 60,
+      "requests_per_period": 10000
     }
+  },
+  "logpush": {
+    "enabled": true
   }
 }
