@@ -2,54 +2,54 @@
 "name": "NEWTV หนัง&กีฬา",
 "author": "กดรีเฟรช ประสาน มุมขวาบน By Neti ดูฟรีกันไป",
 "url": "https://cdn.statically.io/gh/Nebiela/ALLMOV2/main/All%20Menu",
-"image": "https://cdn.jsdelivr.net/gh/Nebiela/ALLMOV2@main/logo.png",
+"image": "https://cdn.statically.io/gh/Nebiela/ALLMOV2/main/logo.png",
 "groups": [
 {
 "name": "กีฬา SportTV1",
 "image": "https://cdn-sdotid.adg.id/images/746ed9ee-863e-408a-9b4a-0a445d9fb7cc_1280x720.webp.jpeg",
-"url": "https://cdn.jsdelivr.net/gh/Nebiela/ALLMOV2@main/Sport1",
+"url": "https://cdn.statically.io/gh/Nebiela/ALLMOV2/main/Sport1",
 "stations": [
 ]
 }	,
 {
 "name": "กีฬา SportTV2",
 "image": "https://img.magnific.com/free-vector/sport-text-banner-poster-design_1308-132744.jpg",
-"url": "https://cdn.jsdelivr.net/gh/Nebiela/ALLMOV2@main/Sport2",
+"url": "https://cdn.statically.io/gh/Nebiela/ALLMOV2/main/Sport2",
 "stations": [
 ]
 }	,
 {
 "name": "Movie หนังใหม่ (2026)",
 "image": "https://i.ytimg.com/vi/UXcF3HXrcpc/hq720.jpg",
-"url": "https://cdn.jsdelivr.net/gh/Nebiela/ALLMOV2@main/Mov2025",
+"url": "https://cdn.statically.io/gh/Nebiela/ALLMOV2/main/Mov2025",
 "stations": [
 ]
 }	,
 {
 "name": "Movie Actionหนังใหม่",
 "image": "https://img.salehere.co.th/p/1200x0/2022/11/17/csl1nz9ioknq.jpg",
-"url": "https://cdn.jsdelivr.net/gh/Nebiela/ALLMOV2@main/%E0%B8%9A%E0%B8%B9%E0%B9%8Awiseplay.w3u",
+"url": "https://cdn.statically.io/gh/Nebiela/ALLMOV2/main/%E0%B8%9A%E0%B8%B9%E0%B9%8Awiseplay.w3u",
 "stations": [
 ]
 }	,
 {
 "name": "การ์ตูน&เด็ก",
 "image": "https://img.wongnai.com/p/1920x0/2021/12/08/7e35768d24284319b02cd56aa1f80cec.jpg",
-"url": "https://cdn.jsdelivr.net/gh/Nebiela/ALLMOV2@main/Gatoo.w3u",
+"url": "https://cdn.statically.io/gh/Nebiela/ALLMOV2/main/Gatoo.w3u",
 "stations": [
 ]
 }	,
 {
 "name": "Movie Thai (หนังไทย)",
 "image": "https://images.lifestyleasia.com/wp-content/uploads/sites/8/2023/08/09133217/Hero-image-1600x900.jpg",
-"url": "https://cdn.jsdelivr.net/gh/Nebiela/ALLMOV2@main/Movth",
+"url": "https://cdn.statically.io/gh/Nebiela/ALLMOV2/main/Movth",
 "stations": [
 ]
 }	,
 {
 "name": "Movie Chaina (หนังจีน)",
 "image": "https://f.ptcdn.info/928/078/000/rktdqa8aqk2qJktRfd0-o.jpg",
-"url": "https://cdn.jsdelivr.net/gh/Nebiela/ALLMOV2@main/MovCh",
+"url": "https://cdn.statically.io/gh/Nebiela/ALLMOV2/main/MovCh",
 "stations": [
 ]
 }	,
@@ -63,7 +63,7 @@
 {
 "name": "Netfilx 2",
 "image": "https://www.beartai.com/wp-content/uploads/2023/08/netflix-.jpg",
-"url": "https://cdn.jsdelivr.net/gh/Nebiela/ALLMOV2@main/Volleyball",
+"url": "https://cdn.statically.io/gh/Nebiela/ALLMOV2/main/Volleyball",
 "stations": [
 ]
 }	,
@@ -77,28 +77,28 @@
 {
 "name": "ฟรีทีวี&TV บันเทิง",
 "image": "https://www.matv-services.com/wp-content/uploads/2016/06/14082191931408219216l.jpg",
-"url": "https://cdn.jsdelivr.net/gh/Nebiela/ALLMOV2@main/DETVFREE",
+"url": "https://cdn.statically.io/gh/Nebiela/ALLMOV2/main/DETVFREE",
 "stations": [
 ]
 }	,
 {
 "name": "MOVIE&TV บันเทิง",
 "image": "https://img.magnific.com/free-vector/home-movie-background-with-popcorn_1419-1852.jpg",
-"url": "https://cdn.jsdelivr.net/gh/Nebiela/ALLMOV2@main/TV",
+"url": "https://cdn.statically.io/gh/Nebiela/ALLMOV2/main/TV",
 "stations": [
 ]
 }	,
 {
 "name": "ข่าว&ต่างประเทศ",
 "image": "https://www.shutterstock.com/image-vector/report-all-events-urgent-news-260nw-1290320530.jpg",
-"url": "https://cdn.jsdelivr.net/gh/Nebiela/ALLMOV2@main/news.w3u",
+"url": "https://cdn.statically.io/gh/Nebiela/ALLMOV2/main/news.w3u",
 "stations": [
 ]
 }	,
 {
 "name": "สาระคดี สำรวจโลก",
 "image": "https://i.ytimg.com/vi/_TWQxGFH36o/hq720.jpg",
-"url": "https://cdn.jsdelivr.net/gh/Nebiela/ALLMOV2@main/samruj.w3u",
+"url": "https://cdn.statically.io/gh/Nebiela/ALLMOV2/main/samruj.w3u",
 "stations": [
 ]
 }	,
@@ -180,7 +180,7 @@
 {
 "name": "กดรีเฟรช ทุกครั้ง",
 "image": "https://vc2i.rweb-images.com/www.pandp.co.th/images/column_1556853454/Refresh22.jpg",
-"url": "https://cdn.jsdelivr.net/gh/Nebiela/ALLMOV2@main/All%20Menu",
+"url": "https://cdn.statically.io/gh/Nebiela/ALLMOV2/main/All%20Menu",
 "stations": [
 ]
 }
