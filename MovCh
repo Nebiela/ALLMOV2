@@ -1,5 +1,6 @@
 {
 "name"              :     "China Movie(หนังจีน)",
+"url": "https://cdn.statically.io/gh/Nebiela/ALLMOV2/main/MovCh",
 "image"             :     "https://img2.chinadaily.com.cn/images/201808/08/5b6a50a1a310add1c695bc7f.jpeg",
 "url"               :     "",
 "stations" : [
