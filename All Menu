@@ -1,7 +1,7 @@
 {
 "name": "NEWTV หนัง&กีฬา",
 "author": "กดรีเฟรช ประสาน มุมขวาบน By Neti ดูฟรีกันไป",
-"url": "https://cdn.statically.io/gh/Nebiela/ALLMOV2@main/All%20Menu",
+"url": "https://cdn.statically.io/gh/Nebiela/ALLMOV2/main/All%20Menu",
 "image": "https://cdn.jsdelivr.net/gh/Nebiela/ALLMOV2@main/logo.png",
 "groups": [
 {
@@ -175,7 +175,7 @@
 "image":"https://www.dooball66.today/wp-content/uploads/2024/09/Dooball66.today_.webp",
 "url":"https://www.dooball66.today/",
 "referer": "https://www.dooball66.today/",
-"embed": "true"},
+"embed": "true"}
 ]},
 {
 "name": "กดรีเฟรช ทุกครั้ง",
@@ -183,6 +183,6 @@
 "url": "https://cdn.jsdelivr.net/gh/Nebiela/ALLMOV2@main/All%20Menu",
 "stations": [
 ]
-},
+}
 ]
 }
