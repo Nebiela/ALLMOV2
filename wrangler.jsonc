@@ -1,14 +1,32 @@
 {
-"$schema": "node_modules/wrangler/config-schema.json",
-"name": "allmov2",
-"compatibility_date": "2026-07-08",
-"observability": {
-  "enabled": true
-},
-"assets": {
-  "directory": "."
-},
-"compatibility_flags": [
-"nodejs_compat"
-]
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "allmov2",
+  "compatibility_date": "2026-07-08",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "."
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ],
+  "triggers": {
+    "crons": [
+      "0 */6 * * *"
+    ]
+  },
+  "limits": {
+    "cpu_ms": 50000
+  },
+  "env": {
+    "production": {
+      "routes": [
+        {
+          "pattern": "allmov2.pages.dev/*",
+          "zone_name": "pages.dev"
+        }
+      ]
+    }
+  }
 }
