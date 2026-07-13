@@ -480,6 +480,28 @@
 
 
 
+
+{
+"name":"truesports1 เทส1",
+"image":"https://madoball.com/upload/2892.jpg",
+"url":"https://madoball.com/channel/2892",
+"referer": "https://madoball.com/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36", "playInNatPlayer": "true"},
+
+{
+"name":"truesports1 เทส2",
+"image":"https://madoball.com/upload/2892.jpg",
+"url":"https://godlivetv.io/madoball/2892/chunks.m3u8?url=aHR0cHM6Ly9sc3Y0Lmlud3N0cmVhbS5jb20vdHJhbnNjb2Rlcl9GMS90cnVlc3BvcnRzMV9pbndpcHR2LnN0cmVhbS9jaHVua3MubTN1OD9uaW1ibGVzZXNzaW9uaWQ9MzgwNDAzMjYmd21zQXV0aFNpZ249YzJWeWRtVnlYM1JwYldVOU55OHhNeTh5TURJMklERTZNams2TXpJZ1FVMG1hR0Z6YUY5MllXeDFaVDFZTHpBMloxaFpPVVl2YmxVeWNXaFZjSHBMY0RkQlBUMG1kbUZzYVdSdGFXNTFkR1Z6UFRJPQ",
+"referer": "https://madoball.com/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36", "playInNatPlayer": "true"},
+
+
+
+
 ]
 }
 <html>
