@@ -5,6 +5,13 @@
 "image": "https://cdn.jsdelivr.net/gh/Nebiela/ALLMOV2@main/logo.png",
 "groups": [
 {
+"name": "กีฬา SportTV",
+"image": "https://cdn-sdotid.adg.id/images/746ed9ee-863e-408a-9b4a-0a445d9fb7cc_1280x720.webp.jpeg",
+"url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2SportTV",
+"stations": [
+]
+}	,
+{
 "name": "กีฬา SportTV1",
 "image": "https://cdn-sdotid.adg.id/images/746ed9ee-863e-408a-9b4a-0a445d9fb7cc_1280x720.webp.jpeg",
 "url": "https://cdn.jsdelivr.net/gh/Nebiela/ALLMOV2@main/Sport1",
