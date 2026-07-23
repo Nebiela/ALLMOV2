@@ -10,7 +10,7 @@
 {
 "name":"tsp1",
 "image":"https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
-"url":"https://drift.dooflixlive.com/dooflix_x1/hd-tsport1/chunks.m3u8?nimblesessionid=322050&wmsAuthSign=c2VydmVyX3RpbWU9MDcvMjIvMjAyNiAwMToxNzoxMyBBTSZoYXNoX3ZhbHVlPXZvMTNidXdpN0VUZ1laVWFES3VEcUE9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzQ2NDI4",
+"url":"https://hls.iptv-th.workers.dev/live/79/playlist.m3u8",
 "referer": "https://drift.dooflixlive.com/&userAgent=exo_player",
 "info":"(อัพเดท/5/2/26) by neti",
 "embed": "",
@@ -19,7 +19,7 @@
 {
 "name":"tsp2",
 "image":"https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
-"url":"https://drift.dooflixlive.com/dooflix_x1/hd-tsport2/chunks.m3u8?nimblesessionid=322050&wmsAuthSign=c2VydmVyX3RpbWU9MDcvMjIvMjAyNiAwMToxNzoxMyBBTSZoYXNoX3ZhbHVlPXZvMTNidXdpN0VUZ1laVWFES3VEcUE9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzQ2NDI4",
+"url":"https://hls.iptv-th.workers.dev/live/147/playlist.m3u8",
 "referer": "https://drift.dooflixlive.com/&userAgent=exo_player",
 "info":"(อัพเดท/5/2/26) by neti",
 "embed": "",
@@ -28,7 +28,7 @@
 {
 "name":"tsp3",
 "image":"https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
-"url":"https://drift.dooflixlive.com/dooflix_x1/hd-tsport3/chunks.m3u8?nimblesessionid=322050&wmsAuthSign=c2VydmVyX3RpbWU9MDcvMjIvMjAyNiAwMToxNzoxMyBBTSZoYXNoX3ZhbHVlPXZvMTNidXdpN0VUZ1laVWFES3VEcUE9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzQ2NDI4",
+"url":"https://hls.iptv-th.workers.dev/live/148/playlist.m3u8",
 "referer": "https://drift.dooflixlive.com/&userAgent=exo_player",
 "info":"(อัพเดท/5/2/26) by neti",
 "embed": "",
@@ -37,7 +37,7 @@
 {
 "name":"tsp7",
 "image":"https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
-"url":"https://drift.dooflixlive.com/dooflix_x1/hd-tsport7/chunks.m3u8?nimblesessionid=322050&wmsAuthSign=c2VydmVyX3RpbWU9MDcvMjIvMjAyNiAwMToxNzoxMyBBTSZoYXNoX3ZhbHVlPXZvMTNidXdpN0VUZ1laVWFES3VEcUE9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzQ2NDI4",
+"url":"https://hls.iptv-th.workers.dev/live/116/playlist.m3u8",
 "referer": "https://drift.dooflixlive.com/&userAgent=exo_player",
 "info":"(อัพเดท/5/2/26) by neti",
 "embed": "",
@@ -48,7 +48,7 @@
 {
 "name":"Bein1",
 "image":"https://pub-d2271b7e7a9d49f3975373b5a8623442.r2.dev/importedmedia/blogmedia-61780.png",
-"url":"https://drift.dooflixlive.com/dooflix_x1/bein1/chunks.m3u8?nimblesessionid=329486&wmsAuthSign=c2VydmVyX3RpbWU9MDcvMjIvMjAyNiAwNDowNTo1MyBBTSZoYXNoX3ZhbHVlPTB3emJSVUF5OWgwejFBNUVSNys4b0E9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzQ2NDI4",
+"url":"https://hls.iptv-th.workers.dev/live/51/playlist.m3u8",
 "referer": "https://drift.dooflixlive.com/&userAgent=exo_player",
 "info":"(อัพเดท/5/2/26) by neti",
 "embed": "",
@@ -58,7 +58,7 @@
 {
 "name":"Bein2",
 "image":"https://pub-d2271b7e7a9d49f3975373b5a8623442.r2.dev/importedmedia/blogmedia-61780.png",
-"url":"https://drift.dooflixlive.com/dooflix_x1/bein2/chunks.m3u8?nimblesessionid=329486&wmsAuthSign=c2VydmVyX3RpbWU9MDcvMjIvMjAyNiAwNDowNTo1MyBBTSZoYXNoX3ZhbHVlPTB3emJSVUF5OWgwejFBNUVSNys4b0E9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzQ2NDI4",
+"url":"https://hls.iptv-th.workers.dev/live/52/playlist.m3u8",
 "referer": "https://drift.dooflixlive.com/&userAgent=exo_player",
 "info":"(อัพเดท/5/2/26) by neti",
 "embed": "",
@@ -69,7 +69,7 @@
 {
 "name":"Bein3",
 "image":"https://pub-d2271b7e7a9d49f3975373b5a8623442.r2.dev/importedmedia/blogmedia-61780.png",
-"url":"https://drift.dooflixlive.com/dooflix_x1/bein3/chunks.m3u8?nimblesessionid=329486&wmsAuthSign=c2VydmVyX3RpbWU9MDcvMjIvMjAyNiAwNDowNTo1MyBBTSZoYXNoX3ZhbHVlPTB3emJSVUF5OWgwejFBNUVSNys4b0E9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzQ2NDI4",
+"url":"https://hls.iptv-th.workers.dev/live/53/playlist.m3u8",
 "referer": "https://drift.dooflixlive.com/&userAgent=exo_player",
 "info":"(อัพเดท/5/2/26) by neti",
 "embed": "",
@@ -78,7 +78,7 @@
 {
 "name":"Sportv1",
 "image":"https://cdn.spotvnews.co.kr/news/photo/201512/39496_56992_0923.jpg",
-"url":"https://flow.dooflixlive.com/dooflix_x1/spotv1/chunks.m3u8?nimblesessionid=8671884&wmsAuthSign=c2VydmVyX3RpbWU9MDcvMjIvMjAyNiAwMzo0Nzo1NCBBTSZoYXNoX3ZhbHVlPUdCWUltdlhMZGRHYVdjQUoxQlNrV0E9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzQ2NDI4",
+"url":"https://hls.iptv-th.workers.dev/live/95/playlist.m3u8",
 "referer": "https://drift.dooflixlive.com/&userAgent=exo_player",
 "info":"(อัพเดท/5/2/26) by neti",
 "embed": "",
@@ -100,7 +100,7 @@
 {
 "name":"Sportv2",
 "image":"https://cdn.spotvnews.co.kr/news/photo/201512/39496_56992_0923.jpg",
-"url":"https://flow.dooflixlive.com/dooflix_x1/spotv2/chunks.m3u8?nimblesessionid=8671884&wmsAuthSign=c2VydmVyX3RpbWU9MDcvMjIvMjAyNiAwMzo0Nzo1NCBBTSZoYXNoX3ZhbHVlPUdCWUltdlhMZGRHYVdjQUoxQlNrV0E9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzQ2NDI4",
+"url":"https://hls.iptv-th.workers.dev/live/96/playlist.m3u8",
 "referer": "https://drift.dooflixlive.com/&userAgent=exo_player",
 "info":"(อัพเดท/5/2/26) by neti",
 "embed": "",
@@ -111,7 +111,25 @@
 {
 "name":"Sky F1",
 "image":"https://e0.365dm.com/21/03/1600x900/skysports-f1-2021-graphic_5299452.png?20210310091100",
-"url":"https://flow.dooflixlive.com/dooflix_x6/skysportf1/chunks.m3u8?nimblesessionid=8678607&wmsAuthSign=c2VydmVyX3RpbWU9MDcvMjIvMjAyNiAwNjo0Nzo1NCBBTSZoYXNoX3ZhbHVlPWdJSVVvNXo4bmxFa0g2cmxMcENhc0E9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzQ2NDI4",
+"url":"https://hls.iptv-th.workers.dev/live/166/playlist.m3u8",
+"referer": "https://drift.dooflixlive.com/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+{
+"name":"Sky Football",
+"image":"https://e0.365dm.com/21/03/1600x900/skysports-f1-2021-graphic_5299452.png?20210310091100",
+"url":"https://hls.iptv-th.workers.dev/live/167/playlist.m3u8",
+"referer": "https://drift.dooflixlive.com/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+{
+"name":"Gofl Plus",
+"image":"https://golfplus.co.th/wp-content/uploads/2021/05/unnamed-removebg-preview.png",
+"url":"https://hls.iptv-th.workers.dev/live/168/playlist.m3u8",
 "referer": "https://drift.dooflixlive.com/&userAgent=exo_player",
 "info":"(อัพเดท/5/2/26) by neti",
 "embed": "",
@@ -119,13 +137,17 @@
 
 
 {
-"name":"Gofl Plus",
-"image":"https://golfplus.co.th/wp-content/uploads/2021/05/unnamed-removebg-preview.png",
-"url":"https://flow.dooflixlive.com/dooflix_x1/hd-golf2/chunks.m3u8?nimblesessionid=8664317&wmsAuthSign=c2VydmVyX3RpbWU9MDcvMjIvMjAyNiAwMTowNzo1NCBBTSZoYXNoX3ZhbHVlPXVBZk9UNk1vM0xBT2ptRDVSTXpoYkE9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzQ2NDI4",
+"name":"Monomax-Sports",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVQ9lSMsmE-O8sa1Vo6b-vewn3FmNGgmuZDw&s",
+"url":"http://api.plus-server.sbs/play.php?key=1234&ch=mono29",
 "referer": "https://drift.dooflixlive.com/&userAgent=exo_player",
 "info":"(อัพเดท/5/2/26) by neti",
 "embed": "",
 "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+
+
 
 
 
