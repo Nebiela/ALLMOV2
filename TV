@@ -6,27 +6,12 @@
  "info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
  "stations": [
 
-{
-"name":"USA_HBO_COMEDY",
-"image":"https://epg.112114.xyz/logo/HBO.png",
-"url":"http://23.237.104.106:8080/USA_HBO_COMEDY/tracks-v1a1/mono.m3u8",
-"referer":"http://23.237.104.106:8080/",
-"info":"Server m7smarter",
-"playInNatPlayer":"true"},
 
-
-{
-"name":"USA_HBO2",
-"image":"https://epg.112114.xyz/logo/HBO.png",
-"url":"http://23.237.104.106:8080/USA_HBO2/tracks-v1a1/mono.m3u8",
-"referer":"http://23.237.104.106:8080/",
-"info":"Server m7smarter",
-"playInNatPlayer":"true"},
 
 {
 "name":"HBO",
 "image":"https://epg.112114.xyz/logo/HBO.png",
-"url":"https://github.com/cattv976/movies/raw/refs/heads/main/hbo1.m3u8",
+"url":"https://hls.iptv-th.workers.dev/live/73/playlist.m3u8",
 "referer":"https://github.com/",
 "info":"Server m7smarter",
 "playInNatPlayer":"true"},
@@ -35,7 +20,7 @@
 {
 "name":"HBO1",
 "image":"https://epg.112114.xyz/logo/HBO.png",
-"url":"https://github.com/cattv976/movies/raw/refs/heads/main/hbo1.m3u8",
+"url":"https://hls.iptv-th.workers.dev/live/71/playlist.m3u8",
 "referer":"https://github.com/",
 "info":"Server m7smarter",
 "playInNatPlayer":"true"},
@@ -43,7 +28,15 @@
 {
 "name":"CCM",
 "image":"https://static.wikia.nocookie.net/logopedia/images/b/b8/CCM_new_Logo.png",
-"url":"http://s3.e-cdn.me:80/live/Bengamenbukinafaso2026/msvrpi45e1/1776205.m3u8",
+"url":"https://hls.iptv-th.workers.dev/live/34/playlist.m3u8",
+"referer":"https://github.com/",
+"info":"Server m7smarter",
+"playInNatPlayer":"true"},
+
+{
+"name":"True Thai Film",
+"image":"https://f.ptcdn.info/630/082/000/s5lmjg1iv8pJ1H6zkOa92-o.png",
+"url":"https://hls.iptv-th.workers.dev/live/117/playlist.m3u8",
 "referer":"https://github.com/",
 "info":"Server m7smarter",
 "playInNatPlayer":"true"},
@@ -54,7 +47,7 @@
 {
 "name":"mono29",
 "image":"https://mthai.com/app/uploads/2021/01/mono29_logo.png",
-"url":"https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd",
+"url":"https://hls.iptv-th.workers.dev/live/134/playlist.m3u8",
 "referer": "https://udn-streamer1.cdn.3bbtv.com:8443/&userAgent=exo_player",
 "info":"(อัพเดท/5/2/26) by neti",
 "embed": "",
@@ -65,18 +58,7 @@
 {
 "name":"หนังThai",
 "image":"https://img.magnific.com/free-vector/home-movie-background-with-popcorn_1419-1852.jpg",
-"url":"http://43.229.132.25:80/play/bQ-fFu7dMOtIPDjoXbK1w5H53SITSMYtRd-Oqf6wLL0/m3u8",
-"referer": "http://43.229.132.25:80/play/&userAgent=exo_player",
-"info":"(อัพเดท/5/2/26) by neti",
-"embed": "",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
-
-
-
-{
-"name":"หนังต่างประเทศ",
-"image":"https://img.magnific.com/free-vector/home-movie-background-with-popcorn_1419-1852.jpg",
-"url":"http://43.229.132.25:80/play/bQ-fFu7dMOtIPDjoXbK1w_5cOTPtf2-yuYVaNlq13GI/m3u8",
+"url":"http://49.0.64.96:8007/SERIES",
 "referer": "http://43.229.132.25:80/play/&userAgent=exo_player",
 "info":"(อัพเดท/5/2/26) by neti",
 "embed": "",
@@ -84,25 +66,14 @@
 
 
 {
-"name":"หนังเอเชีย",
+"name":"หนังThai",
 "image":"https://img.magnific.com/free-vector/home-movie-background-with-popcorn_1419-1852.jpg",
-"url":"http://43.229.132.25:80/play/bQ-fFu7dMOtIPDjoXbK1wwRB5fluemONXXZNwQoTE3k/m3u8",
+"url":"http://49.0.64.96:8007/PING",
 "referer": "http://43.229.132.25:80/play/&userAgent=exo_player",
 "info":"(อัพเดท/5/2/26) by neti",
 "embed": "",
 "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
 
-
-
-
-{
-"name":"iplaymedia",
-"image":"https://img.magnific.com/free-vector/home-movie-background-with-popcorn_1419-1852.jpg",
-"url":"http://43.229.132.25:80/play/bQ-fFu7dMOtIPDjoXbK1w0oWEYO_FOJVpIFrwrh9dqo/m3u8",
-"referer": "http://43.229.132.25:80/play/&userAgent=exo_player",
-"info":"(อัพเดท/5/2/26) by neti",
-"embed": "",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
 
 {
 "name":"hbo ts",
