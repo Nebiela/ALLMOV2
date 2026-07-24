@@ -6,7 +6,12 @@
 "url"               :     "",
 "stations" : [
 
-
+{
+"name":"เพราะเพลงนี้ 2026",
+"image":"https://ok24hd.com/wp-content/uploads/2026/06/Power-Ballad-2026.webp",
+"url":"https://media.vdohls.com/SEJ6IQ_dNY-Xm/video.m3u8",
+"referer":"https://ok24hd.com/"
+},
 {
 "name":"ทอยสตอรี่5-2026",
 "image":"https://f.ptcdn.info/757/091/000/tief8h1mambvEnX3VVCJu-o.jpg",
