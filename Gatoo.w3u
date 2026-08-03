@@ -32,7 +32,7 @@
 
 {
 "name":"boomerang",
-"image":"https://raw.githubusercontent.com/babygen-sys/yut/main/Boomerang_2025.png",
+"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/250px-Boomerang_2014_logo.svg.png",
 "url":"http://api.plus-server.sbs/play.php?key=1234&ch=boomerang_mvtv",
 "referer": "http://api.plus-server.sbs/&userAgent=exo_player",
 "info":"(อัพเดท/5/2/26) by neti",
