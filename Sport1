@@ -134,6 +134,90 @@
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36", "playInNatPlayer": "true"},
 
 
+
+{
+"name":"Bein1",
+"image":"https://pub-d2271b7e7a9d49f3975373b5a8623442.r2.dev/importedmedia/blogmedia-61780.png",
+"url":"http://103.114.203.129:8080//live/toom/12345/102.m3u8",
+"referer": "http://103.114.203.129:8080//live/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+{
+"name":"Bein2",
+"image":"https://pub-d2271b7e7a9d49f3975373b5a8623442.r2.dev/importedmedia/blogmedia-61780.png",
+"url":"http://103.114.203.129:8080//live/toom/12345/104.m3u8",
+"referer": "http://103.114.203.129:8080//live/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+{
+"name":"Bein3",
+"image":"https://pub-d2271b7e7a9d49f3975373b5a8623442.r2.dev/importedmedia/blogmedia-61780.png",
+"url":"http://103.114.203.129:8080//live/toom/12345/105.m3u8",
+"referer": "http://103.114.203.129:8080//live/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+{
+"name":"เทนนิส",
+"image":"https://storage.googleapis.com/fastwork-asset/subcategory_images/th/cover/tutor/tennis-training.jpg",
+"url":"http://103.114.203.129:8080//live/toom/12345/101.m3u8",
+"referer": "http://103.114.203.129:8080//live/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+{
+"name":"hubPremier1",
+"image":"https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png",
+"url":"http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/1309855.m3u8",
+"referer": "http://ultratv.one:2095/live/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+{
+"name":"hubPremier2",
+"image":"https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png",
+"url":"http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/1309856.m3u8",
+"referer": "http://ultratv.one:2095/live/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+{
+"name":"GOLF+ - RR",
+"image":"https://www.golfplusvr.com/images/og-image-2.webp",
+"url":"http://49.0.64.96:8007/GOLF",
+"referer": "http://49.0.64.96:8007/GOLF&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+{
+"name":"EUROSPORT",
+"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Eurosport_logo_%282001-2011%29.svg/250px-Eurosport_logo_%282001-2011%29.svg.png",
+"url":"http://dootvz.ddns.net:25461/live/skycos3/aa2233/43.m3u8",
+"referer": "http://dootvz.ddns.net:25461/GOLF&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+
+
+
 ]
 }
 <html>
