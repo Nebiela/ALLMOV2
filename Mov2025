@@ -6,7 +6,13 @@
 "url"               :     "",
 "stations" : [
 
-
+{
+"name":"The Devil's Mouth 2026",
+"image":"
+https://movie.ezs1.com/images/posters/movie_20260731231747_vEOd7MMl.webp",
+"url":"https://movie.ezs1.com/watch/movie/RyJZcn",
+"referer":"https://movie.ezs1.com/"
+},
 {
 "name":"เจ้าตำนานมวยกาหยง-2 2026",
 "image":"https://9.9nung.com/wp-content/uploads/2026/07/cR39Eh9peUP0EaMrd0ArPKBpJKD-185x278.jpg",
