@@ -267,6 +267,27 @@
 
 
 
+{
+"name":"BEIN1 test",
+"image":"https://pub-d2271b7e7a9d49f3975373b5a8623442.r2.dev/importedmedia/blogmedia-61780.png",
+"url":"https://cdnsv1.cdncloudbot.com/ball67/bein1/playlist.m3u8",
+"referer": "https://ball67.com/&userAgent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36", "playInNatPlayer": "true"},
+
+
+{
+"name":"BEIN2 test",
+"image":"https://pub-d2271b7e7a9d49f3975373b5a8623442.r2.dev/importedmedia/blogmedia-61780.png",
+"url":"https://cdnsv1.cdncloudbot.com/ball67/bein2/playlist.m3u8",
+"referer": "https://ball67.com/&userAgent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36", "playInNatPlayer": "true"},
+
+
+
 
 
 ]
