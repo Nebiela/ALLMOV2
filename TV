@@ -11,8 +11,8 @@
 {
 "name":"HBO",
 "image":"https://epg.112114.xyz/logo/HBO.png",
-"url":"https://hls.iptv-th.workers.dev/live/73/playlist.m3u8",
-"referer":"https://github.com/",
+"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=hbo",
+"referer":"https://movieproxy.tawatchai250958.workers.dev/",
 "info":"Server m7smarter",
 "playInNatPlayer":"true"},
 
@@ -20,7 +20,7 @@
 {
 "name":"HBO1",
 "image":"https://epg.112114.xyz/logo/HBO.png",
-"url":"https://hls.iptv-th.workers.dev/live/71/playlist.m3u8",
+"url":"http://dootvz.ddns.net:25461/live/skycos3/aa2233/132.m3u8",
 "referer":"https://github.com/",
 "info":"Server m7smarter",
 "playInNatPlayer":"true"},
@@ -28,7 +28,7 @@
 {
 "name":"CCM",
 "image":"https://static.wikia.nocookie.net/logopedia/images/b/b8/CCM_new_Logo.png",
-"url":"https://hls.iptv-th.workers.dev/live/34/playlist.m3u8",
+"url":"http://dootvz.ddns.net:25461/live/skycos3/aa2233/118.m3u8",
 "referer":"https://github.com/",
 "info":"Server m7smarter",
 "playInNatPlayer":"true"},
@@ -36,23 +36,44 @@
 {
 "name":"True Thai Film",
 "image":"https://f.ptcdn.info/630/082/000/s5lmjg1iv8pJ1H6zkOa92-o.png",
-"url":"https://hls.iptv-th.workers.dev/live/117/playlist.m3u8",
-"referer":"https://github.com/",
+"url":"http://dootvz.ddns.net:25461/live/skycos3/aa2233/121.m3u8",
+"referer":"http://dootvz.ddns.net:25461/live/",
 "info":"Server m7smarter",
 "playInNatPlayer":"true"},
 
+{
+"name":"HBO HIT",
+"image":"https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_425_305",
+"url":"http://dootvz.ddns.net:25461/live/skycos3/aa2233/133.m3u8",
+"referer":"http://dootvz.ddns.net:25461/live/",
+"info":"Server m7smarter",
+"playInNatPlayer":"true"},
 
-
+{
+"name":"TRUE MOVIE HIT",
+"image":"https://static.wikia.nocookie.net/logos/images/3/30/True_Movie_Hits_logo.png/revision/latest/scale-to-width-down/284?cb=20240416043110&path-prefix=vi",
+"url":"http://dootvz.ddns.net:25461/live/skycos3/aa2233/124.m3u8",
+"referer":"http://dootvz.ddns.net:25461/live/",
+"info":"Server m7smarter",
+"playInNatPlayer":"true"},
 
 {
 "name":"mono29",
 "image":"https://mthai.com/app/uploads/2021/01/mono29_logo.png",
-"url":"https://hls.iptv-th.workers.dev/live/134/playlist.m3u8",
+"url":"http://103.114.203.129:8080//live/toom/12345/14.m3u8",
 "referer": "https://udn-streamer1.cdn.3bbtv.com:8443/&userAgent=exo_player",
 "info":"(อัพเดท/5/2/26) by neti",
 "embed": "",
 "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
 
+{
+"name":"AXn",
+"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1280px-AXN_logo_%282015%29.svg.png",
+"url":"http://119.82.250.109:8080/nl.m3u8?id=1007",
+"referer": "https://udn-streamer1.cdn.3bbtv.com:8443/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
 
 
 {
