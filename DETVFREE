@@ -90,7 +90,13 @@
 "playInNatPlayer":"true"},
 
 
-
+{
+"name":"Channel 8 THAILAND",
+"image":"http://www.channel8thailand.com/img/18378709_1492777084098686_554998105_o.png",
+"url":"https://cdn-th-vip.livestreaming.in.th/ch8/ch8/playlist.m3u8",
+"referer":"http://www.channel8thailand.com/&userAgent=exo_player",
+"info":"Server famel",
+"playInNatPlayer":"true"},
 
 
 
