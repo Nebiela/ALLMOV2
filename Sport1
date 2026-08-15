@@ -256,36 +256,34 @@
 "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
 
 
-{
-"name":" PlaySport 66",
-"image":"https://static.naewna.com/uploads/news/source/702897.jpg",
-"url":"http://103.114.203.129:8080//live/toom/12345/78.m3u8",
-"referer": "http://dootvz.ddns.net:25461/GOLF&userAgent=exo_player",
-"info":"(อัพเดท/5/2/26) by neti",
-"embed": "",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
-
-
 
 {
-"name":"BEIN1 test",
-"image":"https://pub-d2271b7e7a9d49f3975373b5a8623442.r2.dev/importedmedia/blogmedia-61780.png",
-"url":"https://cdnsv1.cdncloudbot.com/ball67/bein1/playlist.m3u8",
-"referer": "https://ball67.com/&userAgent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+"name":"True Premier Football 3",
+"image":"https://img.allfootballapp.com/www/M00/36/64/720x-/-/-/rB8CLFzFVtaAU1FjAADLFJJXf-Q203.jpg.webp",
+"url":"https://cdn2.stream.atmflix.live/atmflixlive/tpf3/playlist.m3u8",
+"referer": "https://atmflix.live/",
 "info":"(อัพเดท/5/2/26) by neti",
 "embed": "",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36", "playInNatPlayer": "true"},
 
 
 {
-"name":"BEIN2 test",
-"image":"https://pub-d2271b7e7a9d49f3975373b5a8623442.r2.dev/importedmedia/blogmedia-61780.png",
-"url":"https://cdnsv1.cdncloudbot.com/ball67/bein2/playlist.m3u8",
-"referer": "https://ball67.com/&userAgent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+"name":"True Premier Football 4",
+"image":"https://img.allfootballapp.com/www/M00/36/64/720x-/-/-/rB8CLFzFVtaAU1FjAADLFJJXf-Q203.jpg.webp",
+"url":"https://cdn2.stream.atmflix.live/atmflixlive/tpf4/playlist.m3u8",
+"referer": "https://atmflix.live/",
 "info":"(อัพเดท/5/2/26) by neti",
 "embed": "",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36", "playInNatPlayer": "true"},
 
+{
+"name":"True Premier Football 5",
+"image":"https://img.allfootballapp.com/www/M00/36/64/720x-/-/-/rB8CLFzFVtaAU1FjAADLFJJXf-Q203.jpg.webp",
+"url":"https://cdn2.stream.atmflix.live/atmflixlive/tpf5/playlist.m3u8",
+"referer": "https://atmflix.live/",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36", "playInNatPlayer": "true"},
 
 
 
