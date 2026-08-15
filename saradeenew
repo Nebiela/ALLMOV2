@@ -1,0 +1,41 @@
+{
+ "name": "ทีวี&TV บันเทิง",
+ "author": "ดูฟรี! Copyright by Neti",
+"url": "https://cdn.jsdelivr.net/gh/Nebiela/ALLMOV2@main/DETVFREE",
+ "image": "https://nbcpalmsprings.com/wp-content/uploads/sites/8/2021/12/BEST-MOVIES-OF-2021.jpeg",
+ "info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+ "stations": [
+
+
+{
+"name":"สำรวจโลก",
+"image":"https://cdn.imgchest.com/files/5944e14c1b6f.webp",
+"url":"https://cdn2.stream.atmflix.live/atmflixlive/samrujlok/playlist.m3u8",
+"referer":"https://atmflix.live/",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36": "true"},
+
+
+{
+"name":"Discovery",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png",
+"url":"https://iron1.jarvisx1.cfd/disco/usergenrxljmx9su.m3u8",
+"referer":"https://atmflix.live/",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36": "true"},
+
+{
+"name":"animalshow",
+"image":"https://static.uflixtv.cc/images/tv/png/th-ais-samrujlok.png",
+"url":"https://live3.inwstream.com/transcoder_F1/animalshow_inwiptv.stream/chunks.m3u8",
+"referer":"https://atmflix.live/",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36": "true"},
+
+
+
+]
+}
