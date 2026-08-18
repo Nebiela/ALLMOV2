@@ -1,14 +1,14 @@
 {
 "name": "NEWTV หนัง&กีฬา",
 "author": "อัปเดตลิงก์ใหม่ https://shorturl.asia/hIQGE",
-"url": "https://github.com/Nebiela/ALLMOV2/raw/refs/heads/main/All%20Menu",
+"url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/All%20Menu",
 "image": "https://cdn.jsdelivr.net/gh/Nebiela/ALLMOV2@main/logo.png",
 "groups": [
 
 {
 "name": "กีฬา SportTV1",
 "image": "https://cdn-sdotid.adg.id/images/746ed9ee-863e-408a-9b4a-0a445d9fb7cc_1280x720.webp.jpeg",
-"url": "https://github.com/Nebiela/ALLMOV2/raw/refs/heads/main/Sport1",
+"url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/Sport1",
 "stations": [
 ]
 }	,
@@ -22,7 +22,7 @@
 {
 "name": "Movie หนังใหม่ (2026)",
 "image": "https://i.ytimg.com/vi/UXcF3HXrcpc/hq720.jpg",
-"url": "https://github.com/Nebiela/ALLMOV2/raw/refs/heads/main/Mov2025",
+"url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/Mov2025",
 "stations": [
 ]
 }	,
@@ -99,7 +99,7 @@
 {
 "name": "สาระคดี สำรวจโลก",
 "image": "https://i.ytimg.com/vi/_TWQxGFH36o/hq720.jpg",
-"url": "https://github.com/Nebiela/ALLMOV2/raw/refs/heads/main/Sarakadeenew",
+"url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/Sarakadeenew",
 "stations": [
 ]
 }	,
