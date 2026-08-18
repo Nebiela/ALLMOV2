@@ -85,7 +85,7 @@
 {
 "name": "MOVIE&TV บันเทิง",
 "image": "https://img.magnific.com/free-vector/home-movie-background-with-popcorn_1419-1852.jpg",
-"url": "https://cdn.jsdelivr.net/gh/Nebiela/ALLMOV2@main/TV",
+"url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/TV",
 "stations": [
 ]
 }	,
