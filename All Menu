@@ -22,7 +22,7 @@
 {
 "name": "Movie หนังใหม่ (2026)",
 "image": "https://i.ytimg.com/vi/UXcF3HXrcpc/hq720.jpg",
-"url": "https://cdn.jsdelivr.net/gh/Nebiela/ALLMOV2@main/Mov2025",
+"url": "https://github.com/Nebiela/ALLMOV2/raw/refs/heads/main/Mov2025",
 "stations": [
 ]
 }	,
