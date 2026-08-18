@@ -1,0 +1,58 @@
+{
+ "name": "สารคดี",
+ "author": "ดูฟรี! Copyright by Neti",
+"url": "",
+ "image": "https://nbcpalmsprings.com/wp-content/uploads/sites/8/2021/12/BEST-MOVIES-OF-2021.jpeg",
+ "info":"!!!ฟรี!!! ดูฟรีกันไป ดับตามนั้น!!!",
+ "stations": [
+
+{
+"name":"Discovery Asia",
+"image":"https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch209_160_115",
+"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=discoveryasia",
+"referer":"https://movieproxy.tawatchai250958.workers.dev/&userAgent=exo_player",
+"info":"Server famel",
+"playInNatPlayer":"true"},
+
+{
+"name":"สำรวจโลก",
+"image":"https://i0.wp.com/www.nextsteptv.com/wp-content/uploads/2016/07/cropped-SRL_LOGO_2016.png?resize=300%2C300",
+"url":"http://dootvz.ddns.net:25461/live/skycos3/aa2233/116.m3u8",
+"referer":"http://dootvz.ddns.net/&userAgent=exo_player",
+"info":"Server famel",
+"playInNatPlayer":"true"},
+
+
+{
+"name":"Animal",
+"image":"https://i.ibb.co/bMtB5NKS/logo-animal.png",
+"url":"http://49.0.64.96:8007/Animal",
+"referer":"http://49.0.64.96/&userAgent=exo_player",
+"info":"Server famel",
+"playInNatPlayer":"true"},
+
+
+{
+"name":"WSCI",
+"image":"https://i.ibb.co/gQLyLmK/logo-seience.png",
+"url":"http://49.0.64.96:8007/WSCI",
+"referer":"http://49.0.64.9/&userAgent=exo_player",
+"info":"Server famel",
+"playInNatPlayer":"true"},
+
+
+{
+"name":"True Xzyte",
+"image":"https://upload.wikimedia.org/wikipedia/commons/7/74/True_X-zyte.png",
+"url":"http://dootvz.ddns.net:25461/live/skycos3/aa2233/129.m3u8",
+"referer":"http://dootvz.ddns.net/&userAgent=exo_player",
+"info":"Server famel",
+"playInNatPlayer":"true"},
+
+
+
+
+
+
+]
+}
