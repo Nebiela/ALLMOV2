@@ -8,6 +8,26 @@
 
 
 {
+"name":"HBO",
+"image":"https://cdn7.madoball.com/upload/2820.jpg",
+"url":"https://godlivetv.io/madoball/2820/playlist.m3u8",
+"referer": "https://madoball.com/c&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+{
+"name":"HBO",
+"image":"https://cdn7.madoball.com/upload/2821.jpg",
+"url":"https://godlivetv.io/madoball/2821/playlist.m3u8",
+"referer": "https://madoball.com/c&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+{
 "name":"HBO1",
 "image":"https://epg.112114.xyz/logo/HBO.png",
 "url":"http://dootvz.ddns.net:25461/live/skycos3/aa2233/132.m3u8",
