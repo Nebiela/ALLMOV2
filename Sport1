@@ -9,6 +9,35 @@
 
 
 {
+"name":"tsp1",
+"image":"https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
+"url":"https://kicksball.com/player/tsp1",
+"referer": "https://kicksball.com/",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36", "playInNatPlayer": "true"},
+
+{
+"name":"tsp2",
+"image":"https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
+"url":"https://kicksball.com/player/tsp2",
+"referer": "https://kicksball.com/",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36", "playInNatPlayer": "true"},
+
+{
+"name":"tsp3",
+"image":"https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
+"url":"https://kicksball.com/player/tsp3",
+"referer": "https://kicksball.com/",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36", "playInNatPlayer": "true"},
+
+
+
+{
 "name":"monomax1",
 "image":"https://www.mono.co.th/wp-content/uploads/2025/06/Monomax-2.png",
 "url":"http://tv.123tv.to:8080/besipopoc/t6eP5vHM2B/130731",
