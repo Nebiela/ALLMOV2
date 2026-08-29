@@ -9,28 +9,37 @@
 
 
 {
-"name":"tsp1",
-"image":"https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
-"url":"https://kicksball.com/tv/truesports-1-74",
-"referer": "https://kicksball.com/",
+"name":"Sky Sport Premiere League",
+"image":"http://s3.i3ns.net:2052/portal/picon/2023-05/a40598e0471c3b4af37929ff394e3137.svg",
+"url":"http://tv.cloudcdn.me:80/live.ts?channelId=125660&uid=757&deviceMac=00:1A:79:04:55:C4",
+"referer": "http://tv.cloudcdn.me/",
 "info":"(อัพเดท/5/2/26) by neti",
 "embed": "",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36", "playInNatPlayer": "true"},
 
 {
-"name":"tsp2",
-"image":"https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
-"url":"https://kicksball.com/tv/truesports-2-43",
-"referer": "https://kicksball.com/",
+"name":"DAZN 2 FHD",
+"image":"http://s3.i3ns.net:2052/portal/picon/2026-02/c771903f1179360fee4f87520050d2aa.png",
+"url":"http://tv.cloudcdn.me:80/live.ts?channelId=125593&uid=757&deviceMac=00:1A:79:04:55:C4",
+"referer": "http://tv.cloudcdn.me/",
 "info":"(อัพเดท/5/2/26) by neti",
 "embed": "",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36", "playInNatPlayer": "true"},
 
 {
-"name":"tsp3",
-"image":"https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
-"url":"https://kicksball.com/tv/truesports-3-76",
-"referer": "https://kicksball.com/",
+"name":"DAZN 1 FHD",
+"image":"http://s3.i3ns.net:2052/portal/picon/2026-02/4531d1f46820a705eeb38a16d0994e70.png",
+"url":"http://tv.cloudcdn.me:80/live.ts?channelId=125592&uid=757&deviceMac=00:1A:79:04:55:C4",
+"referer": "http://tv.cloudcdn.me/",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36", "playInNatPlayer": "true"},
+
+{
+"name":"DAZN 1 FHD",
+"image":"http://s3.i3ns.net:2052/portal/picon/2026-02/4531d1f46820a705eeb38a16d0994e70.png",
+"url":"http://tv.cloudcdn.me:80/live.ts?channelId=125592&uid=757&deviceMac=00:1A:79:04:55:C4",
+"referer": "http://tv.cloudcdn.me/",
 "info":"(อัพเดท/5/2/26) by neti",
 "embed": "",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36", "playInNatPlayer": "true"},
