@@ -7,6 +7,14 @@
  "stations": [
 
 
+{
+"name":"LFC TV uk",
+"image":"http://s3.i3ns.net:2052/portal/picon/2023-05/a40598e0471c3b4af37929ff394e3137.svg",
+"url":"http://tv.cloudcdn.me:80/live.ts?channelId=91138&uid=757&deviceMac=00:1A:79:04:55:C4",
+"referer": "http://tv.cloudcdn.me/",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36", "playInNatPlayer": "true"},
 
 {
 "name":"Sky Sport Premiere League",
