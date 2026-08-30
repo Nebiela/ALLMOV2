@@ -9,20 +9,10 @@
 
 
 
-{
-"name":"bein1",
-"image":"https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1664500365.png&s=11f25795e571",
-"url":"https://dov.streaming-api.xyz/kicksballcom/bein1/chunks.m3u8",
-"referer": "https://kicksball.com/&userAgent=exo_player",
-"info":"(อัพเดท/5/2/26) by neti",
-"embed": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36", "playInNatPlayer": "true"},
-
-
 
 {
-"name":"LFC TV สด",
-"image":"http://s3.i3ns.net:2052/portal/picon/2023-05/a40598e0471c3b4af37929ff394e3137.svg",
+"name":"monomax สด",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbbk8mLnY5vMvsv-HdzTgMF9kfZfrat4OCrOJEIHyPHro89eAeHUY-G7v8&s=10",
 "url":"https://silentpacketrelay.xyz/maxsport1/tracks-v1a1/mono.m3u8",
 "referer": "https://silentpacketrelay.xyz/",
 "info":"(อัพเดท/5/2/26) by neti",
@@ -33,7 +23,7 @@
 
 {
 "name":"LFC TV uk",
-"image":"http://s3.i3ns.net:2052/portal/picon/2023-05/a40598e0471c3b4af37929ff394e3137.svg",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7xLFoUp3nGfIoipCzZb8w6HIofrfzpv-nojMj_QgR&s=10",
 "url":"http://tv.cloudcdn.me:80/live.ts?channelId=91138&uid=757&deviceMac=00:1A:79:04:55:C4",
 "referer": "http://tv.cloudcdn.me/",
 "info":"(อัพเดท/5/2/26) by neti",
@@ -42,7 +32,7 @@
 
 {
 "name":"Sky Sport Premiere League",
-"image":"http://s3.i3ns.net:2052/portal/picon/2023-05/a40598e0471c3b4af37929ff394e3137.svg",
+"image":"https://archive.org/download/SkySportsPremierLeague_201708/sky%20sports%20premier%20league.png",
 "url":"http://tv.cloudcdn.me:80/live.ts?channelId=125660&uid=757&deviceMac=00:1A:79:04:55:C4",
 "referer": "http://tv.cloudcdn.me/",
 "info":"(อัพเดท/5/2/26) by neti",
