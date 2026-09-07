@@ -6,12 +6,17 @@
 "url"               :     "",
 "stations" : [
 
-
+{
+"name":"The Mongoose (2026)",
+"image":"https://www.24-hdx.com/wp-content/uploads/2026/09/The-Mongoose-2026-187x269.png",
+"url":"https://main.24playerhd.com/m3u8/3d99240e2e38e977eaa4675b/3d99240e2e38e977eaa4675b438.m3u8",
+"referer":"https://www.24-hdx.com/"
+},
 {
 "name":"หมัดเทวา ท้าเดิมพัน 2026",
 "image":"https://madaboutmoviez.com/wp-content/uploads/God-Skin-%E0%B8%AB%E0%B8%A1%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%97%E0%B8%A7%E0%B8%B2-%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B8%B1%E0%B8%99.jpg",
 "url":"https://enjoy24cdn.com/hlsr2/e261703cb30101757c6b4e2108fd13c1/master.m3u8",
-"referer":"https://allinhd.com/"
+"referer":"https://www.24-hdx.com/"
 },
 {
 "name":"คนระห่ำห้ามรอด 2026",
